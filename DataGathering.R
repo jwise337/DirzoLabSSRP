@@ -23,15 +23,32 @@ dat3 <- authors_refine(dat2$review, dat2$prelim)
 
 sub <- sample_n(dat3, 10)
 
+dat3$year <- 2020
+
 # georeference the author locations
 dat4 <- authors_georef(dat3)
 
 # generate a map of coauthorships; this is only one of the five possible visualizations  
 plot_net_address(dat4$addresses)
 
-#stacked barplot
-ggplot (dat3, aes (x = [???], fill = country)) + 
-  geom_bar (position = "fill")
+
+## Statistical analysis ####
+write.csv(dat3, "dat3.csv")
+head (dat3) 
+
+dat3 <- read.csv ("dat3.csv")
+
+#subset first author
+
+#standardize country name + merge country income
+
+#stacked bar plot + test
+
+#proportion analysis + test
+
+
+
+
 
 ## Running maps ####
 # From https://sarahpenir.github.io/r/making-maps/
