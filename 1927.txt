@@ -1,0 +1,1905 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Weaver, JE
+AF Weaver, JE
+TI Some ecological aspects of agriculture in the prairie
+SO ECOLOGY
+LA English
+DT Article
+C1 Univ Nebraska, Lincoln, NE USA.
+NR 26
+TC 3
+Z9 3
+U1 0
+U2 0
+PU ECOLOGICAL SOC AMER
+PI WASHINGTON
+PA 1707 H ST NW, STE 400, WASHINGTON, DC 20006-3915 USA
+SN 0012-9658
+J9 ECOLOGY
+JI Ecology
+PY 1927
+VL 8
+BP 1
+EP 17
+DI 10.2307/1929382
+PG 17
+WC Ecology
+SC Environmental Sciences & Ecology
+GA V02EZ
+UT WOS:000200148100001
+DA 2020-07-17
+ER
+
+PT J
+AU Howell, AB
+AF Howell, AB
+TI On the faunal position of the Pacific Coast of the United States
+SO ECOLOGY
+LA English
+DT Article
+C1 US Biol Survey, Washington, DC USA.
+NR 0
+TC 1
+Z9 1
+U1 0
+U2 1
+PU ECOLOGICAL SOC AMER
+PI WASHINGTON
+PA 1707 H ST NW, STE 400, WASHINGTON, DC 20006-3915 USA
+SN 0012-9658
+J9 ECOLOGY
+JI Ecology
+PY 1927
+VL 8
+BP 18
+EP 26
+DI 10.2307/1929383
+PG 9
+WC Ecology
+SC Environmental Sciences & Ecology
+GA V02EZ
+UT WOS:000200148100002
+DA 2020-07-17
+ER
+
+PT J
+AU Shreve, F
+AF Shreve, F
+TI The vegetation of a coastal mountain range
+SO ECOLOGY
+LA English
+DT Article
+C1 Desert Lab, Tucson, AZ USA.
+NR 4
+TC 30
+Z9 30
+U1 1
+U2 8
+PU ECOLOGICAL SOC AMER
+PI WASHINGTON
+PA 1707 H ST NW, STE 400, WASHINGTON, DC 20006-3915 USA
+SN 0012-9658
+J9 ECOLOGY
+JI Ecology
+PY 1927
+VL 8
+BP 27
+EP 44
+DI 10.2307/1929384
+PG 18
+WC Ecology
+SC Environmental Sciences & Ecology
+GA V02EZ
+UT WOS:000200148100003
+DA 2020-07-17
+ER
+
+PT J
+AU Babcock, KW
+AF Babcock, KW
+TI The European corn borer Pyrausta nubilalis Hubn.: I. A discussion of its
+   dormant period
+SO ECOLOGY
+LA English
+DT Article
+NR 10
+TC 19
+Z9 19
+U1 0
+U2 0
+PU ECOLOGICAL SOC AMER
+PI WASHINGTON
+PA 1707 H ST NW, STE 400, WASHINGTON, DC 20006-3915 USA
+SN 0012-9658
+J9 ECOLOGY
+JI Ecology
+PY 1927
+VL 8
+BP 45
+EP 59
+DI 10.2307/1929385
+PG 15
+WC Ecology
+SC Environmental Sciences & Ecology
+GA V02EZ
+UT WOS:000200148100004
+DA 2020-07-17
+ER
+
+PT J
+AU Allen, WE
+AF Allen, WE
+TI Remarks on the need for life history studies of marine plankton animals
+SO ECOLOGY
+LA English
+DT Article
+NR 2
+TC 0
+Z9 0
+U1 0
+U2 1
+PU ECOLOGICAL SOC AMER
+PI WASHINGTON
+PA 1707 H ST NW, STE 400, WASHINGTON, DC 20006-3915 USA
+SN 0012-9658
+J9 ECOLOGY
+JI Ecology
+PY 1927
+VL 8
+BP 60
+EP 62
+DI 10.2307/1929386
+PG 3
+WC Ecology
+SC Environmental Sciences & Ecology
+GA V02EZ
+UT WOS:000200148100005
+DA 2020-07-17
+ER
+
+PT J
+AU Kashkarov, D
+   Lein, L
+AF Kashkarov, D
+   Lein, L
+TI The yellow ground squirrel of Turkestan, Cynomys fulvus oxianus Thomas
+SO ECOLOGY
+LA English
+DT Article
+C1 Middle Asiat State Univ, Tashkent, Turkestan.
+NR 14
+TC 10
+Z9 10
+U1 0
+U2 1
+PU ECOLOGICAL SOC AMER
+PI WASHINGTON
+PA 1707 H ST NW, STE 400, WASHINGTON, DC 20006-3915 USA
+SN 0012-9658
+J9 ECOLOGY
+JI Ecology
+PY 1927
+VL 8
+BP 63
+EP 72
+DI 10.2307/1929387
+PG 10
+WC Ecology
+SC Environmental Sciences & Ecology
+GA V02EZ
+UT WOS:000200148100006
+DA 2020-07-17
+ER
+
+PT J
+AU Philip, CB
+AF Philip, CB
+TI Diurnal fluctuations in the hydrogen ion activity of a Minnesota lake.
+SO ECOLOGY
+LA English
+DT Article
+C1 Univ Minnesota, Minneapolis, MN USA.
+NR 35
+TC 13
+Z9 13
+U1 0
+U2 0
+PU ECOLOGICAL SOC AMER
+PI WASHINGTON
+PA 1707 H ST NW, STE 400, WASHINGTON, DC 20006-3915 USA
+SN 0012-9658
+J9 ECOLOGY
+JI Ecology
+PY 1927
+VL 8
+BP 73
+EP 89
+DI 10.2307/1929388
+PG 17
+WC Ecology
+SC Environmental Sciences & Ecology
+GA V02EZ
+UT WOS:000200148100007
+DA 2020-07-17
+ER
+
+PT J
+AU Klugh, AB
+AF Klugh, AB
+TI Light penetration into the bay of Fundy and into Chamcook Lake, New
+   Brunswick
+SO ECOLOGY
+LA English
+DT Article
+C1 Queens Univ, Kingston, ON, Canada.
+NR 7
+TC 6
+Z9 6
+U1 0
+U2 0
+PU ECOLOGICAL SOC AMER
+PI WASHINGTON
+PA 1707 H ST NW, STE 400, WASHINGTON, DC 20006-3915 USA
+SN 0012-9658
+J9 ECOLOGY
+JI Ecology
+PY 1927
+VL 8
+BP 90
+EP 93
+DI 10.2307/1929389
+PG 4
+WC Ecology
+SC Environmental Sciences & Ecology
+GA V02EZ
+UT WOS:000200148100008
+DA 2020-07-17
+ER
+
+PT J
+AU Whelan, DB
+AF Whelan, DB
+TI The Winter fauna of the bunch-grasses in eastern Kansas
+SO ECOLOGY
+LA English
+DT Article
+C1 Univ Nebraska, Lincoln, NE USA.
+NR 10
+TC 7
+Z9 7
+U1 0
+U2 0
+PU ECOLOGICAL SOC AMER
+PI WASHINGTON
+PA 1707 H ST NW, STE 400, WASHINGTON, DC 20006-3915 USA
+SN 0012-9658
+J9 ECOLOGY
+JI Ecology
+PY 1927
+VL 8
+BP 94
+EP 97
+DI 10.2307/1929390
+PG 4
+WC Ecology
+SC Environmental Sciences & Ecology
+GA V02EZ
+UT WOS:000200148100009
+DA 2020-07-17
+ER
+
+PT J
+AU Creaser, CW
+   Brown, HW
+AF Creaser, CW
+   Brown, HW
+TI The hydrogen-ion concentration of brook trout waters of Northern Lower
+   Michigan
+SO ECOLOGY
+LA English
+DT Article
+C1 Johns Hopkins Univ, Baltimore, MD USA.
+NR 4
+TC 4
+Z9 4
+U1 0
+U2 1
+PU ECOLOGICAL SOC AMER
+PI WASHINGTON
+PA 1707 H ST NW, STE 400, WASHINGTON, DC 20006-3915 USA
+SN 0012-9658
+J9 ECOLOGY
+JI Ecology
+PY 1927
+VL 8
+BP 98
+EP 105
+DI 10.2307/1929391
+PG 8
+WC Ecology
+SC Environmental Sciences & Ecology
+GA V02EZ
+UT WOS:000200148100010
+DA 2020-07-17
+ER
+
+PT J
+AU Denny, FE
+AF Denny, FE
+TI Field method for determining the saltiness of brackish water
+SO ECOLOGY
+LA English
+DT Article
+NR 1
+TC 2
+Z9 3
+U1 0
+U2 0
+PU ECOLOGICAL SOC AMER
+PI WASHINGTON
+PA 1707 H ST NW, STE 400, WASHINGTON, DC 20006-3915 USA
+SN 0012-9658
+J9 ECOLOGY
+JI Ecology
+PY 1927
+VL 8
+BP 106
+EP 112
+DI 10.2307/1929392
+PG 7
+WC Ecology
+SC Environmental Sciences & Ecology
+GA V02EZ
+UT WOS:000200148100011
+DA 2020-07-17
+ER
+
+PT J
+AU Robertson, C
+AF Robertson, C
+TI Flowers and insects. XXIV
+SO ECOLOGY
+LA English
+DT Article
+NR 37
+TC 2
+Z9 2
+U1 1
+U2 4
+PU ECOLOGICAL SOC AMER
+PI WASHINGTON
+PA 1707 H ST NW, STE 400, WASHINGTON, DC 20006-3915 USA
+SN 0012-9658
+J9 ECOLOGY
+JI Ecology
+PY 1927
+VL 8
+BP 113
+EP 132
+DI 10.2307/1929393
+PG 20
+WC Ecology
+SC Environmental Sciences & Ecology
+GA V02EZ
+UT WOS:000200148100012
+DA 2020-07-17
+ER
+
+PT J
+AU Cook, WC
+AF Cook, WC
+TI Quantitative animal ecology
+SO ECOLOGY
+LA English
+DT Article
+C1 Univ Minnesota, Minneapolis, MN USA.
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 2
+PU ECOLOGICAL SOC AMER
+PI WASHINGTON
+PA 1707 H ST NW, STE 400, WASHINGTON, DC 20006-3915 USA
+SN 0012-9658
+J9 ECOLOGY
+JI Ecology
+PY 1927
+VL 8
+BP 137
+EP 138
+DI 10.2307/1929396
+PG 2
+WC Ecology
+SC Environmental Sciences & Ecology
+GA V02EZ
+UT WOS:000200148100015
+DA 2020-07-17
+ER
+
+PT J
+AU Jewell, ME
+AF Jewell, ME
+TI Ground water as a possible factor in lowering dissolved oxygen in the
+   deeper water of lakes
+SO ECOLOGY
+LA English
+DT Article
+NR 0
+TC 1
+Z9 1
+U1 0
+U2 0
+PU ECOLOGICAL SOC AMER
+PI WASHINGTON
+PA 1707 H ST NW, STE 400, WASHINGTON, DC 20006-3915 USA
+SN 0012-9658
+J9 ECOLOGY
+JI Ecology
+PY 1927
+VL 8
+BP 142
+EP 143
+DI 10.2307/1929399
+PG 2
+WC Ecology
+SC Environmental Sciences & Ecology
+GA V02EZ
+UT WOS:000200148100018
+DA 2020-07-17
+ER
+
+PT J
+AU Hubert, HE
+AF Hubert, HE
+TI On the occurrence of a mite imbedded in the skin of a frog (Rana
+   sphenocephala)
+SO ECOLOGY
+LA English
+DT Article
+C1 Ranara Biol Supply Co, New Orleans, LA USA.
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU ECOLOGICAL SOC AMER
+PI WASHINGTON
+PA 1707 H ST NW, STE 400, WASHINGTON, DC 20006-3915 USA
+SN 0012-9658
+J9 ECOLOGY
+JI Ecology
+PY 1927
+VL 8
+BP 143
+EP 144
+DI 10.2307/1929400
+PG 2
+WC Ecology
+SC Environmental Sciences & Ecology
+GA V02EZ
+UT WOS:000200148100019
+DA 2020-07-17
+ER
+
+PT J
+AU Shelford, VE
+AF Shelford, VE
+TI Naturalist's guide to the Americas
+SO ECOLOGY
+LA English
+DT Article
+C1 Univ Illinois, Urbana, IL USA.
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU ECOLOGICAL SOC AMER
+PI WASHINGTON
+PA 1707 H ST NW, STE 400, WASHINGTON, DC 20006-3915 USA
+SN 0012-9658
+J9 ECOLOGY
+JI Ecology
+PY 1927
+VL 8
+BP 144
+EP 144
+DI 10.2307/1929401
+PG 1
+WC Ecology
+SC Environmental Sciences & Ecology
+GA V02EZ
+UT WOS:000200148100020
+DA 2020-07-17
+ER
+
+PT J
+AU Shantz, HL
+AF Shantz, HL
+TI Drought resistance and soil moisture
+SO ECOLOGY
+LA English
+DT Article
+NR 3
+TC 41
+Z9 41
+U1 0
+U2 9
+PU ECOLOGICAL SOC AMER
+PI WASHINGTON
+PA 1707 H ST NW, STE 400, WASHINGTON, DC 20006-3915 USA
+SN 0012-9658
+J9 ECOLOGY
+JI Ecology
+PY 1927
+VL 8
+BP 145
+EP 157
+DI 10.2307/1928954
+PG 13
+WC Ecology
+SC Environmental Sciences & Ecology
+GA V02EZ
+UT WOS:000200148100021
+DA 2020-07-17
+ER
+
+PT J
+AU Cook, WC
+AF Cook, WC
+TI Studies in the ecology of Montana cutworms (Phalaenidae) - Geographic
+   distribution, seasonal succession and local distribution of moths as
+   affected by cultivation in the " Nigger Hollow " area
+SO ECOLOGY
+LA English
+DT Article
+C1 Univ Montana, Bozeman, MT USA.
+NR 1
+TC 10
+Z9 10
+U1 0
+U2 0
+PU ECOLOGICAL SOC AMER
+PI WASHINGTON
+PA 1707 H ST NW, STE 400, WASHINGTON, DC 20006-3915 USA
+SN 0012-9658
+J9 ECOLOGY
+JI Ecology
+PY 1927
+VL 8
+BP 158
+EP 173
+PG 16
+WC Ecology
+SC Environmental Sciences & Ecology
+GA V02EZ
+UT WOS:000200148100022
+DA 2020-07-17
+ER
+
+PT J
+AU Klugh, AB
+AF Klugh, AB
+TI A land model of the ecological photometer
+SO ECOLOGY
+LA English
+DT Article
+C1 Queens Univ, Kingston, ON, Canada.
+NR 0
+TC 1
+Z9 1
+U1 0
+U2 1
+PU ECOLOGICAL SOC AMER
+PI WASHINGTON
+PA 1707 H ST NW, STE 400, WASHINGTON, DC 20006-3915 USA
+SN 0012-9658
+J9 ECOLOGY
+JI Ecology
+PY 1927
+VL 8
+BP 174
+EP 176
+DI 10.2307/1928956
+PG 3
+WC Ecology
+SC Environmental Sciences & Ecology
+GA V02EZ
+UT WOS:000200148100023
+DA 2020-07-17
+ER
+
+PT J
+AU Babcock, KW
+AF Babcock, KW
+TI The European corn borer, Pyrausta nubilalis Hubn.: II A discussion of
+   its seasonal history in relation to various climates
+SO ECOLOGY
+LA English
+DT Article
+NR 9
+TC 8
+Z9 8
+U1 0
+U2 3
+PU ECOLOGICAL SOC AMER
+PI WASHINGTON
+PA 1707 H ST NW, STE 400, WASHINGTON, DC 20006-3915 USA
+SN 0012-9658
+J9 ECOLOGY
+JI Ecology
+PY 1927
+VL 8
+BP 177
+EP 193
+DI 10.2307/1928957
+PG 17
+WC Ecology
+SC Environmental Sciences & Ecology
+GA V02EZ
+UT WOS:000200148100024
+DA 2020-07-17
+ER
+
+PT J
+AU Payne, NM
+AF Payne, NM
+TI Two factors of heat energy involved in insect cold hardiness
+SO ECOLOGY
+LA English
+DT Article
+C1 Univ Penn, Zool Lab, Philadelphia, PA USA.
+NR 7
+TC 11
+Z9 11
+U1 0
+U2 0
+PU ECOLOGICAL SOC AMER
+PI WASHINGTON
+PA 1707 H ST NW, STE 400, WASHINGTON, DC 20006-3915 USA
+SN 0012-9658
+J9 ECOLOGY
+JI Ecology
+PY 1927
+VL 8
+BP 194
+EP 196
+DI 10.2307/1928958
+PG 3
+WC Ecology
+SC Environmental Sciences & Ecology
+GA V02EZ
+UT WOS:000200148100025
+DA 2020-07-17
+ER
+
+PT J
+AU Wherry, ET
+AF Wherry, ET
+TI Divergent soil reaction preferences of related plants
+SO ECOLOGY
+LA English
+DT Article
+NR 25
+TC 9
+Z9 9
+U1 0
+U2 1
+PU ECOLOGICAL SOC AMER
+PI WASHINGTON
+PA 1707 H ST NW, STE 400, WASHINGTON, DC 20006-3915 USA
+SN 0012-9658
+J9 ECOLOGY
+JI Ecology
+PY 1927
+VL 8
+BP 197
+EP 206
+DI 10.2307/1928959
+PG 10
+WC Ecology
+SC Environmental Sciences & Ecology
+GA V02EZ
+UT WOS:000200148100026
+DA 2020-07-17
+ER
+
+PT J
+AU Bird, RD
+AF Bird, RD
+TI A preliminary ecological survey of the district surrounding the
+   Entomological Station at Treesbank, Manitoba
+SO ECOLOGY
+LA English
+DT Article
+C1 Univ Manitoba, Dept Zool, Winnipeg, MB, Canada.
+NR 18
+TC 10
+Z9 11
+U1 0
+U2 0
+PU ECOLOGICAL SOC AMER
+PI WASHINGTON
+PA 1707 H ST NW, STE 400, WASHINGTON, DC 20006-3915 USA
+SN 0012-9658
+J9 ECOLOGY
+JI Ecology
+PY 1927
+VL 8
+BP 207
+EP U7
+DI 10.2307/1928960
+PG 15
+WC Ecology
+SC Environmental Sciences & Ecology
+GA V02EZ
+UT WOS:000200148100027
+DA 2020-07-17
+ER
+
+PT J
+AU Klugh, AB
+   Martin, JR
+AF Klugh, AB
+   Martin, JR
+TI The growth-rate of certain marine algae in relation to depth of
+   submergence
+SO ECOLOGY
+LA English
+DT Article
+C1 Queens Univ, Kingston, ON, Canada.
+NR 25
+TC 9
+Z9 9
+U1 0
+U2 5
+PU ECOLOGICAL SOC AMER
+PI WASHINGTON
+PA 1707 H ST NW, STE 400, WASHINGTON, DC 20006-3915 USA
+SN 0012-9658
+J9 ECOLOGY
+JI Ecology
+PY 1927
+VL 8
+BP 221
+EP 231
+DI 10.2307/1928961
+PG 11
+WC Ecology
+SC Environmental Sciences & Ecology
+GA V02EZ
+UT WOS:000200148100028
+DA 2020-07-17
+ER
+
+PT J
+AU Stantchinsky, VV
+AF Stantchinsky, VV
+TI Some climatic limits in the extension of birds in eastern Europe
+SO ECOLOGY
+LA English
+DT Article
+C1 Univ Smolensk, Zool Lab, Smolensk, Russia.
+NR 9
+TC 1
+Z9 1
+U1 0
+U2 0
+PU ECOLOGICAL SOC AMER
+PI WASHINGTON
+PA 1707 H ST NW, STE 400, WASHINGTON, DC 20006-3915 USA
+SN 0012-9658
+J9 ECOLOGY
+JI Ecology
+PY 1927
+VL 8
+BP 232
+EP 237
+DI 10.2307/1928962
+PG 6
+WC Ecology
+SC Environmental Sciences & Ecology
+GA V02EZ
+UT WOS:000200148100029
+DA 2020-07-17
+ER
+
+PT J
+AU Hayes, WP
+AF Hayes, WP
+TI Prairie insects
+SO ECOLOGY
+LA English
+DT Article
+NR 24
+TC 13
+Z9 14
+U1 0
+U2 1
+PU ECOLOGICAL SOC AMER
+PI WASHINGTON
+PA 1707 H ST NW, STE 400, WASHINGTON, DC 20006-3915 USA
+SN 0012-9658
+J9 ECOLOGY
+JI Ecology
+PY 1927
+VL 8
+BP 238
+EP 250
+DI 10.2307/1928963
+PG 13
+WC Ecology
+SC Environmental Sciences & Ecology
+GA V02EZ
+UT WOS:000200148100030
+DA 2020-07-17
+ER
+
+PT J
+AU Keim, FD
+   Beadle, GW
+AF Keim, FD
+   Beadle, GW
+TI Relation of time of seeding to root development and winter survival of
+   fall seeded grasses and legumes
+SO ECOLOGY
+LA English
+DT Article
+C1 Univ Nebraska, Lincoln, NE USA.
+NR 1
+TC 2
+Z9 2
+U1 0
+U2 1
+PU ECOLOGICAL SOC AMER
+PI WASHINGTON
+PA 1707 H ST NW, STE 400, WASHINGTON, DC 20006-3915 USA
+SN 0012-9658
+J9 ECOLOGY
+JI Ecology
+PY 1927
+VL 8
+BP 251
+EP 264
+DI 10.2307/1928964
+PG 14
+WC Ecology
+SC Environmental Sciences & Ecology
+GA V02EZ
+UT WOS:000200148100031
+DA 2020-07-17
+ER
+
+PT J
+AU Weaver, JE
+AF Weaver, JE
+TI Crop production in India
+SO ECOLOGY
+LA English
+DT Article
+C1 Univ Nebraska, Lincoln, NE USA.
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU ECOLOGICAL SOC AMER
+PI WASHINGTON
+PA 1707 H ST NW, STE 400, WASHINGTON, DC 20006-3915 USA
+SN 0012-9658
+J9 ECOLOGY
+JI Ecology
+PY 1927
+VL 8
+BP 267
+EP 269
+DI 10.2307/1928966
+PG 3
+WC Ecology
+SC Environmental Sciences & Ecology
+GA V02EZ
+UT WOS:000200148100033
+DA 2020-07-17
+ER
+
+PT J
+AU Weese, AO
+AF Weese, AO
+TI Business meetings of the Ecological Society of America at Philadelphia,
+   Pennsylvania - Meeting of December 28, 1926
+SO ECOLOGY
+LA English
+DT Article
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU ECOLOGICAL SOC AMER
+PI WASHINGTON
+PA 1707 H ST NW, STE 400, WASHINGTON, DC 20006-3915 USA
+SN 0012-9658
+J9 ECOLOGY
+JI Ecology
+PY 1927
+VL 8
+BP 271
+EP 279
+PG 9
+WC Ecology
+SC Environmental Sciences & Ecology
+GA V02EZ
+UT WOS:000200148100035
+DA 2020-07-17
+ER
+
+PT J
+AU Taylor, WP
+AF Taylor, WP
+TI Ecology or bio-ecology
+SO ECOLOGY
+LA English
+DT Article
+NR 10
+TC 3
+Z9 3
+U1 0
+U2 0
+PU ECOLOGICAL SOC AMER
+PI WASHINGTON
+PA 1707 H ST NW, STE 400, WASHINGTON, DC 20006-3915 USA
+SN 0012-9658
+J9 ECOLOGY
+JI Ecology
+PY 1927
+VL 8
+BP 280
+EP 281
+DI 10.2307/1928969
+PG 2
+WC Ecology
+SC Environmental Sciences & Ecology
+GA V02EZ
+UT WOS:000200148100036
+DA 2020-07-17
+ER
+
+PT J
+AU Johnson, L
+AF Johnson, L
+TI An instrument for list charting
+SO ECOLOGY
+LA English
+DT Article
+C1 Colorado Agr Expt Stn, Bot Sect, Fort Collins, CO USA.
+NR 0
+TC 3
+Z9 3
+U1 0
+U2 0
+PU ECOLOGICAL SOC AMER
+PI WASHINGTON
+PA 1707 H ST NW, STE 400, WASHINGTON, DC 20006-3915 USA
+SN 0012-9658
+J9 ECOLOGY
+JI Ecology
+PY 1927
+VL 8
+BP 282
+EP 283
+DI 10.2307/1928970
+PG 2
+WC Ecology
+SC Environmental Sciences & Ecology
+GA V02EZ
+UT WOS:000200148100037
+DA 2020-07-17
+ER
+
+PT J
+AU Taylor, N
+AF Taylor, N
+TI Age and area
+SO ECOLOGY
+LA English
+DT Article
+C1 Brooklyn Bot Garden, Brooklyn, NY USA.
+NR 2
+TC 0
+Z9 0
+U1 0
+U2 0
+PU ECOLOGICAL SOC AMER
+PI WASHINGTON
+PA 1707 H ST NW, STE 400, WASHINGTON, DC 20006-3915 USA
+SN 0012-9658
+J9 ECOLOGY
+JI Ecology
+PY 1927
+VL 8
+BP 283
+EP 284
+DI 10.2307/1928971
+PG 2
+WC Ecology
+SC Environmental Sciences & Ecology
+GA V02EZ
+UT WOS:000200148100038
+DA 2020-07-17
+ER
+
+PT J
+AU [Anonymous]
+AF [Anonymous]
+TI A research professorship in forest soils at Cornell University
+SO ECOLOGY
+LA English
+DT Article
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU ECOLOGICAL SOC AMER
+PI WASHINGTON
+PA 1707 H ST NW, STE 400, WASHINGTON, DC 20006-3915 USA
+SN 0012-9658
+J9 ECOLOGY
+JI Ecology
+PY 1927
+VL 8
+BP 284
+EP 284
+PG 1
+WC Ecology
+SC Environmental Sciences & Ecology
+GA V02EZ
+UT WOS:000200148100039
+DA 2020-07-17
+ER
+
+PT J
+AU Transeau, EN
+AF Transeau, EN
+TI Vegetation types and insect devastations - Distribution of the Mexican
+   Bean Beetle and European Corn Borer in Ohio
+SO ECOLOGY
+LA English
+DT Article
+C1 Ohio State Univ, Columbus, OH USA.
+NR 0
+TC 4
+Z9 4
+U1 0
+U2 1
+PU ECOLOGICAL SOC AMER
+PI WASHINGTON
+PA 1707 H ST NW, STE 400, WASHINGTON, DC 20006-3915 USA
+SN 0012-9658
+J9 ECOLOGY
+JI Ecology
+PY 1927
+VL 8
+BP 285
+EP 288
+DI 10.2307/1929330
+PG 4
+WC Ecology
+SC Environmental Sciences & Ecology
+GA V02EZ
+UT WOS:000200148100040
+DA 2020-07-17
+ER
+
+PT J
+AU Jewell, ME
+AF Jewell, ME
+TI Aquatic biology of the prairie
+SO ECOLOGY
+LA English
+DT Article
+NR 9
+TC 23
+Z9 23
+U1 0
+U2 3
+PU ECOLOGICAL SOC AMER
+PI WASHINGTON
+PA 1707 H ST NW, STE 400, WASHINGTON, DC 20006-3915 USA
+SN 0012-9658
+J9 ECOLOGY
+JI Ecology
+PY 1927
+VL 8
+BP 289
+EP 298
+DI 10.2307/1929331
+PG 14
+WC Ecology
+SC Environmental Sciences & Ecology
+GA V02EZ
+UT WOS:000200148100041
+DA 2020-07-17
+ER
+
+PT J
+AU Gleason, HA
+AF Gleason, HA
+TI Further views on the succession-concept
+SO ECOLOGY
+LA English
+DT Article
+NR 26
+TC 164
+Z9 173
+U1 0
+U2 56
+PU ECOLOGICAL SOC AMER
+PI WASHINGTON
+PA 1707 H ST NW, STE 400, WASHINGTON, DC 20006-3915 USA
+SN 0012-9658
+J9 ECOLOGY
+JI Ecology
+PY 1927
+VL 8
+BP 299
+EP 326
+DI 10.2307/1929332
+PG 28
+WC Ecology
+SC Environmental Sciences & Ecology
+GA V02EZ
+UT WOS:000200148100042
+DA 2020-07-17
+ER
+
+PT J
+AU Batchelder, CH
+AF Batchelder, CH
+TI Inland fishes of the eastern part of Mount Desert Island, Maine
+SO ECOLOGY
+LA English
+DT Article
+NR 1
+TC 2
+Z9 2
+U1 0
+U2 0
+PU ECOLOGICAL SOC AMER
+PI WASHINGTON
+PA 1707 H ST NW, STE 400, WASHINGTON, DC 20006-3915 USA
+SN 0012-9658
+J9 ECOLOGY
+JI Ecology
+PY 1927
+VL 8
+BP 327
+EP 332
+DI 10.2307/1929333
+PG 6
+WC Ecology
+SC Environmental Sciences & Ecology
+GA V02EZ
+UT WOS:000200148100043
+DA 2020-07-17
+ER
+
+PT J
+AU Powers, EB
+AF Powers, EB
+TI A simple colorimetric method for field determinations of the carbon
+   dioxide tension and free carbon dioxide, bicarbonates and carbonates in
+   solution in natural waters. I. A theoretical discussion
+SO ECOLOGY
+LA English
+DT Article
+C1 Univ Tennessee, Dept Zool, Knoxville, TN USA.
+NR 7
+TC 7
+Z9 7
+U1 0
+U2 1
+PU ECOLOGICAL SOC AMER
+PI WASHINGTON
+PA 1707 H ST NW, STE 400, WASHINGTON, DC 20006-3915 USA
+SN 0012-9658
+J9 ECOLOGY
+JI Ecology
+PY 1927
+VL 8
+BP 333
+EP 338
+DI 10.2307/1929334
+PG 6
+WC Ecology
+SC Environmental Sciences & Ecology
+GA V02EZ
+UT WOS:000200148100044
+DA 2020-07-17
+ER
+
+PT J
+AU Gates, FC
+AF Gates, FC
+TI Establishment of plant associations
+SO ECOLOGY
+LA English
+DT Article
+NR 0
+TC 2
+Z9 2
+U1 0
+U2 0
+PU ECOLOGICAL SOC AMER
+PI WASHINGTON
+PA 1707 H ST NW, STE 400, WASHINGTON, DC 20006-3915 USA
+SN 0012-9658
+J9 ECOLOGY
+JI Ecology
+PY 1927
+VL 8
+BP 339
+EP 340
+DI 10.2307/1929335
+PG 2
+WC Ecology
+SC Environmental Sciences & Ecology
+GA V02EZ
+UT WOS:000200148100045
+DA 2020-07-17
+ER
+
+PT J
+AU Kenoyer, LA
+AF Kenoyer, LA
+TI A study of Raunkaier's law of frequence
+SO ECOLOGY
+LA English
+DT Article
+NR 16
+TC 29
+Z9 29
+U1 0
+U2 3
+PU ECOLOGICAL SOC AMER
+PI WASHINGTON
+PA 1707 H ST NW, STE 400, WASHINGTON, DC 20006-3915 USA
+SN 0012-9658
+J9 ECOLOGY
+JI Ecology
+PY 1927
+VL 8
+BP 341
+EP 349
+DI 10.2307/1929336
+PG 9
+WC Ecology
+SC Environmental Sciences & Ecology
+GA V02EZ
+UT WOS:000200148100046
+DA 2020-07-17
+ER
+
+PT J
+AU Carter, W
+AF Carter, W
+TI Population of Eutettix tenella Baker and the osmotic concentrations of
+   its host plants
+SO ECOLOGY
+LA English
+DT Article
+NR 0
+TC 8
+Z9 8
+U1 0
+U2 0
+PU ECOLOGICAL SOC AMER
+PI WASHINGTON
+PA 1707 H ST NW, STE 400, WASHINGTON, DC 20006-3915 USA
+SN 0012-9658
+J9 ECOLOGY
+JI Ecology
+PY 1927
+VL 8
+BP 350
+EP 352
+DI 10.2307/1929337
+PG 3
+WC Ecology
+SC Environmental Sciences & Ecology
+GA V02EZ
+UT WOS:000200148100047
+DA 2020-07-17
+ER
+
+PT J
+AU Baker, FC
+AF Baker, FC
+TI Molluscan associations of White Lake, Michigan : A study of a small
+   inland lake from an ecological and systematic viewpoint
+SO ECOLOGY
+LA English
+DT Article
+NR 11
+TC 1
+Z9 1
+U1 0
+U2 0
+PU ECOLOGICAL SOC AMER
+PI WASHINGTON
+PA 1707 H ST NW, STE 400, WASHINGTON, DC 20006-3915 USA
+SN 0012-9658
+J9 ECOLOGY
+JI Ecology
+PY 1927
+VL 8
+BP 353
+EP U29
+DI 10.2307/1929338
+PG 19
+WC Ecology
+SC Environmental Sciences & Ecology
+GA V02EZ
+UT WOS:000200148100048
+DA 2020-07-17
+ER
+
+PT J
+AU Larsen, JA
+AF Larsen, JA
+TI Relation or leaf structure of conifers to light and moisture
+SO ECOLOGY
+LA English
+DT Article
+C1 Iowa State Coll, Ames, IA USA.
+NR 9
+TC 9
+Z9 9
+U1 0
+U2 3
+PU ECOLOGICAL SOC AMER
+PI WASHINGTON
+PA 1707 H ST NW, STE 400, WASHINGTON, DC 20006-3915 USA
+SN 0012-9658
+J9 ECOLOGY
+JI Ecology
+PY 1927
+VL 8
+BP 371
+EP 377
+DI 10.2307/1929339
+PG 9
+WC Ecology
+SC Environmental Sciences & Ecology
+GA V02EZ
+UT WOS:000200148100049
+DA 2020-07-17
+ER
+
+PT J
+AU Transeau, EN
+AF Transeau, EN
+TI Photosynthesis
+SO ECOLOGY
+LA English
+DT Article
+C1 Ohio State Univ, Columbus, OH USA.
+NR 0
+TC 0
+Z9 0
+U1 1
+U2 5
+PU ECOLOGICAL SOC AMER
+PI WASHINGTON
+PA 1707 H ST NW, STE 400, WASHINGTON, DC 20006-3915 USA
+SN 0012-9658
+J9 ECOLOGY
+JI Ecology
+PY 1927
+VL 8
+BP 378
+EP 378
+DI 10.2307/1929340
+PG 1
+WC Ecology
+SC Environmental Sciences & Ecology
+GA V02EZ
+UT WOS:000200148100050
+DA 2020-07-17
+ER
+
+PT J
+AU Fuller, GD
+AF Fuller, GD
+TI Aims and methods in the study of vegetation
+SO ECOLOGY
+LA English
+DT Article
+C1 Univ Chicago, Chicago, IL USA.
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 2
+PU ECOLOGICAL SOC AMER
+PI WASHINGTON
+PA 1707 H ST NW, STE 400, WASHINGTON, DC 20006-3915 USA
+SN 0012-9658
+J9 ECOLOGY
+JI Ecology
+PY 1927
+VL 8
+BP 379
+EP 380
+DI 10.2307/1929341
+PG 2
+WC Ecology
+SC Environmental Sciences & Ecology
+GA V02EZ
+UT WOS:000200148100051
+DA 2020-07-17
+ER
+
+PT J
+AU Birge, EA
+   Rich, WH
+AF Birge, EA
+   Rich, WH
+TI Observations on Karluk Lake, Alaska
+SO ECOLOGY
+LA English
+DT Article
+C1 Univ Wisconsin, Madison, WI USA.
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU ECOLOGICAL SOC AMER
+PI WASHINGTON
+PA 1707 H ST NW, STE 400, WASHINGTON, DC 20006-3915 USA
+SN 0012-9658
+J9 ECOLOGY
+JI Ecology
+PY 1927
+VL 8
+BP 384
+EP 384
+DI 10.2307/1929343
+PG 1
+WC Ecology
+SC Environmental Sciences & Ecology
+GA V02EZ
+UT WOS:000200148100053
+DA 2020-07-17
+ER
+
+PT J
+AU Baldwin, HI
+AF Baldwin, HI
+TI A useful quadrat-taker and reproduction-counter
+SO ECOLOGY
+LA English
+DT Article
+NR 0
+TC 1
+Z9 1
+U1 0
+U2 0
+PU ECOLOGICAL SOC AMER
+PI WASHINGTON
+PA 1707 H ST NW, STE 400, WASHINGTON, DC 20006-3915 USA
+SN 0012-9658
+J9 ECOLOGY
+JI Ecology
+PY 1927
+VL 8
+BP 385
+EP 387
+DI 10.2307/1929344
+PG 3
+WC Ecology
+SC Environmental Sciences & Ecology
+GA V02EZ
+UT WOS:000200148100054
+DA 2020-07-17
+ER
+
+PT J
+AU Morgan, MF
+AF Morgan, MF
+TI A new field method for pH determination
+SO ECOLOGY
+LA English
+DT Article
+C1 Connecticut Agr Expt Stn, Dept Soils, New Haven, CT USA.
+NR 0
+TC 2
+Z9 2
+U1 0
+U2 0
+PU ECOLOGICAL SOC AMER
+PI WASHINGTON
+PA 1707 H ST NW, STE 400, WASHINGTON, DC 20006-3915 USA
+SN 0012-9658
+J9 ECOLOGY
+JI Ecology
+PY 1927
+VL 8
+BP 387
+EP 388
+DI 10.2307/1929345
+PG 2
+WC Ecology
+SC Environmental Sciences & Ecology
+GA V02EZ
+UT WOS:000200148100055
+DA 2020-07-17
+ER
+
+PT J
+AU Hildebrand, SF
+   Towers, IL
+AF Hildebrand, SF
+   Towers, IL
+TI Food of trout in Fish Lake, Utah
+SO ECOLOGY
+LA English
+DT Article
+NR 7
+TC 3
+Z9 3
+U1 0
+U2 1
+PU ECOLOGICAL SOC AMER
+PI WASHINGTON
+PA 1707 H ST NW, STE 400, WASHINGTON, DC 20006-3915 USA
+SN 0012-9658
+J9 ECOLOGY
+JI Ecology
+PY 1927
+VL 8
+BP 389
+EP 397
+DI 10.2307/1930147
+PG 9
+WC Ecology
+SC Environmental Sciences & Ecology
+GA V02EZ
+UT WOS:000200148100056
+DA 2020-07-17
+ER
+
+PT J
+AU Shreve, F
+AF Shreve, F
+TI The physical conditions of a coastal mountain range
+SO ECOLOGY
+LA English
+DT Article
+C1 Desert Lab, Tucson, AZ USA.
+NR 6
+TC 13
+Z9 13
+U1 1
+U2 4
+PU ECOLOGICAL SOC AMER
+PI WASHINGTON
+PA 1707 H ST NW, STE 400, WASHINGTON, DC 20006-3915 USA
+SN 0012-9658
+J9 ECOLOGY
+JI Ecology
+PY 1927
+VL 8
+BP 398
+EP 414
+DI 10.2307/1930148
+PG 17
+WC Ecology
+SC Environmental Sciences & Ecology
+GA V02EZ
+UT WOS:000200148100057
+DA 2020-07-17
+ER
+
+PT J
+AU Klugh, AB
+AF Klugh, AB
+TI A comparison of certain methods of measuring light for ecological
+   purposes
+SO ECOLOGY
+LA English
+DT Article
+NR 3
+TC 4
+Z9 4
+U1 0
+U2 0
+PU ECOLOGICAL SOC AMER
+PI WASHINGTON
+PA 1707 H ST NW, STE 400, WASHINGTON, DC 20006-3915 USA
+SN 0012-9658
+J9 ECOLOGY
+JI Ecology
+PY 1927
+VL 8
+BP 415
+EP 427
+DI 10.2307/1930149
+PG 13
+WC Ecology
+SC Environmental Sciences & Ecology
+GA V02EZ
+UT WOS:000200148100058
+DA 2020-07-17
+ER
+
+PT J
+AU Hathaway, ES
+AF Hathaway, ES
+TI The relation of temperature to the quantity of food consumed by fishes
+SO ECOLOGY
+LA English
+DT Article
+C1 Tulane Univ, New Orleans, LA USA.
+NR 9
+TC 32
+Z9 33
+U1 0
+U2 3
+PU ECOLOGICAL SOC AMER
+PI WASHINGTON
+PA 1707 H ST NW, STE 400, WASHINGTON, DC 20006-3915 USA
+SN 0012-9658
+J9 ECOLOGY
+JI Ecology
+PY 1927
+VL 8
+BP 428
+EP 434
+DI 10.2307/1930150
+PG 7
+WC Ecology
+SC Environmental Sciences & Ecology
+GA V02EZ
+UT WOS:000200148100059
+DA 2020-07-17
+ER
+
+PT J
+AU Phillips, J
+AF Phillips, J
+TI Mortality in the flowers, fruits and young regeneration of trees in the
+   Knysna forests of South Africa
+SO ECOLOGY
+LA English
+DT Article
+C1 Forest Res Stn, Deepwalls, Kynsna, South Africa.
+NR 9
+TC 5
+Z9 5
+U1 0
+U2 1
+PU ECOLOGICAL SOC AMER
+PI WASHINGTON
+PA 1707 H ST NW, STE 400, WASHINGTON, DC 20006-3915 USA
+SN 0012-9658
+J9 ECOLOGY
+JI Ecology
+PY 1927
+VL 8
+BP 435
+EP 444
+DI 10.2307/1930151
+PG 10
+WC Ecology
+SC Environmental Sciences & Ecology
+GA V02EZ
+UT WOS:000200148100060
+DA 2020-07-17
+ER
+
+PT J
+AU Juday, C
+   Birge, EA
+AF Juday, C
+   Birge, EA
+TI Pontoporeia and Mysis in Wisconsin lakes
+SO ECOLOGY
+LA English
+DT Article
+NR 22
+TC 26
+Z9 27
+U1 0
+U2 1
+PU ECOLOGICAL SOC AMER
+PI WASHINGTON
+PA 1707 H ST NW, STE 400, WASHINGTON, DC 20006-3915 USA
+SN 0012-9658
+J9 ECOLOGY
+JI Ecology
+PY 1927
+VL 8
+BP 445
+EP U37
+DI 10.2307/1930152
+PG 9
+WC Ecology
+SC Environmental Sciences & Ecology
+GA V02EZ
+UT WOS:000200148100061
+DA 2020-07-17
+ER
+
+PT J
+AU Harlow, WM
+AF Harlow, WM
+TI The effect of site on the structure and growth of white cedar Thuya
+   occidentalis L.
+SO ECOLOGY
+LA English
+DT Article
+C1 Syracuse Univ, New York State Coll Forestry, Dept Wood Technol, Syracuse, NY USA.
+NR 26
+TC 16
+Z9 16
+U1 0
+U2 2
+PU ECOLOGICAL SOC AMER
+PI WASHINGTON
+PA 1707 H ST NW, STE 400, WASHINGTON, DC 20006-3915 USA
+SN 0012-9658
+J9 ECOLOGY
+JI Ecology
+PY 1927
+VL 8
+BP 453
+EP 470
+DI 10.2307/1930153
+PG 18
+WC Ecology
+SC Environmental Sciences & Ecology
+GA V02EZ
+UT WOS:000200148100062
+DA 2020-07-17
+ER
+
+PT J
+AU Powers, EB
+   Bond, JD
+AF Powers, EB
+   Bond, JD
+TI A simple colorimetric method for field determinations of the carbon
+   dioxide tension and free carbon dioxide, bicarbonates and carbonates in
+   solution in natural waters. II. A critical mathematical analysis of
+   theory and data
+SO ECOLOGY
+LA English
+DT Article
+C1 Univ Tennessee, Dept Math, Knoxville, TN USA.
+   Univ Tennessee, Dept Zool, Knoxville, TN USA.
+NR 9
+TC 6
+Z9 6
+U1 0
+U2 1
+PU ECOLOGICAL SOC AMER
+PI WASHINGTON
+PA 1707 H ST NW, STE 400, WASHINGTON, DC 20006-3915 USA
+SN 0012-9658
+J9 ECOLOGY
+JI Ecology
+PY 1927
+VL 8
+BP 471
+EP 479
+DI 10.2307/1930154
+PG 9
+WC Ecology
+SC Environmental Sciences & Ecology
+GA V02EZ
+UT WOS:000200148100063
+DA 2020-07-17
+ER
+
+PT J
+AU Campbell, E
+AF Campbell, E
+TI Wild legumes and soil fertility
+SO ECOLOGY
+LA English
+DT Article
+C1 Transylvania Coll, Lexington, KY USA.
+NR 0
+TC 5
+Z9 5
+U1 0
+U2 1
+PU ECOLOGICAL SOC AMER
+PI WASHINGTON
+PA 1707 H ST NW, STE 400, WASHINGTON, DC 20006-3915 USA
+SN 0012-9658
+J9 ECOLOGY
+JI Ecology
+PY 1927
+VL 8
+BP 480
+EP 483
+DI 10.2307/1930155
+PG 4
+WC Ecology
+SC Environmental Sciences & Ecology
+GA V02EZ
+UT WOS:000200148100064
+DA 2020-07-17
+ER
+
+PT J
+AU Cooper, WS
+AF Cooper, WS
+TI "Ecology" and "plant ecology"
+SO ECOLOGY
+LA English
+DT Article
+C1 Univ Minnesota, Dept Bot, Minneapolis, MN USA.
+NR 3
+TC 1
+Z9 1
+U1 0
+U2 6
+PU ECOLOGICAL SOC AMER
+PI WASHINGTON
+PA 1707 H ST NW, STE 400, WASHINGTON, DC 20006-3915 USA
+SN 0012-9658
+J9 ECOLOGY
+JI Ecology
+PY 1927
+VL 8
+BP 490
+EP 491
+DI 10.2307/1930158
+PG 2
+WC Ecology
+SC Environmental Sciences & Ecology
+GA V02EZ
+UT WOS:000200148100067
+DA 2020-07-17
+ER
+
+PT J
+AU Braun, EL
+AF Braun, EL
+TI An early account of succession
+SO ECOLOGY
+LA English
+DT Article
+C1 Univ Cincinnati, Cincinnati, OH USA.
+NR 3
+TC 0
+Z9 0
+U1 0
+U2 0
+PU ECOLOGICAL SOC AMER
+PI WASHINGTON
+PA 1707 H ST NW, STE 400, WASHINGTON, DC 20006-3915 USA
+SN 0012-9658
+J9 ECOLOGY
+JI Ecology
+PY 1927
+VL 8
+BP 491
+EP 491
+DI 10.2307/1930159
+PG 1
+WC Ecology
+SC Environmental Sciences & Ecology
+GA V02EZ
+UT WOS:000200148100068
+DA 2020-07-17
+ER
+
+EF
