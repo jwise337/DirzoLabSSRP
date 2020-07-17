@@ -12,7 +12,9 @@ wdi <- read.csv("WDI_data.csv")
 # From https://github.com/ropensci/refsplitr
 # load the Web of Science records into a dataframe
 
-dat1 <- references_read(data = "1940.txt")
+dat1 <- references_read(data = "2010.txt")
+
+
   
 
 
@@ -24,11 +26,11 @@ dat2 <- authors_clean(references = dat1)
 # after revieiwng disambiguation, merge any necessary corrections
 dat3 <- authors_refine(dat2$review, dat2$prelim)
 
-dat3$year <- 1940
+dat3$year <- 2000
 
-write.csv(dat3, "1940.csv")
-head(1940)
-dat3 <- read.csv ("1940.csv")
+write.csv(dat3, "2000.csv")
+head(1980)
+dat3 <- read.csv ("2000.csv")
 
 sub <- sample_n(dat3, 10)
 
@@ -44,10 +46,10 @@ plot_net_address(dat4$addresses)
 
 dat <- rbind("WOK2020", "dat3")
 
-ggplot (dat, aes (x = year, fill = country)) + geom_bar (position = "fill") 
+ggplot (dat3, aes (x = year, fill = country)) + geom_bar (position = "fill") 
 
-ggplot (WOK2020, aes (x = year, fill = country)) + geom_bar (position = "fill") 
+ggplot (WOK2000, aes (x = year, fill = country)) + geom_bar (position = "fill") 
 
 
-
+#1960 color hue
 
