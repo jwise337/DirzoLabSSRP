@@ -1,0 +1,90 @@
+"","authorID","groupID","match_name","matchID","similarity","confidence","flagged","AU","AF","author_order","address","RP_address","RI","OI","EM","refID","TA","SO","UT","PT","PU","PY","university","country","state","postal_code","city","department","year"
+"1",1,1,NA,NA,NA,NA,0,"Stone, MH","Stone, MH",1,"Western Reserve Univ, Cleveland, OH USA.",NA,NA,NA,NA,1,"Soil reaction in relation to the distribution of native plant species","ECOLOGY","WOS:000200151900001","J","ECOLOGICAL SOC AMER","1944","western reserve univ","usa","oh",NA,"cleveland",NA,1944
+"2",2,2,NA,NA,NA,NA,0,"Pennak, RW","Pennak, RW",1,"Univ Colorado, Biol Dept, Boulder, CO USA.",NA,NA,NA,NA,2,"Diurnal movements of zooplankton organisms in some Colorado mountain
+lakes","ECOLOGY","WOS:000200151900002","J","ECOLOGICAL SOC AMER","1944","univ colorado","usa","co",NA,"boulder",NA,1944
+"3",3,3,NA,NA,NA,NA,0,"Isanogle, IT","Isanogle, IT",1,"Western Maryland Coll, Westminister, MD USA.",NA,NA,NA,NA,3,"Effects of controlled shading upon the development of leaf structure in
+two deciduous tree species","ECOLOGY","WOS:000200151900003","J","WILEY","1944","western maryland coll","usa","md",NA,"westminister",NA,1944
+"4",4,4,NA,NA,NA,NA,0,"DuShane, GP","DuShane, GP",1,"Univ Chicago, Dept Zool, Chicago, IL USA.",NA,NA,NA,NA,4,"Differences in size and developmental rate between eastern and
+midwestern embryos of Ambystoma maculatum","ECOLOGY","WOS:000200151900004","J","ECOLOGICAL SOC AMER","1944","univ chicago","usa","il",NA,"chicago",NA,1944
+"5",5,5,NA,NA,NA,NA,0,"Hutchinson, C","Hutchinson, C",2,"Could not be extracted",NA,NA,NA,NA,4,"Differences in size and developmental rate between eastern and
+midwestern embryos of Ambystoma maculatum","ECOLOGY","WOS:000200151900004","J","ECOLOGICAL SOC AMER","1944",NA,NA,NA,NA,NA,NA,1944
+"6",6,6,NA,NA,NA,NA,0,"Allgaier, BE","Allgaier, BE",1,"State Coll Washington, Dept Bot, Pullman, WA USA.",NA,NA,NA,NA,5,"The chemical control of Klamath weed I Application of ecological methods
+in determining the herbicidal and fertilizing properties of ammonium
+sulfamate and commercial borax","ECOLOGY","WOS:000200151900005","J","ECOLOGICAL SOC AMER","1944","state coll washington","usa","wa",NA,"pullman",NA,1944
+"7",7,7,NA,NA,NA,NA,0,"Engle, JB","Engle, JB",1,"Fish & Wildlife Serv, Fishery Biol Lab, Milford, CT USA.",NA,NA,NA,NA,6,"On season of attachment of larvae of Mytilus edulis Linn","ECOLOGY","WOS:000200151900006","J","ECOLOGICAL SOC AMER","1944","fish & wildlife serv","usa","ct",NA,"milford",NA,1944
+"8",8,8,NA,NA,NA,NA,0,"Loosanoff, VL","Loosanoff, VL",2,"Could not be extracted",NA,NA,NA,NA,6,"On season of attachment of larvae of Mytilus edulis Linn","ECOLOGY","WOS:000200151900006","J","ECOLOGICAL SOC AMER","1944",NA,NA,NA,NA,NA,NA,1944
+"9",9,9,NA,NA,NA,NA,0,"Smith, AD","Smith, AD",1,"Utah Agr Expt Stn, Logan, UT USA.",NA,NA,NA,NA,7,"A study of the reliability of range vegetation estimates","ECOLOGY","WOS:000200151900007","J","ECOLOGICAL SOC AMER","1944","utah agr expt stn","usa","ut",NA,"logan",NA,1944
+"10",10,10,NA,NA,NA,NA,0,"Dowdy, WW","Dowdy, WW",1,"Lincoln Univ, Jefferson City, MO USA.",NA,NA,NA,NA,8,"The influence of temperature on vertical migration of invertebrates
+inhabiting different soil types","ECOLOGY","WOS:000200151900008","J","ECOLOGICAL SOC AMER","1944","lincoln univ","usa","mo",NA,"jefferson city",NA,1944
+"11",11,11,NA,NA,NA,NA,0,"Cheyne, H","Cheyne, H",2,"Could not be extracted",NA,NA,NA,NA,9,"The influence of hydrogen ion concentration on the minimum dissolved
+oxygen toleration of the silver salmon, Oncorhynchus kisutch (Walbaum)","ECOLOGY","WOS:000200151900009","J","ECOLOGICAL SOC AMER","1944",NA,NA,NA,NA,NA,NA,1944
+"12",12,12,NA,NA,NA,NA,0,"Townsend, LD","Townsend, LD",1,"Could not be extracted",NA,NA,NA,NA,9,"The influence of hydrogen ion concentration on the minimum dissolved
+oxygen toleration of the silver salmon, Oncorhynchus kisutch (Walbaum)","ECOLOGY","WOS:000200151900009","J","ECOLOGICAL SOC AMER","1944",NA,NA,NA,NA,NA,NA,1944
+"13",13,13,NA,NA,NA,NA,0,"Sweetman, HL","Sweetman, HL",1,"Massachusetts State Coll, Amherst, MA USA.",NA,NA,NA,NA,10,"Selection of woody plants as winter food by the cottontail rabbit","ECOLOGY","WOS:000200151900010","J","ECOLOGICAL SOC AMER","1944","massachusetts state coll","usa","ma",NA,"amherst",NA,1944
+"14",14,14,NA,NA,NA,NA,0,"Bonck, J","Bonck, J",1,"Loyola Univ, New Orleans, LA USA.",NA,NA,NA,NA,11,"Seasonal growth of twigs of trees in the batture lands of the New
+Orleans area","ECOLOGY","WOS:000200151900011","J","ECOLOGICAL SOC AMER","1944","loyola univ","usa","la",NA,"new orleans",NA,1944
+"15",15,15,NA,NA,NA,NA,0,"Penfound, WT","Penfound, WT",2,"Could not be extracted",NA,NA,NA,NA,11,"Seasonal growth of twigs of trees in the batture lands of the New
+Orleans area","ECOLOGY","WOS:000200151900011","J","ECOLOGICAL SOC AMER","1944",NA,NA,NA,NA,NA,NA,1944
+"16",16,16,NA,NA,NA,NA,0,"Dutton, HJ","Dutton, HJ",1,"Could not be extracted",NA,NA,NA,NA,12,"Chromatic adaptation in relation to color and depth distribution of
+freshwater phytoplankton and large aquatic plants","ECOLOGY","WOS:000200151800001","J","ECOLOGICAL SOC AMER","1944",NA,NA,NA,NA,NA,NA,1944
+"17",17,17,NA,NA,NA,NA,0,"Juday, C","Juday, C",2,"Could not be extracted",NA,NA,NA,NA,12,"Chromatic adaptation in relation to color and depth distribution of
+freshwater phytoplankton and large aquatic plants","ECOLOGY","WOS:000200151800001","J","ECOLOGICAL SOC AMER","1944",NA,NA,NA,NA,NA,NA,1944
+"18",18,18,NA,NA,NA,NA,0,"Brischle, HA","Brischle, HA",2,"Could not be extracted",NA,NA,NA,NA,13,"Measuring the local distribution of Ribes","ECOLOGY","WOS:000200151800002","J","ECOLOGICAL SOC AMER","1944",NA,NA,NA,NA,NA,NA,1944
+"19",19,19,NA,NA,NA,NA,0,"Fracker, SB","Fracker, SB",1,"Could not be extracted",NA,NA,NA,NA,13,"Measuring the local distribution of Ribes","ECOLOGY","WOS:000200151800002","J","ECOLOGICAL SOC AMER","1944",NA,NA,NA,NA,NA,NA,1944
+"20",20,33,NA,33,NA,NA,0,"Hardin, G","Hardin, G",1,"Stanford Univ, Dept Biol, Stanford, CA USA.",NA,NA,NA,NA,14,"Symbiosis of Paramecium and Oikomonas","ECOLOGY","WOS:000200151800003","J","ECOLOGICAL SOC AMER","1944","stanford univ","usa","ca",NA,"stanford",NA,1944
+"21",21,21,NA,NA,NA,NA,0,"Costello, DF","Costello, DF",1,"Could not be extracted",NA,NA,NA,NA,15,"Natural revegetation of abandoned plowed land in the mixed prairie
+association of northeastern Colorado","ECOLOGY","WOS:000200151800004","J","ECOLOGICAL SOC AMER","1944",NA,NA,NA,NA,NA,NA,1944
+"22",22,22,NA,NA,NA,NA,0,"Cook, WC","Cook, WC",1,"Could not be extracted",NA,NA,NA,NA,16,"Studies of the vitality of the beet leafhopper during the fall and
+winter in California as related to the fat content of the insects","ECOLOGY","WOS:000200151800005","J","ECOLOGICAL SOC AMER","1944",NA,NA,NA,NA,NA,NA,1944
+"23",23,23,NA,NA,NA,NA,0,"Horton, JS","Horton, JS",1,"Could not be extracted",NA,NA,NA,NA,17,"The wood rat as an ecological factor in southern California watersheds","ECOLOGY","WOS:000200151800006","J","ECOLOGICAL SOC AMER","1944",NA,NA,NA,NA,NA,NA,1944
+"24",24,24,NA,NA,NA,NA,0,"Wright, JT","Wright, JT",2,"Could not be extracted",NA,NA,NA,NA,17,"The wood rat as an ecological factor in southern California watersheds","ECOLOGY","WOS:000200151800006","J","ECOLOGICAL SOC AMER","1944",NA,NA,NA,NA,NA,NA,1944
+"25",25,25,NA,NA,NA,NA,0,"Dexter, RW","Dexter, RW",1,"Kent State Univ, Kent, OH USA.",NA,NA,NA,NA,18,"The bottom community of Ipswich Bay, Massachusetts","ECOLOGY","WOS:000200151800007","J","ECOLOGICAL SOC AMER","1944","kent state univ","usa","oh",NA,"kent",NA,1944
+"26",26,26,NA,NA,NA,NA,0,"Mellem, EM","Mellem, EM",2,"Could not be extracted",NA,NA,NA,NA,19,"Further experiments to determine the organisms responsible for
+decomposition of cellulose in soils","ECOLOGY","WOS:000200151800008","J","ECOLOGICAL SOC AMER","1944",NA,NA,NA,NA,NA,NA,1944
+"27",27,27,NA,NA,NA,NA,0,"Skinner, CE","Skinner, CE",1,"Univ Minnesota, Dept Bacteriol & Immunol, Minneapolis, MN USA.",NA,NA,NA,NA,19,"Further experiments to determine the organisms responsible for
+decomposition of cellulose in soils","ECOLOGY","WOS:000200151800008","J","ECOLOGICAL SOC AMER","1944","univ minnesota","usa","mn",NA,"minneapolis",NA,1944
+"28",28,28,NA,NA,NA,NA,0,"Gilbert, PW","Gilbert, PW",1,"Cornell Univ, Dept Zool, Ithaca, NY USA.",NA,NA,NA,NA,20,"The alga-egg relationship in Ambystoma maculatum - A case of symbiosis","ECOLOGY","WOS:000200151800009","J","ECOLOGICAL SOC AMER","1944","cornell univ","usa","ny",NA,"ithaca",NA,1944
+"29",29,29,NA,NA,NA,NA,0,"Hoff, CC","Hoff, CC",1,"Quincy Coll, Quincy, IL USA.",NA,NA,NA,NA,21,"The origin of nearctic fresh-water ostracods","ECOLOGY","WOS:000200151800010","J","ECOLOGICAL SOC AMER","1944","quincy coll","usa","il",NA,"quincy",NA,1944
+"30",30,30,NA,NA,NA,NA,0,"Beard, JS","Beard, JS",1,"Could not be extracted",NA,NA,NA,NA,22,"Climax vegetation in tropical America","ECOLOGY","WOS:000200150600001","J","ECOLOGICAL SOC AMER","1944",NA,NA,NA,NA,NA,NA,1944
+"31",31,31,NA,NA,NA,NA,0,"Bates, M","Bates, M",1,"Rockefeller Fdn, Int Hlth Div, New York, NY USA.",NA,NA,NA,NA,23,"Observations on the distribution of diurnal mosquitoes in a tropical
+forest","ECOLOGY","WOS:000200150600002","J","ECOLOGICAL SOC AMER","1944","rockefeller fdn","usa","ny",NA,"new york",NA,1944
+"32",32,32,NA,NA,NA,NA,0,"Sampson, AW","Sampson, AW",1,"Could not be extracted",NA,NA,NA,NA,24,"Effect of chaparral burning on soil erosion and on soil-moisture
+relations","ECOLOGY","WOS:000200150600003","J","ECOLOGICAL SOC AMER","1944",NA,NA,NA,NA,NA,NA,1944
+"33",33,33,NA,NA,NA,NA,0,"Hardin, G","Hardin, G",1,"Stanford Univ, Stanford, CA USA.",NA,NA,NA,NA,25,"Physiological observations and their ecological significance a study of
+the protozoan, Oikomonas termo","ECOLOGY","WOS:000200150600004","J","ECOLOGICAL SOC AMER","1944","stanford univ","usa","ca",NA,"stanford",NA,1944
+"34",34,34,NA,NA,NA,NA,0,"Darland, RW","Darland, RW",2,"Could not be extracted",NA,NA,NA,NA,26,"Grassland patterns in 1940","ECOLOGY","WOS:000200150600005","J","ECOLOGICAL SOC AMER","1944",NA,NA,NA,NA,NA,NA,1944
+"35",35,35,NA,NA,NA,NA,0,"Weaver, JE","Weaver, JE",1,"Univ Nebraska, Lincoln, NE USA.",NA,NA,NA,NA,26,"Grassland patterns in 1940","ECOLOGY","WOS:000200150600005","J","ECOLOGICAL SOC AMER","1944","univ nebraska","usa","ne",NA,"lincoln",NA,1944
+"36",36,36,NA,NA,NA,NA,0,"Rogers, R","Rogers, R",2,"Could not be extracted",NA,NA,NA,NA,27,"The effect of environmental factors on hatching moulting, and survival
+of zoea larvae of the blue crab Callinectes sapidus Rathbun","ECOLOGY","WOS:000200150600006","J","ECOLOGICAL SOC AMER","1944",NA,NA,NA,NA,NA,NA,1944
+"37",37,37,NA,NA,NA,NA,0,"Sandoz, M","Sandoz, M",1,"Could not be extracted",NA,NA,NA,NA,27,"The effect of environmental factors on hatching moulting, and survival
+of zoea larvae of the blue crab Callinectes sapidus Rathbun","ECOLOGY","WOS:000200150600006","J","ECOLOGICAL SOC AMER","1944",NA,NA,NA,NA,NA,NA,1944
+"38",38,38,NA,NA,NA,NA,0,"Cain, LG","Cain, LG",2,"Could not be extracted",NA,NA,NA,NA,28,"Size-frequency studies of Pinus palustris pollen","ECOLOGY","WOS:000200150600007","J","WILEY","1944",NA,NA,NA,NA,NA,NA,1944
+"39",39,39,NA,NA,NA,NA,0,"Cain, SA","Cain, SA",1,"Univ Tennessee, Knoxville, TN USA.",NA,NA,NA,NA,28,"Size-frequency studies of Pinus palustris pollen","ECOLOGY","WOS:000200150600007","J","WILEY","1944","univ tennessee","usa","tn",NA,"knoxville",NA,1944
+"40",40,40,NA,NA,NA,NA,0,"Stebbins, RC","Stebbins, RC",1,"Univ Calif, Dept Zool, Los Angeles, CA USA.",NA,NA,NA,NA,29,"Field notes on a lizard, the mountain swift, with special reference to
+territorial behavior","ECOLOGY","WOS:000200150600008","J","ECOLOGICAL SOC AMER","1944","univ calif","usa","ca",NA,"los angeles",NA,1944
+"41",41,41,NA,NA,NA,NA,0,"Drew, WB","Drew, WB",1,"Univ Missouri, Dept Bot, Columbia, MO USA.",NA,NA,NA,NA,30,"Dew drop 'grass' as a lawn plant in central Missouri","ECOLOGY","WOS:000200150600009","J","ECOLOGICAL SOC AMER","1944","univ missouri","usa","mo",NA,"columbia",NA,1944
+"42",42,42,NA,NA,NA,NA,0,"Wherry, ET","Wherry, ET",1,"Univ Penn, Philadelphia, PA USA.",NA,NA,NA,NA,31,"A classification of endemic plants","ECOLOGY","WOS:000200150600010","J","ECOLOGICAL SOC AMER","1944","univ penn","usa","pa",NA,"philadelphia",NA,1944
+"43",43,43,NA,NA,NA,NA,0,"Miller, LF","Miller, LF",1,"Could not be extracted",NA,NA,NA,NA,32,"An experimental study of the effect of softened waters on fish","ECOLOGY","WOS:000200150600011","J","ECOLOGICAL SOC AMER","1944",NA,NA,NA,NA,NA,NA,1944
+"44",44,44,NA,NA,NA,NA,0,"Hutchinson, GE","Hutchinson, GE",1,"Yale Univ, Osborn Zool Lab, New Haven, CT USA.",NA,NA,NA,NA,33,"Limnological studies in Connecticut. VII. A critical examination of the
+supposed relationship between phytoplankton periodicity and chemical
+changes in lake waters","ECOLOGY","WOS:000200151700001","J","ECOLOGICAL SOC AMER","1944","yale univ","usa","ct",NA,"new haven",NA,1944
+"45",45,45,NA,NA,NA,NA,0,"Gardner, JL","Gardner, JL",2,"Could not be extracted",NA,NA,NA,NA,34,"Some edaphic and ecological effects of water spreading on range lands","ECOLOGY","WOS:000200151700002","J","WILEY","1944",NA,NA,NA,NA,NA,NA,1944
+"46",46,46,NA,NA,NA,NA,0,"Hubbell, DS","Hubbell, DS",1,"Navajo Expt Stn, Soil Consevat Serv, Mexican Springs, NM USA.",NA,NA,NA,NA,34,"Some edaphic and ecological effects of water spreading on range lands","ECOLOGY","WOS:000200151700002","J","WILEY","1944","navajo expt stn","usa","nm",NA,"mexican springs",NA,1944
+"47",47,47,NA,NA,NA,NA,0,"Hovanitz, W","Hovanitz, W",1,"CALTECH, Pasadena, CA USA.",NA,NA,NA,NA,35,"The ecological significance of the color phases of Colias chrysotheme in
+North America.","ECOLOGY","WOS:000200151700003","J","WILEY-BLACKWELL","1944","caltech","usa","ca",NA,"pasadena",NA,1944
+"48",48,48,NA,NA,NA,NA,0,"Oosting, HJ","Oosting, HJ",1,"Duke Univ, Durham, NC USA.",NA,NA,NA,NA,36,"The comparative effect of surface and crown fire on the composition of a
+loblolly pine community","ECOLOGY","WOS:000200151700004","J","ECOLOGICAL SOC AMER","1944","duke univ","usa","nc",NA,"durham",NA,1944
+"49",49,49,NA,NA,NA,NA,0,"Lyman, FE","Lyman, FE",1,"Tennessee Valley Author, Norris, TN USA.",NA,NA,NA,NA,37,"Effects of a flood upon temperature and dissolved oxygen relationships
+in Cherokee Reservoir, Tennessee","ECOLOGY","WOS:000200151700005","J","ECOLOGICAL SOC AMER","1944","tennessee valley author","usa","tn",NA,"norris",NA,1944
+"50",50,50,NA,NA,NA,NA,0,"Chapman, RA","Chapman, RA",2,"Could not be extracted",NA,NA,NA,NA,38,"The effect of living grass on the growth of longleaf pine seedlings in
+pots","ECOLOGY","WOS:000200151700006","J","ECOLOGICAL SOC AMER","1944",NA,NA,NA,NA,NA,NA,1944
+"51",51,51,NA,NA,NA,NA,0,"Pessin, LJ","Pessin, LJ",1,"Southern Forest Expt Stn, New Orleans, LA USA.",NA,NA,NA,NA,38,"The effect of living grass on the growth of longleaf pine seedlings in
+pots","ECOLOGY","WOS:000200151700006","J","ECOLOGICAL SOC AMER","1944","southern forest expt stn","usa","la",NA,"new orleans",NA,1944
+"52",52,52,NA,NA,NA,NA,0,"Cook, DB","Cook, DB",1,"Cornell Univ, Ithaca, NY USA.",NA,NA,NA,NA,39,"The ecological relationships of red fox food in eastern New York","ECOLOGY","WOS:000200151700007","J","ECOLOGICAL SOC AMER","1944","cornell univ","usa","ny",NA,"ithaca",NA,1944
+"53",53,53,NA,NA,NA,NA,0,"Hamilton, WJ","Hamilton, WJ",2,"Could not be extracted",NA,NA,NA,NA,39,"The ecological relationships of red fox food in eastern New York","ECOLOGY","WOS:000200151700007","J","ECOLOGICAL SOC AMER","1944",NA,NA,NA,NA,NA,NA,1944
+"54",54,54,NA,NA,NA,NA,0,"Shreve, F","Shreve, F",1,"Could not be extracted",NA,NA,NA,NA,40,"Rainfall of northern Mexico","ECOLOGY","WOS:000200151700008","J","ECOLOGICAL SOC AMER","1944",NA,NA,NA,NA,NA,NA,1944
+"55",55,55,NA,NA,NA,NA,0,"Little, EL","Little, EL",1,"US Forest Serv, Washington, DC USA.",NA,NA,NA,NA,41,"Layering after a heavy snow storm in Maryland","ECOLOGY","WOS:000200151700009","J","ECOLOGICAL SOC AMER","1944","us forest serv","usa","dc",NA,"washington",NA,1944
+"56",56,56,NA,NA,NA,NA,0,"Visher, SS","Visher, SS",1,"Indiana Univ, Bloomington, IN USA.",NA,NA,NA,NA,42,"Freezing temperatures in the United States","ECOLOGY","WOS:000200151700010","J","ECOLOGICAL SOC AMER","1944","indiana univ","usa","in",NA,"bloomington",NA,1944
+"57",57,57,NA,NA,NA,NA,0,"Weber, NA","Weber, NA",1,"Could not be extracted",NA,NA,NA,NA,43,"The tree ants (Dendromyrmex) of South and Central America","ECOLOGY","WOS:000200151700011","J","ECOLOGICAL SOC AMER","1944",NA,NA,NA,NA,NA,NA,1944
+"58",58,58,NA,NA,NA,NA,0,"Lay, DW","Lay, DW",2,"Could not be extracted",NA,NA,NA,NA,44,"Ecologic niches occupied by rabbits in eastern Texas","ECOLOGY","WOS:000200151700012","J","ECOLOGICAL SOC AMER","1944",NA,NA,NA,NA,NA,NA,1944
+"59",59,59,NA,NA,NA,NA,0,"Taylor, WP","Taylor, WP",1,"Texas Cooperat Wildlife Res Unit, Coll Station, TX USA.",NA,NA,NA,NA,44,"Ecologic niches occupied by rabbits in eastern Texas","ECOLOGY","WOS:000200151700012","J","ECOLOGICAL SOC AMER","1944","texas cooperat wildlife res unit","usa","tx",NA,"coll station",NA,1944

@@ -1,0 +1,62 @@
+"","authorID","groupID","author_name","author_order","address","university","department","postal_code","city","state","country","RP_address","RI","OI","UT","refID","PT","PY","PU","year"
+"1",1,1,"O'Neill, ME",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000200148400001",1,"J","1934","ECOLOGICAL SOC AMER",1934
+"2",2,2,"Penfound, WT",1,"Tulane Univ Louisiana, New Orleans, LA USA.","tulane univ louisiana",NA,NA,"new orleans","la","usa",NA,NA,NA,"WOS:000200148400001",1,"J","1934","ECOLOGICAL SOC AMER",1934
+"3",3,3,"Van Cleave, HJ",1,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000200148400002",2,"J","1934","ECOLOGICAL SOC AMER",1934
+"4",4,4,"Kittredge, J",1,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000200148400003",3,"J","1934","ECOLOGICAL SOC AMER",1934
+"5",5,5,"Demaree, D",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000200148400004",4,"J","1934","ECOLOGICAL SOC AMER",1934
+"6",6,6,"Kurz, H",1,"Stanford Univ, Stanford, CA USA.","stanford univ",NA,NA,"stanford","ca","usa",NA,NA,NA,"WOS:000200148400004",4,"J","1934","ECOLOGICAL SOC AMER",1934
+"7",7,7,"Shirley, HL",1,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000200148400005",5,"J","1934","ECOLOGICAL SOC AMER",1934
+"8",8,8,"Bomberger, EH",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000200148400006",6,"J","1934","ECOLOGICAL SOC AMER",1934
+"9",9,9,"Campbell, RS",1,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000200148400006",6,"J","1934","ECOLOGICAL SOC AMER",1934
+"10",10,10,"Baldwin, HI",1,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000200148400011",7,"J","1934","ECOLOGICAL SOC AMER",1934
+"11",11,11,"Powers, EB",1,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000200148400012",8,"J","1934","ECOLOGICAL SOC AMER",1934
+"12",12,12,"Griggs, RF",1,"George Washington Univ, Washington, DC USA.","george washington univ",NA,NA,"washington","dc","usa",NA,NA,NA,"WOS:000200148400013",9,"J","1934","ECOLOGICAL SOC AMER",1934
+"13",13,13,"Bowman, PW",1,"George Washington Univ, Washington, DC USA.","george washington univ",NA,NA,"washington","dc","usa",NA,NA,NA,"WOS:000200148400014",10,"J","1934","ECOLOGICAL SOC AMER",1934
+"14",14,14,"Graham, VE",1,"Univ Montana, Missoula, MT USA.","univ montana",NA,NA,"missoula","mt","usa",NA,NA,NA,"WOS:000200148400015",11,"J","1934","ECOLOGICAL SOC AMER",1934
+"15",15,15,"Young, RT",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000200148400015",11,"J","1934","ECOLOGICAL SOC AMER",1934
+"16",16,16,"Errington, PL",1,"Iowa State Coll, Ames, IA USA.","iowa state coll",NA,NA,"ames","ia","usa",NA,NA,NA,"WOS:000200148400016",12,"J","1934","ECOLOGICAL SOC AMER",1934
+"17",17,17,"Runyon, EH",1,"Univ Cincinnati, Cincinnati, OH USA.","univ cincinnati",NA,NA,"cincinnati","oh","usa",NA,NA,NA,"WOS:000200148400017",13,"J","1934","ECOLOGICAL SOC AMER",1934
+"18",18,18,"Clausen, RG",1,"NY State Coll Teachers, Albany, NY USA.","ny state coll teachers",NA,NA,"albany","ny","usa",NA,NA,NA,"WOS:000200148400018",14,"J","1934","ECOLOGICAL SOC AMER",1934
+"19",19,19,"Shear, GM",1,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000200148400019",15,"J","1934","ECOLOGICAL SOC AMER",1934
+"20",20,20,"Stewart, WD",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000200148400019",15,"J","1934","ECOLOGICAL SOC AMER",1934
+"21",21,21,"Young, VA",1,"New York State Coll Forestry, Syracuse, NY USA.","new york state coll forestry",NA,NA,"syracuse","ny","usa",NA,NA,NA,"WOS:000200148400020",16,"J","1934","ECOLOGICAL SOC AMER",1934
+"22",22,22,"Purer, EA",1,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000200148400021",17,"J","1934","ECOLOGICAL SOC AMER",1934
+"23",23,23,"Isaac, LA",1,"Pacif Northwest Forest Expt Stn, Portland, OR USA.","pacif northwest forest expt stn",NA,NA,"portland","or","usa",NA,NA,NA,"WOS:000200148400024",18,"J","1934","ECOLOGICAL SOC AMER",1934
+"24",24,24,"Schomer, HA",1,"Univ Wisconsin, Madison, WI USA.","univ wisconsin",NA,NA,"madison","wi","usa",NA,NA,NA,"WOS:000200148400025",19,"J","1934","ECOLOGICAL SOC AMER",1934
+"25",25,25,"Allen, WE",1,"Scripps Inst, La Jolia, CA USA.","scripps inst",NA,NA,"la jolia","ca","usa",NA,NA,NA,"WOS:000200148400026",20,"J","1934","ECOLOGICAL SOC AMER",1934
+"26",26,26,"Taylor, G",1,"Univ Chicago, Chicago, IL USA.","univ chicago",NA,NA,"chicago","il","usa",NA,NA,NA,"WOS:000200148400027",21,"J","1934","ECOLOGICAL SOC AMER",1934
+"27",27,27,"Grant, ML",1,"Univ Minnesota, Minneapolis, MN USA.","univ minnesota",NA,NA,"minneapolis","mn","usa",NA,NA,NA,"WOS:000200148400028",22,"J","1934","ECOLOGICAL SOC AMER",1934
+"28",28,28,"Schuett, F",1,"Univ Chicago, Whitman Lab, Chicago, IL USA.","univ chicago",NA,NA,"chicago","il","usa",NA,NA,NA,"WOS:000200148400029",23,"J","1934","ECOLOGICAL SOC AMER",1934
+"29",29,29,"McGinnies, WG",1,"Univ Arizona, Tucson, AZ USA.","univ arizona",NA,NA,"tucson","az","usa",NA,NA,NA,"WOS:000200148400030",24,"J","1934","ECOLOGICAL SOC AMER",1934
+"30",30,30,"Barkley, FA",1,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000200148400031",25,"J","1934","ECOLOGICAL SOC AMER",1934
+"31",31,31,"Scotland, MB",1,"NY State Coll Teachers, Albany, NY USA.","ny state coll teachers",NA,NA,"albany","ny","usa",NA,NA,NA,"WOS:000200148400032",26,"J","1934","ECOLOGICAL SOC AMER",1934
+"32",32,53,"Lutz, HJ",1,"Yale Univ, Sch Forestry, New Haven, CT USA.","yale univ",NA,NA,"new haven","ct","usa",NA,NA,NA,"WOS:000200148400033",27,"J","1934","ECOLOGICAL SOC AMER",1934
+"33",33,33,"Fife, LC",1,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000200148400034",28,"J","1934","ECOLOGICAL SOC AMER",1934
+"34",34,34,"Seifriz, W",1,"Univ Penn, Philadelphia, PA USA.","univ penn",NA,NA,"philadelphia","pa","usa",NA,NA,NA,"WOS:000200148400035",29,"J","1934","ECOLOGICAL SOC AMER",1934
+"35",35,35,"Clements, FE",1,"Carnegie Inst Washington, Santa Barbara, CA USA.","carnegie inst washington",NA,NA,"santa barbara","ca","usa",NA,NA,NA,"WOS:000200148400036",30,"J","1934","ECOLOGICAL SOC AMER",1934
+"36",36,37,"Rasmussen, DI",1,"US Forest Serv, Ogden, UT USA.","us forest serv",NA,NA,"ogden","ut","usa",NA,NA,NA,"WOS:000200148400038",31,"J","1934","ECOLOGICAL SOC AMER",1934
+"37",37,37,"Rasmussen, DI",1,"US Forest Serv, Ogden, UT USA.","us forest serv",NA,NA,"ogden","ut","usa",NA,NA,NA,"WOS:000200148400039",32,"J","1934","ECOLOGICAL SOC AMER",1934
+"38",38,38,"Juday, C",1,"Univ Wisconsin, Madison, WI USA.","univ wisconsin",NA,NA,"madison","wi","usa",NA,NA,NA,"WOS:000200148400041",33,"J","1934","ECOLOGICAL SOC AMER",1934
+"39",39,39,"Burr, GO",1,"Univ Minnesota, Dept Bot, Minneapolis, MN USA.","univ minnesota",NA,NA,"minneapolis","mn","usa",NA,NA,NA,"WOS:000200148400042",34,"J","1934","ECOLOGICAL SOC AMER",1934
+"40",40,40,"Burr, MM",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000200148400042",34,"J","1934","ECOLOGICAL SOC AMER",1934
+"41",41,47,"Taylor, WP",1,"Univ Arizona, US Biol Survey, Tucson, AZ USA.","univ arizona",NA,NA,"tucson","az","usa",NA,NA,NA,"WOS:000200148400043",35,"J","1934","ECOLOGICAL SOC AMER",1934
+"42",42,42,"Dunn, LH",1,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000200148400044",36,"J","1934","ECOLOGICAL SOC AMER",1934
+"43",43,43,"Flory, EL",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000200148400045",37,"J","1934","ECOLOGICAL SOC AMER",1934
+"44",44,44,"Weaver, JE",1,"Univ Nebraska, Lincoln, NE USA.","univ nebraska",NA,NA,"lincoln","ne","usa",NA,NA,NA,"WOS:000200148400045",37,"J","1934","ECOLOGICAL SOC AMER",1934
+"45",45,45,"Ricker, WE",1,"Pacif Biol Stn, Nanaimo, BC, Canada.","pacif biol stn",NA,NA,"nanaimo","bc","canada",NA,NA,NA,"WOS:000200148400046",38,"J","1934","ECOLOGICAL SOC AMER",1934
+"46",46,46,"Nichols, GE",1,"Yale univ, New Haven, CT USA.","yale univ",NA,NA,"new haven","ct","usa",NA,NA,NA,"WOS:000200148400047",39,"J","1934","ECOLOGICAL SOC AMER",1934
+"47",47,47,"Taylor, WP",1,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000200148400048",40,"J","1934","ECOLOGICAL SOC AMER",1934
+"48",48,48,"Carroll, JC",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000200148400049",41,"J","1934","ECOLOGICAL SOC AMER",1934
+"49",49,49,"Welton, FA",1,"Ohio Agr Expt Stn, Wooster, OH USA.","ohio agr expt stn",NA,NA,"wooster","oh","usa",NA,NA,NA,"WOS:000200148400049",41,"J","1934","ECOLOGICAL SOC AMER",1934
+"50",50,50,"Wilson, JD",3,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000200148400049",41,"J","1934","ECOLOGICAL SOC AMER",1934
+"51",51,51,"Allee, WC",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000200148400050",42,"J","1934","ECOLOGICAL SOC AMER",1934
+"52",52,52,"Masure, RH",1,"Univ Chicago, Chicago, IL USA.","univ chicago",NA,NA,"chicago","il","usa",NA,NA,NA,"WOS:000200148400050",42,"J","1934","ECOLOGICAL SOC AMER",1934
+"53",53,53,"Lutz, HJ",1,"Yale Univ, Sch Forestry, New Haven, CT USA.","yale univ",NA,NA,"new haven","ct","usa",NA,NA,NA,"WOS:000200148400051",43,"J","1934","ECOLOGICAL SOC AMER",1934
+"54",54,54,"Rugh, R",1,"Columbia Univ, Zool Lab, New York, NY USA.","columbia univ",NA,NA,"new york","ny","usa",NA,NA,NA,"WOS:000200148400052",44,"J","1934","ECOLOGICAL SOC AMER",1934
+"55",55,55,"Beall, HW",1,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000200148400053",45,"J","1934","ECOLOGICAL SOC AMER",1934
+"56",56,56,"Talbot, M",1,"Univ Chicago, Whitman Lab, Chicago, IL USA.","univ chicago",NA,NA,"chicago","il","usa",NA,NA,NA,"WOS:000200148400054",46,"J","1934","ECOLOGICAL SOC AMER",1934
+"57",57,57,"Wherry, ET",1,"Univ Penn, Philadelphia, PA USA.","univ penn",NA,NA,"philadelphia","pa","usa",NA,NA,NA,"WOS:000200148400055",47,"J","1934","ECOLOGICAL SOC AMER",1934
+"58",58,58,"Emerson, AF",1,"Univ Chicago, Chicago, IL USA.","univ chicago",NA,NA,"chicago","il","usa",NA,NA,NA,"WOS:000200148400057",48,"J","1934","ECOLOGICAL SOC AMER",1934
+"59",59,59,"Lutz, FE",1,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000200148400056",49,"J","1934","ECOLOGICAL SOC AMER",1934
+"60",60,60,"Heiberg, SO",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000200148400059",50,"J","1934","ECOLOGICAL SOC AMER",1934
+"61",61,61,"Romell, LG",1,"Cornell Univ, Ithaca, NY USA.","cornell univ",NA,NA,"ithaca","ny","usa",NA,NA,NA,"WOS:000200148400059",50,"J","1934","ECOLOGICAL SOC AMER",1934

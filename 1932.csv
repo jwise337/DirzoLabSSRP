@@ -1,0 +1,87 @@
+"","authorID","groupID","match_name","matchID","similarity","confidence","flagged","AU","AF","author_order","address","RP_address","RI","OI","EM","refID","TA","SO","UT","PT","PU","PY","university","country","state","postal_code","city","department","year"
+"1",1,1,NA,NA,NA,NA,0,"Sears, PB","Sears, PB",1,"Could not be extracted",NA,NA,NA,NA,1,"Postglacial climate in eastern North America","ECOLOGY","WOS:000200173100001","J","ECOLOGICAL SOC AMER","1932",NA,NA,NA,NA,NA,NA,1932
+"2",2,2,NA,NA,NA,NA,0,"Rau, P","Rau, P",1,"Could not be extracted",NA,NA,NA,NA,2,"Rhythmic periodicity and synchronous flashing in the firefly, Photinus
+pyralis, with notes on Photurus pennsylvanicus","ECOLOGY","WOS:000200173100002","J","ECOLOGICAL SOC AMER","1932",NA,NA,NA,NA,NA,NA,1932
+"3",3,3,NA,NA,NA,NA,0,"Withrow, AP","Withrow, AP",1,"Univ Cincinnati, Cincinnati, OH USA.",NA,NA,NA,NA,3,"Life forms and leaf size classes of certain plant communities of the
+Cincinnati region","ECOLOGY","WOS:000200173100003","J","ECOLOGICAL SOC AMER","1932","univ cincinnati","usa","oh",NA,"cincinnati",NA,1932
+"4",4,4,NA,NA,NA,NA,0,"Bressman, EN","Bressman, EN",1,"Oregon Agr Coll, Corvalis, OR USA.",NA,NA,NA,NA,4,"Environment and crop production in Oregon","ECOLOGY","WOS:000200173100004","J","ECOLOGICAL SOC AMER","1932","oregon agr coll","usa","or",NA,"corvalis",NA,1932
+"5",5,5,NA,NA,NA,NA,0,"Fluke, CL","Fluke, CL",1,"Univ Wisconsin, Madison, WI USA.",NA,NA,NA,NA,5,"Populations of white grubs in pastures with relation to the environment","ECOLOGY","WOS:000200173100005","J","ECOLOGICAL SOC AMER","1932","univ wisconsin","usa","wi",NA,"madison",NA,1932
+"6",6,6,NA,NA,NA,NA,0,"Graber, LF","Graber, LF",2,"Could not be extracted",NA,NA,NA,NA,5,"Populations of white grubs in pastures with relation to the environment","ECOLOGY","WOS:000200173100005","J","ECOLOGICAL SOC AMER","1932",NA,NA,NA,NA,NA,NA,1932
+"7",7,7,NA,NA,NA,NA,0,"Koch, K","Koch, K",3,"Could not be extracted",NA,NA,NA,NA,5,"Populations of white grubs in pastures with relation to the environment","ECOLOGY","WOS:000200173100005","J","ECOLOGICAL SOC AMER","1932",NA,NA,NA,NA,NA,NA,1932
+"8",8,8,NA,NA,NA,NA,0,"Cole, AE","Cole, AE",1,"Northwestern Univ, Dept Zool, Evanston, IL USA.",NA,NA,NA,NA,6,"Method for determining the dissolved oxygen content of the mud at the
+bottom of a pond","ECOLOGY","WOS:000200173100006","J","ECOLOGICAL SOC AMER","1932","northwestern univ","usa","il",NA,"evanston",NA,1932
+"9",9,9,NA,NA,NA,NA,0,"Grierson, MC","Grierson, MC",2,"Could not be extracted",NA,NA,NA,NA,7,"Winter habits and yearly food consumption of adult spotted newts,
+Triturus viridescens","ECOLOGY","WOS:000200173100007","J","ECOLOGICAL SOC AMER","1932",NA,NA,NA,NA,NA,NA,1932
+"10",10,10,NA,NA,NA,NA,0,"Morgan, AH","Morgan, AH",1,"Could not be extracted",NA,NA,NA,NA,7,"Winter habits and yearly food consumption of adult spotted newts,
+Triturus viridescens","ECOLOGY","WOS:000200173100007","J","ECOLOGICAL SOC AMER","1932",NA,NA,NA,NA,NA,NA,1932
+"11",11,11,NA,NA,NA,NA,0,"Cooper, WS","Cooper, WS",1,"Univ Minnesota, Minneapolis, MN USA.",NA,NA,NA,NA,8,"Reconstruction of a late-pleistocene biotic community in Minneapolis,
+Minn","ECOLOGY","WOS:000200173100008","J","ECOLOGICAL SOC AMER","1932","univ minnesota","usa","mn",NA,"minneapolis",NA,1932
+"12",12,12,NA,NA,NA,NA,0,"Foot, H","Foot, H",2,"Could not be extracted",NA,NA,NA,NA,8,"Reconstruction of a late-pleistocene biotic community in Minneapolis,
+Minn","ECOLOGY","WOS:000200173100008","J","ECOLOGICAL SOC AMER","1932",NA,NA,NA,NA,NA,NA,1932
+"13",13,48,NA,48,NA,NA,0,"Greene, RA","Greene, RA",1,"Univ Arizona, Tucson, AZ USA.",NA,NA,NA,NA,9,"The influence of two burrowing rodents, Dipodomys spectabilis
+spectabilis (kangaroo rat) and Neotoma albigula albigula (pack rat) on
+desert soils in Arizona","ECOLOGY","WOS:000200173100009","J","ECOLOGICAL SOC AMER","1932","univ arizona","usa","az",NA,"tucson",NA,1932
+"14",14,14,NA,NA,NA,NA,0,"Reynard, C","Reynard, C",2,"Could not be extracted",NA,NA,NA,NA,9,"The influence of two burrowing rodents, Dipodomys spectabilis
+spectabilis (kangaroo rat) and Neotoma albigula albigula (pack rat) on
+desert soils in Arizona","ECOLOGY","WOS:000200173100009","J","ECOLOGICAL SOC AMER","1932",NA,NA,NA,NA,NA,NA,1932
+"15",15,15,NA,NA,NA,NA,0,"Shoup, CS","Shoup, CS",1,"Vanderbilt Univ, Nashville, TN USA.",NA,NA,NA,NA,10,"Salinity of the medium and its effect on respiration in the sea-anemone","ECOLOGY","WOS:000200173100010","J","ECOLOGICAL SOC AMER","1932","vanderbilt univ","usa","tn",NA,"nashville",NA,1932
+"16",16,16,NA,NA,NA,NA,0,"Durrell, LW","Durrell, LW",2,"Could not be extracted",NA,NA,NA,NA,11,"A recording atmometer","ECOLOGY","WOS:000200173100016","J","ECOLOGICAL SOC AMER","1932",NA,NA,NA,NA,NA,NA,1932
+"17",17,17,NA,NA,NA,NA,0,"Morris, MS","Morris, MS",1,"Could not be extracted",NA,NA,NA,NA,11,"A recording atmometer","ECOLOGY","WOS:000200173100016","J","ECOLOGICAL SOC AMER","1932",NA,NA,NA,NA,NA,NA,1932
+"18",18,18,NA,NA,NA,NA,0,"Shelford, VF","Shelford, VF",1,"Could not be extracted",NA,NA,NA,NA,12,"Basic principles of the classification of communities and habitats and
+the use of terms","ECOLOGY","WOS:000200173100019","J","ECOLOGICAL SOC AMER","1932",NA,NA,NA,NA,NA,NA,1932
+"19",19,19,NA,NA,NA,NA,0,"Cottle, HJ","Cottle, HJ",1,"Sul Ross State Teachers Coll, Alpine, TX USA.",NA,NA,NA,NA,13,"Vegetation on north and south slopes of mountains in southwestern Texas","ECOLOGY","WOS:000200173100020","J","ECOLOGICAL SOC AMER","1932","sul ross state teachers coll","usa","tx",NA,"alpine",NA,1932
+"20",20,20,NA,NA,NA,NA,0,"Pearse, AS","Pearse, AS",1,"Duke Univ, Durham, NC USA.",NA,NA,NA,NA,14,"Papasites of Japanese salamanders","ECOLOGY","WOS:000200173100021","J","ECOLOGICAL SOC AMER","1932","duke univ","usa","nc",NA,"durham",NA,1932
+"21",21,21,NA,NA,NA,NA,0,"Humphrey, RR","Humphrey, RR",1,"Carnegie Inst Washington, Desert Lab, Tucson, AZ USA.",NA,NA,NA,NA,15,"The morphology, physiology and ecology of Coldenia canescens","ECOLOGY","WOS:000200173100022","J","ECOLOGICAL SOC AMER","1932","carnegie inst washington","usa","az",NA,"tucson",NA,1932
+"22",22,22,NA,NA,NA,NA,0,"Pickford, GD","Pickford, GD",1,"Intermt Forest & Range Expt Stn, Ogden, UT USA.",NA,NA,NA,NA,16,"The influence of continued heavy grazing and of promiscuous burning on
+spring-fall ranges in Utah","ECOLOGY","WOS:000200173100023","J","ECOLOGICAL SOC AMER","1932","intermt forest & range expt stn","usa","ut",NA,"ogden",NA,1932
+"23",23,23,NA,NA,NA,NA,0,"Park, T","Park, T",1,"Univ Chicago, Whitman Lab, Chicago, IL USA.",NA,NA,NA,NA,17,"Studies in population physiology the relation of numbers to initial
+population growth in the flour beetle Tribolium confusum Duval","ECOLOGY","WOS:000200173100024","J","ECOLOGICAL SOC AMER","1932","univ chicago","usa","il",NA,"chicago",NA,1932
+"24",24,24,NA,NA,NA,NA,0,"Ashby, E","Ashby, E",1,"Carnegie Inst, Desert Lab, Tucson, AZ USA.",NA,NA,NA,NA,18,"Transpiratory organs of Larrea tridentata and their ecological
+significance","ECOLOGY","WOS:000200173100025","J","ECOLOGICAL SOC AMER","1932","carnegie inst","usa","az",NA,"tucson",NA,1932
+"25",25,25,NA,NA,NA,NA,0,"Phillips, J","Phillips, J",1,"Univ Johannesburg, Johannesburg, South Africa.",NA,NA,NA,NA,19,"Root nodules of podocarpus","ECOLOGY","WOS:000200173100026","J","ECOLOGICAL SOC AMER","1932","univ johannesburg","south africa",NA,NA,"johannesburg",NA,1932
+"26",26,26,NA,NA,NA,NA,0,"Alexander, G","Alexander, G",1,"Univ Colorado, Boulder, CO USA.",NA,NA,NA,NA,20,"Introduction to the literature of vertebrate zoology","ECOLOGY","WOS:000200173100027","J","ECOLOGICAL SOC AMER","1932","univ colorado","usa","co",NA,"boulder",NA,1932
+"27",27,27,NA,NA,NA,NA,0,"McGinitie, GE","McGinitie, GE",1,"Hopkins Marine Stn, Pacific Grove, CA USA.",NA,NA,NA,NA,21,"Animal ecology defined?","ECOLOGY","WOS:000200173100030","J","ECOLOGICAL SOC AMER","1932","hopkins marine stn","usa","ca",NA,"pacific grove",NA,1932
+"28",28,28,NA,NA,NA,NA,0,"Cole, AC","Cole, AC",1,"Ohio State Univ, Columbus, OH USA.",NA,NA,NA,NA,22,"Use of the quadrat in studying the plant cutting activities of the ant","ECOLOGY","WOS:000200173100031","J","ECOLOGICAL SOC AMER","1932","ohio state univ","usa","oh",NA,"columbus",NA,1932
+"29",29,29,NA,NA,NA,NA,0,"Hall, RC","Hall, RC",1,"Univ Michigan, Sch Forrestry & Conservat, Ann Arbor, MI USA.",NA,NA,NA,NA,23,"A simple, inexiensive instrument for the measurement of light","ECOLOGY","WOS:000200173100032","J","ECOLOGICAL SOC AMER","1932","univ michigan","usa","mi",NA,"ann arbor",NA,1932
+"30",30,30,NA,NA,NA,NA,0,"Stanley, J","Stanley, J",1,"Could not be extracted",NA,NA,NA,NA,24,"A method of making permanent black atmometer bulbs","ECOLOGY","WOS:000200173100033","J","ECOLOGICAL SOC AMER","1932",NA,NA,NA,NA,NA,NA,1932
+"31",31,31,NA,NA,NA,NA,0,"Allard, HA","Allard, HA",1,"US Dept Agr, Washington, DC USA.",NA,NA,NA,NA,25,"Length of day in relation to the natural and artificial distribution of
+plants","ECOLOGY","WOS:000200173100034","J","ECOLOGICAL SOC AMER","1932","us dept agr","usa","dc",NA,"washington",NA,1932
+"32",32,32,NA,NA,NA,NA,0,"Tate, GHH","Tate, GHH",1,"Could not be extracted",NA,NA,NA,NA,26,"Life zones at Mount Roraima","ECOLOGY","WOS:000200173100035","J","ECOLOGICAL SOC AMER","1932",NA,NA,NA,NA,NA,NA,1932
+"33",33,33,NA,NA,NA,NA,0,"Demaree, D","Demaree, D",1,"Stanford Univ, Stanford, CA USA.",NA,NA,NA,NA,27,"Submerging experiments with taxodium","ECOLOGY","WOS:000200173100036","J","ECOLOGICAL SOC AMER","1932","stanford univ","usa","ca",NA,"stanford",NA,1932
+"34",34,34,NA,NA,NA,NA,0,"Shaw, G","Shaw, G",1,"Univ Chicago, Whitman Lab, Chicago, IL USA.",NA,NA,NA,NA,28,"The effect of biologically conditioned water upon rate of growth in
+fishes and amphibia","ECOLOGY","WOS:000200173100037","J","ECOLOGICAL SOC AMER","1932","univ chicago","usa","il",NA,"chicago",NA,1932
+"35",35,35,NA,NA,NA,NA,0,"Whitfield, CJ","Whitfield, CJ",1,"Could not be extracted",NA,NA,NA,NA,29,"Osmotic concentrations of chaparral, coastal sagebrush, and dune species
+of Southern California","ECOLOGY","WOS:000200173100038","J","ECOLOGICAL SOC AMER","1932",NA,NA,NA,NA,NA,NA,1932
+"36",36,36,NA,NA,NA,NA,0,"Baker, FC","Baker, FC",1,"Could not be extracted",NA,NA,NA,NA,30,"The ecology of say's limnaeus elodes","ECOLOGY","WOS:000200173100039","J","ECOLOGICAL SOC AMER","1932",NA,NA,NA,NA,NA,NA,1932
+"37",37,37,NA,NA,NA,NA,0,"DeForest, H","DeForest, H",2,"Could not be extracted",NA,NA,NA,NA,31,"A comparision of transpiration rates in Chaparral","ECOLOGY","WOS:000200173100040","J","ECOLOGICAL SOC AMER","1932",NA,NA,NA,NA,NA,NA,1932
+"38",38,38,NA,NA,NA,NA,0,"Shapiro, AA","Shapiro, AA",1,"Univ So Calif, Los Angeles, CA USA.",NA,NA,NA,NA,31,"A comparision of transpiration rates in Chaparral","ECOLOGY","WOS:000200173100040","J","ECOLOGICAL SOC AMER","1932","univ so calif","usa","ca",NA,"los angeles",NA,1932
+"39",39,39,NA,NA,NA,NA,0,"Carter, W","Carter, W",1,"Could not be extracted",NA,NA,NA,NA,32,"Studies of populations of pseudococcus brevipes (CKL) occurring on
+pineapple plants","ECOLOGY","WOS:000200173100041","J","ECOLOGICAL SOC AMER","1932",NA,NA,NA,NA,NA,NA,1932
+"40",40,40,NA,NA,NA,NA,0,"Svenson, HK","Svenson, HK",1,"Could not be extracted",NA,NA,NA,NA,33,"A vegetation map","ECOLOGY","WOS:000200173100042","J","ECOLOGICAL SOC AMER","1932",NA,NA,NA,NA,NA,NA,1932
+"41",41,41,NA,NA,NA,NA,0,"Elton, C","Elton, C",1,"Could not be extracted",NA,NA,NA,NA,34,"Animal agregations","ECOLOGY","WOS:000200173100043","J","ECOLOGICAL SOC AMER","1932",NA,NA,NA,NA,NA,NA,1932
+"42",42,42,NA,NA,NA,NA,0,"Haig, IT","Haig, IT",1,"Could not be extracted",NA,NA,NA,NA,35,"Premature germination of forest tree seed during natural storage in duff","ECOLOGY","WOS:000200173100046","J","ECOLOGICAL SOC AMER","1932",NA,NA,NA,NA,NA,NA,1932
+"43",43,43,NA,NA,NA,NA,0,"Storer, TI","Storer, TI",1,"Univ Calif, Davis, CA USA.",NA,NA,NA,NA,36,"Factors influencing wild life in California, past and present","ECOLOGY","WOS:000200173100048","J","ECOLOGICAL SOC AMER","1932","univ calif","usa","ca",NA,"davis",NA,1932
+"44",44,44,NA,NA,NA,NA,0,"Chapman, HH","Chapman, HH",1,"Yale Univ, Sch Forestry, New Haven, CT USA.",NA,NA,NA,NA,37,"Is the longleaf type a climax?","ECOLOGY","WOS:000200173100049","J","ECOLOGICAL SOC AMER","1932","yale univ","usa","ct",NA,"new haven",NA,1932
+"45",45,45,NA,NA,NA,NA,0,"Keller, JG","Keller, JG",2,"Could not be extracted",NA,NA,NA,NA,38,"Studies in nocturnal ecology, II Preliminary analysis of activity rhyfhm
+in nocturnal forest insects","ECOLOGY","WOS:000200173100050","J","ECOLOGICAL SOC AMER","1932",NA,NA,NA,NA,NA,NA,1932
+"46",46,46,NA,NA,NA,NA,0,"Park, O","Park, O",1,"Could not be extracted",NA,NA,NA,NA,38,"Studies in nocturnal ecology, II Preliminary analysis of activity rhyfhm
+in nocturnal forest insects","ECOLOGY","WOS:000200173100050","J","ECOLOGICAL SOC AMER","1932",NA,NA,NA,NA,NA,NA,1932
+"47",47,47,NA,NA,NA,NA,0,"Emerson, FW","Emerson, FW",1,"Could not be extracted",NA,NA,NA,NA,39,"The tension zone between the grama grass and pinon-juniper associations
+in Northeastern New Mexico","ECOLOGY","WOS:000200173100051","J","ECOLOGICAL SOC AMER","1932",NA,NA,NA,NA,NA,NA,1932
+"48",48,48,NA,NA,NA,NA,0,"Greene, RA","Greene, RA",1,"Univ Arizona, Tucson, AZ USA.",NA,NA,NA,NA,40,"The influence of two burrowing rodents, dipodomys spectabilis
+spectabilis (Kangaroo rat) and neotoma albigula albigula (Pack rat), on
+desert soils in Arizona II Physical effects","ECOLOGY","WOS:000200173100052","J","ECOLOGICAL SOC AMER","1932","univ arizona","usa","az",NA,"tucson",NA,1932
+"49",49,49,NA,NA,NA,NA,0,"Murphy, GH","Murphy, GH",2,"Could not be extracted",NA,NA,NA,NA,40,"The influence of two burrowing rodents, dipodomys spectabilis
+spectabilis (Kangaroo rat) and neotoma albigula albigula (Pack rat), on
+desert soils in Arizona II Physical effects","ECOLOGY","WOS:000200173100052","J","ECOLOGICAL SOC AMER","1932",NA,NA,NA,NA,NA,NA,1932
+"50",50,50,NA,NA,NA,NA,0,"Campbell, RS","Campbell, RS",1,"Could not be extracted",NA,NA,NA,NA,41,"Growth and reproduction of Yucca elata","ECOLOGY","WOS:000200173100053","J","ECOLOGICAL SOC AMER","1932",NA,NA,NA,NA,NA,NA,1932
+"51",51,51,NA,NA,NA,NA,0,"Kelier, JG","Kelier, JG",2,"Could not be extracted",NA,NA,NA,NA,41,"Growth and reproduction of Yucca elata","ECOLOGY","WOS:000200173100053","J","ECOLOGICAL SOC AMER","1932",NA,NA,NA,NA,NA,NA,1932
+"52",52,52,NA,NA,NA,NA,0,"Carmichael, EB","Carmichael, EB",1,"Univ Alabama, Tuscaloosa, AL USA.",NA,NA,NA,NA,42,"The effects of dehydration upon the hatchabilty of Limax flavus eggs","ECOLOGY","WOS:000200173100054","J","ECOLOGICAL SOC AMER","1932","univ alabama","usa","al",NA,"tuscaloosa",NA,1932
+"53",53,53,NA,NA,NA,NA,0,"Rivers, TD","Rivers, TD",2,"Could not be extracted",NA,NA,NA,NA,42,"The effects of dehydration upon the hatchabilty of Limax flavus eggs","ECOLOGY","WOS:000200173100054","J","ECOLOGICAL SOC AMER","1932",NA,NA,NA,NA,NA,NA,1932
+"54",54,54,NA,NA,NA,NA,0,"Taylor, RF","Taylor, RF",1,"US Forest Serv, Juneau, AK USA.",NA,NA,NA,NA,43,"The successional trend and its relation to secondgrowth forests in
+Southeastern Alaska","ECOLOGY","WOS:000200173100055","J","ECOLOGICAL SOC AMER","1932","us forest serv","usa","ak",NA,"juneau",NA,1932
+"55",55,55,NA,NA,NA,NA,0,"Rice, LA","Rice, LA",1,"Univ Utah, Salt Lake City, UT USA.",NA,NA,NA,NA,44,"The effect of fire on the prairie animal communities","ECOLOGY","WOS:000200173100056","J","ECOLOGICAL SOC AMER","1932","univ utah","usa","ut",NA,"salt lake city",NA,1932
+"56",56,56,NA,NA,NA,NA,0,"Allee, WC","Allee, WC",1,"Univ Chicago, Whitman Lab, Chicago, IL USA.",NA,NA,NA,NA,45,"Animal ecology","ECOLOGY","WOS:000200173100059","J","ECOLOGICAL SOC AMER","1932","univ chicago","usa","il",NA,"chicago",NA,1932
+"57",57,57,NA,NA,NA,NA,0,"Bronson, TE","Bronson, TE",1,"Could not be extracted",NA,NA,NA,NA,46,"A simple instrument for recording rainfall and velocity and direction of
+the wind","ECOLOGY","WOS:000200173100060","J","ECOLOGICAL SOC AMER","1932",NA,NA,NA,NA,NA,NA,1932
+"58",58,58,NA,NA,NA,NA,0,"Klugh, AB","Klugh, AB",1,"Could not be extracted",NA,NA,NA,NA,47,"A note in regard to classification of communities and habitats","ECOLOGY","WOS:000200173100061","J","ECOLOGICAL SOC AMER","1932",NA,NA,NA,NA,NA,NA,1932

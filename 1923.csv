@@ -1,0 +1,56 @@
+"","authorID","groupID","match_name","matchID","similarity","confidence","flagged","AU","AF","author_order","address","RP_address","RI","OI","EM","refID","TA","SO","UT","PT","PU","PY","university","country","state","postal_code","city","department","year"
+"1",1,1,NA,NA,NA,NA,0,"Visher, SS","Visher, SS",1,"Indiana Univ, Bloomington, IN USA.",NA,NA,NA,NA,1,"Tropical climates from an ecological viewpoint","ECOLOGY","WOS:000200147700001","J","ECOLOGICAL SOC AMER","1923","indiana univ","usa","in",NA,"bloomington",NA,1923
+"2",2,17,NA,17,NA,NA,0,"Nichols, GE","Nichols, GE",1,"Yale Univ, New Haven, CT USA.",NA,NA,NA,NA,2,"A working basis for the ecological classification of plant communities","ECOLOGY","WOS:000200147700002","J","ECOLOGICAL SOC AMER","1923","yale univ","usa","ct",NA,"new haven",NA,1923
+"3",3,3,NA,NA,NA,NA,0,"Pearse, AS","Pearse, AS",1,"Univ Wisconsin, Zool Lab, Madison, WI USA.",NA,NA,NA,NA,3,"The abundance and migration of turtles","ECOLOGY","WOS:000200147700003","J","ECOLOGICAL SOC AMER","1923","univ wisconsin","usa","wi",NA,"madison",NA,1923
+"4",4,4,NA,NA,NA,NA,0,"Hayes, WP","Hayes, WP",2,"Could not be extracted",NA,NA,NA,NA,4,"Soil temperature and its influence on white grub activities","ECOLOGY","WOS:000200147700004","J","ECOLOGICAL SOC AMER","1923",NA,NA,NA,NA,NA,NA,1923
+"5",5,5,NA,NA,NA,NA,0,"McColloch, JW","McColloch, JW",1,"Could not be extracted",NA,NA,NA,NA,4,"Soil temperature and its influence on white grub activities","ECOLOGY","WOS:000200147700004","J","ECOLOGICAL SOC AMER","1923",NA,NA,NA,NA,NA,NA,1923
+"6",6,6,NA,NA,NA,NA,0,"Gates, FC","Gates, FC",1,"Could not be extracted",NA,NA,NA,NA,5,"Influence of moonlight on movements of leguminous leaflets","ECOLOGY","WOS:000200147700005","J","ECOLOGICAL SOC AMER","1923",NA,NA,NA,NA,NA,NA,1923
+"7",7,23,NA,23,NA,NA,0,"Dice, LR","Dice, LR",1,"Univ Michigan, Ann Arbor, MI USA.",NA,NA,NA,NA,6,"Notes on the communities of the vertebrates of, Riley County, Kansas,
+with especial reference to amphibians, reptiles, and mammals","ECOLOGY","WOS:000200147700006","J","ECOLOGICAL SOC AMER","1923","univ michigan","usa","mi",NA,"ann arbor",NA,1923
+"8",8,8,NA,NA,NA,NA,0,"Bates, CG","Bates, CG",1,"Could not be extracted",NA,NA,NA,NA,7,"The transect of a mountain valley","ECOLOGY","WOS:000200147700007","J","ECOLOGICAL SOC AMER","1923",NA,NA,NA,NA,NA,NA,1923
+"9",9,9,NA,NA,NA,NA,0,"Larsen, JA","Larsen, JA",1,"Could not be extracted",NA,NA,NA,NA,8,"Association of trees, shrubs, and other vegetation in the northern Idaho
+forests","ECOLOGY","WOS:000200147700008","J","ECOLOGICAL SOC AMER","1923",NA,NA,NA,NA,NA,NA,1923
+"10",10,10,NA,NA,NA,NA,0,"Arrhenius, O","Arrhenius, O",1,"Could not be extracted",NA,NA,NA,NA,9,"Statistical investigations in the constitution of plant associations","ECOLOGY","WOS:000200147700009","J","ECOLOGICAL SOC AMER","1923",NA,NA,NA,NA,NA,NA,1923
+"11",11,11,NA,NA,NA,NA,0,"Allen, WE","Allen, WE",1,"Could not be extracted",NA,NA,NA,NA,10,"Studies on catches of marine phytoplankton made by aid of the Kofoid
+bucket in 1921","ECOLOGY","WOS:000200147700010","J","ECOLOGICAL SOC AMER","1923",NA,NA,NA,NA,NA,NA,1923
+"12",12,22,NA,22,NA,NA,0,"Cooper, WS","Cooper, WS",1,"Univ Minnesota, Minneapolis, MN USA.",NA,NA,NA,NA,11,"The recent ecological history of Glacier Bay, Alaska: I. The
+interglacial forests of Glacier Bay","ECOLOGY","WOS:000200147700012","J","ECOLOGICAL SOC AMER","1923","univ minnesota","usa","mn",NA,"minneapolis",NA,1923
+"13",13,13,NA,NA,NA,NA,0,"Pike, FH","Pike, FH",1,"Columbia Univ, New York, NY USA.",NA,NA,NA,NA,12,"Adaptation considered as a special case under the theorem of le
+Chateleir","ECOLOGY","WOS:000200147700013","J","ECOLOGICAL SOC AMER","1923","columbia univ","usa","ny",NA,"new york",NA,1923
+"14",14,14,NA,NA,NA,NA,0,"Fuller, GD","Fuller, GD",1,"Univ Chicago, Chicago, IL USA.",NA,NA,NA,NA,13,"An edaphic limit to forests in the prairie region of Illinois","ECOLOGY","WOS:000200147700014","J","ECOLOGICAL SOC AMER","1923","univ chicago","usa","il",NA,"chicago",NA,1923
+"15",15,15,NA,NA,NA,NA,0,"Reese, AM","Reese, AM",1,"W Virginia Univ, Morgantown, WV USA.",NA,NA,NA,NA,14,"The habitat of the Crocodilia of British Guiana","ECOLOGY","WOS:000200147700015","J","ECOLOGICAL SOC AMER","1923","w virginia univ","usa","wv",NA,"morgantown",NA,1923
+"16",16,16,NA,NA,NA,NA,0,"Crawford, DR","Crawford, DR",1,"Univ Washington, Seattle, WA USA.",NA,NA,NA,NA,15,"The significance of food supply in the larval development of fishes","ECOLOGY","WOS:000200147700016","J","ECOLOGICAL SOC AMER","1923","univ washington","usa","wa",NA,"seattle",NA,1923
+"17",17,17,NA,NA,NA,NA,0,"Nichols, GE","Nichols, GE",1,"Yale Univ, New Haven, CT USA.",NA,NA,NA,NA,16,"A working basis for the ecological classification of plant communities","ECOLOGY","WOS:000200147700017","J","ECOLOGICAL SOC AMER","1923","yale univ","usa","ct",NA,"new haven",NA,1923
+"18",18,18,NA,NA,NA,NA,0,"Phillips, EF","Phillips, EF",1,"Could not be extracted",NA,NA,NA,NA,17,"The honey crop from introduced plants","ECOLOGY","WOS:000200147700018","J","ECOLOGICAL SOC AMER","1923",NA,NA,NA,NA,NA,NA,1923
+"19",19,19,NA,NA,NA,NA,0,"Hensel, RL","Hensel, RL",1,"Could not be extracted",NA,NA,NA,NA,18,"Recent studies on the effect of burning on grassland vegetation","ECOLOGY","WOS:000200147700019","J","ECOLOGICAL SOC AMER","1923",NA,NA,NA,NA,NA,NA,1923
+"20",20,20,NA,NA,NA,NA,0,"Burns, GP","Burns, GP",1,"Could not be extracted",NA,NA,NA,NA,19,"Measurement of solar radiant energy in plant habitats","ECOLOGY","WOS:000200147700020","J","ECOLOGICAL SOC AMER","1923",NA,NA,NA,NA,NA,NA,1923
+"21",21,21,NA,NA,NA,NA,0,"Jackson, CF","Jackson, CF",1,"Could not be extracted",NA,NA,NA,NA,20,"Proceedings business meetings of the Ecological Society of America at
+Boston","ECOLOGY","WOS:000200147700022","J","ECOLOGICAL SOC AMER","1923",NA,NA,NA,NA,NA,NA,1923
+"22",22,22,NA,33,NA,NA,0,"Cooper, WS","Cooper, WS",1,"Univ Minnesota, Minneapolis, MN USA.",NA,NA,NA,NA,21,"The recent ecological history of Glacier Bay, Alaska: II. The present
+vegetation cycle","ECOLOGY","WOS:000200147700023","J","ECOLOGICAL SOC AMER","1923","univ minnesota","usa","mn",NA,"minneapolis",NA,1923
+"23",23,23,NA,NA,NA,NA,0,"Dice, LR","Dice, LR",1,"Univ Michigan, Ann Arbor, MI USA.",NA,NA,NA,NA,22,"Mammal associations and habitats of the Flathead Lake region, Montana","ECOLOGY","WOS:000200147700024","J","ECOLOGICAL SOC AMER","1923","univ michigan","usa","mi",NA,"ann arbor",NA,1923
+"24",24,36,NA,36,NA,NA,0,"Harvey, RB","Harvey, RB",1,"Univ Minnesota, Minneapolis, MN USA.",NA,NA,NA,NA,23,"Cambial temperatures of trees in winter and their relation to sun scald","ECOLOGY","WOS:000200147700025","J","ECOLOGICAL SOC AMER","1923","univ minnesota","usa","mn",NA,"minneapolis",NA,1923
+"25",25,25,NA,NA,NA,NA,0,"Shreve, EB","Shreve, EB",1,"Desert Lab, Tucson, AZ USA.",NA,NA,NA,NA,24,"Seasonal changes in the water relations of desert plants","ECOLOGY","WOS:000200147700026","J","ECOLOGICAL SOC AMER","1923","desert lab","usa","az",NA,"tucson",NA,1923
+"26",26,26,NA,NA,NA,NA,0,"Bird, H","Bird, H",1,"Could not be extracted",NA,NA,NA,NA,25,"On the ""Boreal"" character of bogs and an artificial modification","ECOLOGY","WOS:000200147700027","J","ECOLOGICAL SOC AMER","1923",NA,NA,NA,NA,NA,NA,1923
+"27",27,27,NA,NA,NA,NA,0,"Harshberger, JW","Harshberger, JW",1,"Univ Penn, Philadelphia, PA USA.",NA,NA,NA,NA,26,"Hemerecology: The ecology of cultivated fields, parks, and gardens","ECOLOGY","WOS:000200147700028","J","ECOLOGICAL SOC AMER","1923","univ penn","usa","pa",NA,"philadelphia",NA,1923
+"28",28,28,NA,NA,NA,NA,0,"Powers, EB","Powers, EB",1,"Univ Nebraska, Lincoln, NE USA.",NA,NA,NA,NA,27,"The absorption of oxygen by the herring as affected by the carbon
+dioxide tension of the sea water","ECOLOGY","WOS:000200147700029","J","ECOLOGICAL SOC AMER","1923","univ nebraska","usa","ne",NA,"lincoln",NA,1923
+"29",29,29,NA,NA,NA,NA,0,"Connell, AB","Connell, AB",1,"Could not be extracted",NA,NA,NA,NA,28,"Measuring soil temperature by standard thermometer suspended in iron
+pipe","ECOLOGY","WOS:000200147700030","J","ECOLOGICAL SOC AMER","1923",NA,NA,NA,NA,NA,NA,1923
+"30",30,30,NA,NA,NA,NA,0,"Schaffner, JH","Schaffner, JH",1,"Ohio State Univ, Columbus, OH USA.",NA,NA,NA,NA,29,"The influence of relative length of daylight on the reversal of sex in
+hemp","ECOLOGY","WOS:000200147700032","J","ECOLOGICAL SOC AMER","1923","ohio state univ","usa","oh",NA,"columbus",NA,1923
+"31",31,31,NA,NA,NA,NA,0,"Redway, JW","Redway, JW",1,"Meteorol Lab, Mt Vernon, NY USA.",NA,NA,NA,NA,30,"Disease carriers: Biological and geographical","ECOLOGY","WOS:000200147700033","J","ECOLOGICAL SOC AMER","1923","meteorol lab","usa","ny",NA,"mt vernon",NA,1923
+"32",32,32,NA,NA,NA,NA,0,"Allee, WC","Allee, WC",1,"Could not be extracted",NA,NA,NA,NA,31,"Studies in marine ecology: IV. The effect of temperature in limiting the
+geographical range of invertebrates of the Woods Hole littoral","ECOLOGY","WOS:000200147700034","J","ECOLOGICAL SOC AMER","1923",NA,NA,NA,NA,NA,NA,1923
+"33",33,22,NA,12,NA,NA,0,"Cooper, WS","Cooper, WS",1,"Univ Minnesota, Minneapolis, MN USA.",NA,NA,NA,NA,32,"The recent ecological history of Glacier Bay, Alaska: III. Permanent
+quadrats at Glacier Bay: An initial report upon a long-period study","ECOLOGY","WOS:000200147700035","J","ECOLOGICAL SOC AMER","1923","univ minnesota","usa","mn",NA,"minneapolis",NA,1923
+"34",34,34,NA,NA,NA,NA,0,"Klugh, AB","Klugh, AB",1,"Queens Univ, Kingston, ON, Canada.",NA,NA,NA,NA,33,"A common system of classification in plant and animal ecology","ECOLOGY","WOS:000200147700036","J","ECOLOGICAL SOC AMER","1923","queens univ","canada","on",NA,"kingston",NA,1923
+"35",35,35,NA,NA,NA,NA,0,"Haasis, FW","Haasis, FW",1,"Could not be extracted",NA,NA,NA,NA,34,"Frost heaving of western yellow pine seedlings","ECOLOGY","WOS:000200147700037","J","ECOLOGICAL SOC AMER","1923",NA,NA,NA,NA,NA,NA,1923
+"36",36,36,NA,NA,NA,NA,0,"Harvey, RB","Harvey, RB",1,"Univ Minnesota, Minneapolis, MN USA.",NA,NA,NA,NA,35,"Relation of the color of bark to the temperature of the cambium in
+winter","ECOLOGY","WOS:000200147700038","J","ECOLOGICAL SOC AMER","1923","univ minnesota","usa","mn",NA,"minneapolis",NA,1923
+"37",37,37,NA,NA,NA,NA,0,"Wherry, ET","Wherry, ET",1,"Could not be extracted",NA,NA,NA,NA,36,"A soil acidity map of a Long Island wild garden","ECOLOGY","WOS:000200147700039","J","ECOLOGICAL SOC AMER","1923",NA,NA,NA,NA,NA,NA,1923
+"38",38,38,NA,NA,NA,NA,0,"Cowles, RP","Cowles, RP",1,"Johns Hopkins Univ, Baltimore, MD USA.",NA,NA,NA,NA,37,"The hydrogen-ion concentration of a creek, its waterfall, swamp and
+ponds","ECOLOGY","WOS:000200147700040","J","ECOLOGICAL SOC AMER","1923","johns hopkins univ","usa","md",NA,"baltimore",NA,1923
+"39",39,39,NA,NA,NA,NA,0,"Schwitalla, AM","Schwitalla, AM",2,"Could not be extracted",NA,NA,NA,NA,37,"The hydrogen-ion concentration of a creek, its waterfall, swamp and
+ponds","ECOLOGY","WOS:000200147700040","J","ECOLOGICAL SOC AMER","1923",NA,NA,NA,NA,NA,NA,1923
+"40",40,40,NA,NA,NA,NA,0,"de Forest, H","de Forest, H",1,"Univ S Calif, Los Angeles, CA USA.",NA,NA,NA,NA,38,"Rainfall interception by plants: An experimental note","ECOLOGY","WOS:000200147700041","J","ECOLOGICAL SOC AMER","1923","univ s calif","usa","ca",NA,"los angeles",NA,1923

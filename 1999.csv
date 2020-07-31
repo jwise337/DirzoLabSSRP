@@ -1,0 +1,553 @@
+"","authorID","groupID","author_name","author_order","address","university","department","postal_code","city","state","country","RP_address","RI","OI","UT","refID","PT","PY","PU","year"
+"1",1,1,"Travers, SE",1,"Univ Calif Santa Barbara, Dept Ecol Evolut & Marine Biol, Santa Barbara, CA 93106 USA.","univ calif santa barbara","dept ecol evolut & marine biol","93106","santa barbara","ca","usa",NA,NA,NA,"WOS:000083009400025",1,"J","1999","ECOLOGICAL SOC AMER",1999
+"2",2,2,"King, DA",1,"Australian Natl Univ, Res Sch Biol Sci, Canberra, ACT 0200, Australia.","australian natl univ","res sch biol sci",NA,"canberra","act ","australia",NA,NA,NA,"WOS:000082408300013",2,"J","1999","WILEY-BLACKWELL",1999
+"3",3,293,"Bazzaz, FA",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000085187900011",3,"J","1999","WILEY",1999
+"4",4,520,"Thomas, SC",1,"Harvard Univ, Dept Organism & Evolutionary Biol, Cambridge, MA 02138 USA.","harvard univ","dept organism & evolutionary biol","02138","cambridge","ma","usa",NA,NA,NA,"WOS:000085187900011",3,"J","1999","WILEY",1999
+"5",5,5,"Moilanen, A",1,"Univ Helsinki, Dept Ecol & Systemat, Div Populat Biol, FIN-00014 Helsinki, Finland.","univ helsinki","dept ecol & systemat","00014","f hki",NA,"finland",NA,"A-5005-2011",NA,"WOS:000082154300024",4,"J","1999","ECOLOGICAL SOC AMER",1999
+"6",6,6,"Gould, FL",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000082154300028",5,"J","1999","ECOLOGICAL SOC AMER",1999
+"7",7,7,"Sisterson, MS",1,"N Carolina State Univ, Dept Entomol, Raleigh, NC 27695 USA.","n carolina state univ","dept entomol","27695","raleigh","nc","usa",NA,NA,NA,"WOS:000082154300028",5,"J","1999","ECOLOGICAL SOC AMER",1999
+"8",8,8,"Linder, CR",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000079036500002",6,"J","1999","WILEY",1999
+"9",9,9,"Rieseberg, LH",1,"Indiana Univ, Dept Biol, Bloomington, IN 47405 USA.","indiana univ","dept biol","47405","bloomington","in","usa",NA,"B-3591-2013","0000-0002-2712-2417","WOS:000079036500002",6,"J","1999","WILEY",1999
+"10",10,204,"Bertness, MD",1,"Brown Univ, Dept Ecol & Evolutionary Biol, Providence, RI 02912 USA.","brown univ","dept ecol & evolutionary biol","02912","providence","ri","usa",NA,NA,NA,"WOS:000084204100021",7,"J","1999","ECOLOGICAL SOC AMER",1999
+"11",11,11,"Ingraham, AO",5,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000084204100021",7,"J","1999","ECOLOGICAL SOC AMER",1999
+"12",12,205,"Leonard, GH",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000084204100021",7,"J","1999","ECOLOGICAL SOC AMER",1999
+"13",13,13,"Levine, JM",3,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,"0000-0003-2857-7904","WOS:000084204100021",7,"J","1999","ECOLOGICAL SOC AMER",1999
+"14",14,14,"Schmidt, PR",4,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000084204100021",7,"J","1999","ECOLOGICAL SOC AMER",1999
+"15",15,13,"Levine, JM",1,"Univ Calif Berkeley, Dept Integrat Biol, Berkeley, CA 94720 USA.","univ calif berkeley","dept integrat biol","94720","berkeley","ca","usa",NA,"A-7167-2014","0000-0003-2857-7904","WOS:000085187900027",8,"J","1999","WILEY",1999
+"16",16,16,"Elser, JJ",1,"Arizona State Univ, Dept Biol, Tempe, AZ 85287 USA.","arizona state univ","dept biol","85287","tempe","az","usa",NA,NA,NA,"WOS:000082154300001",9,"J","1999","WILEY",1999
+"17",17,17,"Urabe, J",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,"A-6256-2012","0000-0001-5111-687X","WOS:000082154300001",9,"J","1999","WILEY",1999
+"18",18,18,"Hay, ME",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,"D-9752-2011","0000-0002-6130-9349","WOS:000079036500013",10,"J","1999","WILEY",1999
+"19",19,228,"Stachowicz, JJ",1,"Univ N Carolina, Inst Marine Sci, Morehead City, NC 28557 USA.","univ n carolina","inst marine sci","28557","morehead city","nc","usa",NA,NA,NA,"WOS:000079036500013",10,"J","1999","WILEY",1999
+"20",20,20,"Leavitt, PR",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,"A-1048-2013","0000-0001-9805-9307","WOS:000078045600017",11,"J","1999","WILEY",1999
+"21",21,21,"Vinebrooke, RD",1,"Univ Regina, Dept Biol, Regina, SK S4S 0A2, Canada.","univ regina","dept biol"," s4s 0a2","sk",NA,"canada",NA,"A-3766-2014","0000-0003-0497-2520","WOS:000078045600017",11,"J","1999","WILEY",1999
+"22",22,22,"Freckleton, RP",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,"0000-0002-8338-864X","WOS:000084204100015",12,"J","1999","ECOLOGICAL SOC AMER",1999
+"23",23,23,"Matos, DMS",1,"Univ E Anglia, Sch Environm Sci, Norwich NR4 7TJ, Norfolk, England.","univ e anglia","sch environm sci","nr4 7tj","norwich ","norfolk","england",NA,"I-3379-2012","0000-0001-9461-2179","WOS:000084204100015",12,"J","1999","ECOLOGICAL SOC AMER",1999
+"24",24,24,"Watkinson, AR",3,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,"N-1649-2013",NA,"WOS:000084204100015",12,"J","1999","ECOLOGICAL SOC AMER",1999
+"25",25,25,"Colucci, PE",3,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000083009400017",13,"J","1999","WILEY-BLACKWELL",1999
+"26",26,35,"Fryxell, JM",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000083009400017",13,"J","1999","WILEY-BLACKWELL",1999
+"27",27,27,"Wilmshurst, JE",1,"Univ Guelph, Dept Zool, Guelph, ON N1G 2W1, Canada.","univ guelph","dept zool"," n1g 2w1","on",NA,"canada",NA,NA,NA,"WOS:000083009400017",13,"J","1999","WILEY-BLACKWELL",1999
+"28",28,28,"Deutschman, DH",1,"Princeton Univ, Dept Ecol & Evolutionary Biol, Princeton, NJ 08544 USA.","princeton univ","dept ecol & evolutionary biol","08544","princeton","nj","usa",NA,NA,NA,"WOS:000082408300012",14,"J","1999","WILEY",1999
+"29",29,131,"Levin, SA",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000082408300012",14,"J","1999","WILEY",1999
+"30",30,30,"Pacala, SW",3,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000082408300012",14,"J","1999","WILEY",1999
+"31",31,31,"Brooks, RJ",4,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000081368500021",15,"J","1999","WILEY",1999
+"32",32,32,"Dix, L",5,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000081368500021",15,"J","1999","WILEY",1999
+"33",33,33,"Falls, EA",3,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000081368500021",15,"J","1999","WILEY",1999
+"34",34,34,"Falls, JB",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000081368500021",15,"J","1999","WILEY",1999
+"35",35,35,"Fryxell, JM",1,"Univ Guelph, Dept Zool, Guelph, ON N1G 2W1, Canada.","univ guelph","dept zool"," n1g 2w1","on",NA,"canada",NA,NA,NA,"WOS:000081368500021",15,"J","1999","WILEY",1999
+"36",36,36,"Strickland, MA",6,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000081368500021",15,"J","1999","WILEY",1999
+"37",37,37,"Bersier, LF",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,"G-8018-2011","0000-0001-9552-8032","WOS:000082154300019",16,"J","1999","WILEY",1999
+"38",38,38,"Borcard, D",3,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,"J-6759-2019",NA,"WOS:000082154300019",16,"J","1999","WILEY",1999
+"39",39,39,"Hofer, U",1,"Nat Hist Museum, Dept Vertebrates, CH-3005 Bern, Switzerland.","nat hist museum","dept vertebrates","3005"," bern",NA,"switzerland",NA,NA,NA,"WOS:000082154300019",16,"J","1999","WILEY",1999
+"40",40,40,"Arcaro, CM",4,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000079036500023",17,"J","1999","ECOLOGICAL SOC AMER",1999
+"41",41,41,"Fraser, DF",1,"Siena Coll, Dept Biol, Loudonville, NY 12211 USA.","siena coll","dept biol","12211","loudonville","ny","usa",NA,NA,NA,"WOS:000079036500023",17,"J","1999","ECOLOGICAL SOC AMER",1999
+"42",42,42,"Gilliam, JF",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,"D-5605-2013",NA,"WOS:000079036500023",17,"J","1999","ECOLOGICAL SOC AMER",1999
+"43",43,43,"Guillozet, PH",5,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000079036500023",17,"J","1999","ECOLOGICAL SOC AMER",1999
+"44",44,44,"MacGowan, MP",3,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000079036500023",17,"J","1999","ECOLOGICAL SOC AMER",1999
+"45",45,45,"Alm, J",1,"Univ Joensuu, Dept Biol, FIN-80101 Joensuu, Finland.","univ joensuu","dept biol","80101","f joensuu",NA,"finland",NA,NA,"0000-0002-1470-8849","WOS:000078045600012",18,"J","1999","ECOLOGICAL SOC AMER",1999
+"46",46,46,"Martikainen, PJ",5,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000078045600012",18,"J","1999","ECOLOGICAL SOC AMER",1999
+"47",47,47,"Nykanen, H",4,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000078045600012",18,"J","1999","ECOLOGICAL SOC AMER",1999
+"48",48,48,"Schulman, L",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,"F-4748-2013","0000-0002-1990-2173","WOS:000078045600012",18,"J","1999","ECOLOGICAL SOC AMER",1999
+"49",49,49,"Silvola, J",6,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000078045600012",18,"J","1999","ECOLOGICAL SOC AMER",1999
+"50",50,50,"Walden, J",3,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000078045600012",18,"J","1999","ECOLOGICAL SOC AMER",1999
+"51",51,51,"Huisman, J",1,"Univ Amsterdam, Microbiol Lab, NL-1018 WS Amsterdam, Netherlands.","univ amsterdam","microbiol lab","1018"," ws amsterdam",NA,"netherlands",NA,NA,"0000-0001-9598-3211","WOS:000078045600016",19,"J","1999","WILEY",1999
+"52",52,52,"Jonker, RR",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000078045600016",19,"J","1999","WILEY",1999
+"53",53,53,"Weissing, FJ",4,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,"0000-0003-3281-663X","WOS:000078045600016",19,"J","1999","WILEY",1999
+"54",54,54,"Zonneveld, C",3,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000078045600016",19,"J","1999","WILEY",1999
+"55",55,55,"Losos, JB",1,"Washington Univ, Dept Biol, St Louis, MO 63130 USA.","washington univ","dept biol","63130","st louis","mo","usa",NA,NA,NA,"WOS:000078045600019",20,"J","1999","ECOLOGICAL SOC AMER",1999
+"56",56,56,"Spiller, DA",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000078045600019",20,"J","1999","ECOLOGICAL SOC AMER",1999
+"57",57,57,"Nekola, JC",1,"Univ N Carolina, Curriculum Ecol, Chapel Hill, NC 27514 USA.","univ n carolina","curriculum ecol","27514","chapel hill","nc","usa",NA,NA,NA,"WOS:000084204100001",21,"J","1999","WILEY",1999
+"58",58,58,"Gaines, SD",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,"Y-3234-2019",NA,"WOS:000084204100002",22,"J","1999","WILEY",1999
+"59",59,59,"Taylor, PH",1,"Univ Calif Santa Barbara, Dept Ecol Evolut & Marine Biol, Santa Barbara, CA 93106 USA.","univ calif santa barbara","dept ecol evolut & marine biol","93106","santa barbara","ca","usa",NA,NA,NA,"WOS:000084204100002",22,"J","1999","WILEY",1999
+"60",60,60,"Martinez-Ramos, M",3,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,"G-8451-2019","0000-0002-7785-1917","WOS:000085187900010",23,"J","1999","ECOLOGICAL SOC AMER",1999
+"61",61,61,"Mazer, SJ",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000085187900010",23,"J","1999","ECOLOGICAL SOC AMER",1999
+"62",62,62,"Paz, H",1,"Univ Nacl Autonoma Mexico, Inst Ecol, Dept Ecol & Recursos Nat, Morelia 58089, Michoacan, Mexico.","univ nacl autonoma mexico","inst ecol"," 58089","morelia","michoacan","mexico",NA,NA,"0000-0001-5221-0905","WOS:000085187900010",23,"J","1999","ECOLOGICAL SOC AMER",1999
+"63",63,63,"Cadaret, SJ",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000081368500023",24,"J","1999","ECOLOGICAL SOC AMER",1999
+"64",64,64,"Davis, C",3,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000081368500023",24,"J","1999","ECOLOGICAL SOC AMER",1999
+"65",65,65,"With, KA",1,"Bowling Green State Univ, Dept Biol Sci, Bowling Green, OH 43403 USA.","bowling green state univ","dept biol sci","43403","bowling green","oh","usa",NA,"J-5124-2014","0000-0001-5570-1515","WOS:000081368500023",24,"J","1999","ECOLOGICAL SOC AMER",1999
+"66",66,66,"Dungey, HS",4,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,"0000-0003-2589-3928","WOS:000079036500007",25,"J","1999","ECOLOGICAL SOC AMER",1999
+"67",67,67,"Floate, KD",3,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,"AAD-9856-2019","0000-0002-7485-5170","WOS:000079036500007",25,"J","1999","ECOLOGICAL SOC AMER",1999
+"68",68,68,"Keim, P",6,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,"A-2269-2010",NA,"WOS:000079036500007",25,"J","1999","ECOLOGICAL SOC AMER",1999
+"69",69,69,"Martinsen, GD",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000079036500007",25,"J","1999","ECOLOGICAL SOC AMER",1999
+"70",70,70,"Potts, BM",5,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,"C-6489-2013","0000-0001-6244-289X","WOS:000079036500007",25,"J","1999","ECOLOGICAL SOC AMER",1999
+"71",71,71,"Whitham, TG",1,"No Arizona Univ, Dept Biol Sci, Flagstaff, AZ 86011 USA.","no arizona univ","dept biol sci","86011","flagstaff","az","usa",NA,NA,NA,"WOS:000079036500007",25,"J","1999","ECOLOGICAL SOC AMER",1999
+"72",72,72,"Yamamura, K",1,"Natl Inst Agroenvironm Sci, Lab Populat Ecol, Ibaraki, Osaka 3058604, Japan.","natl inst agroenvironm sci","natl inst agroenvironm sci"," 30586","osaka",NA,"japan",NA,NA,NA,"WOS:000079036500017",26,"J","1999","ECOLOGICAL SOC AMER",1999
+"73",73,73,"Brunner, LJ",3,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000078045600028",27,"J","1999","ECOLOGICAL SOC AMER",1999
+"74",74,74,"Collins, NC",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,"F-2704-2010","0000-0002-6901-6604","WOS:000078045600028",27,"J","1999","ECOLOGICAL SOC AMER",1999
+"75",75,75,"Rejwan, C",1,"Univ Toronto, Erindale Coll, Biol Grp, Mississauga, ON L5L 1C6, Canada.","univ toronto","erindale coll"," l5l 1c6","on",NA,"canada",NA,NA,NA,"WOS:000078045600028",27,"J","1999","ECOLOGICAL SOC AMER",1999
+"76",76,76,"Ridgway, MS",5,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000078045600028",27,"J","1999","ECOLOGICAL SOC AMER",1999
+"77",77,77,"Shuter, BJ",4,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,"A-3991-2008","0000-0002-3733-6005","WOS:000078045600028",27,"J","1999","ECOLOGICAL SOC AMER",1999
+"78",78,78,"Arendt, JD",1,"SUNY Binghamton, Dept Biol Sci, Binghamton, NY 13902 USA.","suny binghamton","dept biol sci","13902","binghamton","ny","usa",NA,NA,NA,"WOS:000084204100028",28,"J","1999","ECOLOGICAL SOC AMER",1999
+"79",79,79,"Wilson, DS",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000084204100028",28,"J","1999","ECOLOGICAL SOC AMER",1999
+"80",80,80,"Berlow, EL",1,"Univ Calif Berkeley, Dept Integrat Biol, Berkeley, CA 94720 USA.","univ calif berkeley","dept integrat biol","94720","berkeley","ca","usa",NA,NA,NA,"WOS:000083009400007",29,"J","1999","ECOLOGICAL SOC AMER",1999
+"81",81,81,"Briggs, CJ",3,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,"F-7456-2013","0000-0001-8674-5385","WOS:000083009400007",29,"J","1999","ECOLOGICAL SOC AMER",1999
+"82",82,82,"Menge, BA",5,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,"I-6571-2012",NA,"WOS:000083009400007",29,"J","1999","ECOLOGICAL SOC AMER",1999
+"83",83,83,"Navarrete, SA",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,"D-4645-2013",NA,"WOS:000083009400007",29,"J","1999","ECOLOGICAL SOC AMER",1999
+"84",84,84,"Power, ME",4,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000083009400007",29,"J","1999","ECOLOGICAL SOC AMER",1999
+"85",85,85,"Zamora, R",1,"Univ Granada, Fac Ciencias, Dept Biol Anim & Ecol, Unidad Ecol, E-18071 Granada, Spain.","univ granada","fac ciencias","18071"," g",NA,"spain",NA,"B-3179-2010","0000-0002-5049-9968","WOS:000082154300005",30,"J","1999","ECOLOGICAL SOC AMER",1999
+"86",86,86,"Kelt, DA",1,"Univ Calif Davis, Dept Wildlife Fish & Conservat Biol, Davis, CA 95616 USA.","univ calif davis","dept wildlife fish & conservat biol","95616","davis","ca","usa",NA,NA,NA,"WOS:000078045600027",31,"J","1999","WILEY-BLACKWELL",1999
+"87",87,87,"Van Vuren, D",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000078045600027",31,"J","1999","WILEY-BLACKWELL",1999
+"88",88,88,"Bertschy, KA",1,"Trent Univ, Watershed Ecosyst Grad Program, Peterborough, ON K9J 7B8, Canada.","trent univ","watershed ecosyst grad program"," k9j 7b8","on",NA,"canada",NA,NA,NA,"WOS:000083009400014",32,"J","1999","WILEY",1999
+"89",89,89,"Fox, MG",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000083009400014",32,"J","1999","WILEY",1999
+"90",90,90,"Nisbet, RM",4,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,"B-6951-2014",NA,"WOS:000083009400019",33,"J","1999","WILEY",1999
+"91",91,91,"Osenberg, CW",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,"M-9904-2013","0000-0003-1918-7904","WOS:000083009400019",33,"J","1999","WILEY",1999
+"92",92,208,"Schmitt, RJ",3,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000083009400019",33,"J","1999","WILEY",1999
+"93",93,93,"Wilson, WG",1,"Duke Univ, Evolut Ecol & Organismal Biol Grp, Durham, NC 27708 USA.","duke univ","evolut ecol & organismal biol grp","27708","durham","nc","usa",NA,NA,NA,"WOS:000083009400019",33,"J","1999","WILEY",1999
+"94",94,94,"Dixon, AFG",1,"Univ E Anglia, Sch Biol Sci, Norwich NR4 7TJ, Norfolk, England.","univ e anglia","sch biol sci","nr4 7tj","norwich ","norfolk","england",NA,NA,NA,"WOS:000085187900017",34,"J","1999","WILEY",1999
+"95",95,95,"Kindlmann, P",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,"H-7718-2014",NA,"WOS:000085187900017",34,"J","1999","WILEY",1999
+"96",96,96,"Luo, YQ",1,"Univ Nevada, Desert Res Inst, Ctr Biol Sci, Reno, NV 89512 USA.","univ nevada","ctr biol sci","89512","reno","nv","usa",NA,NA,NA,"WOS:000085187900008",35,"J","1999","WILEY",1999
+"97",97,97,"Reynolds, JF",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,"G-6364-2010",NA,"WOS:000085187900008",35,"J","1999","WILEY",1999
+"98",98,98,"Elston, DA",3,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,"H-8199-2013",NA,"WOS:000082154300022",36,"J","1999","WILEY",1999
+"99",99,99,"Gordon, IJ",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,"K-8636-2012","0000-0001-9704-0946","WOS:000082154300022",36,"J","1999","WILEY",1999
+"100",100,99,"Gordon, IJ",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,"K-8636-2012","0000-0001-9704-0946","WOS:000082154300022",36,"J","1999","WILEY",1999
+"101",101,99,"Gordon, IJ",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,"S-8076-2019","0000-0001-9704-0946","WOS:000082154300022",36,"J","1999","WILEY",1999
+"102",102,99,"Gordon, IJ",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,"S-8076-2019","0000-0001-9704-0946","WOS:000082154300022",36,"J","1999","WILEY",1999
+"103",103,103,"Illius, AW",1,"Univ Edinburgh, Inst Cell Anim & Populat Biol, Edinburgh EH9 3JT, Midlothian, Scotland.","univ edinburgh","inst cell anim & populat biol","eh9 3jt","edinburgh ","midlothian","scotland",NA,NA,NA,"WOS:000082154300022",36,"J","1999","WILEY",1999
+"104",104,104,"Milne, JD",4,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000082154300022",36,"J","1999","WILEY",1999
+"105",105,105,"Jefferies, RL",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000079036500009",37,"J","1999","ECOLOGICAL SOC AMER",1999
+"106",106,106,"Maron, JL",1,"Univ Washington, Dept Bot, Seattle, WA 98195 USA.","univ washington","dept bot","98195","seattle","wa","usa",NA,NA,NA,"WOS:000079036500009",37,"J","1999","ECOLOGICAL SOC AMER",1999
+"107",107,107,"Dyer, AR",1,"Univ Calif Davis, Grad Grp Ecol, Davis, CA 95616 USA.","univ calif davis","grad grp ecol","95616","davis","ca","usa",NA,NA,NA,"WOS:000084204100020",38,"J","1999","WILEY",1999
+"108",108,108,"Rice, KJ",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000084204100020",38,"J","1999","WILEY",1999
+"109",109,109,"Johnson, SD",1,"Univ Natal, Sch Bot & Zool, ZA-3209 Pietermaritzburg, South Africa.","univ natal","sch bot & zool","3209"," pietermaritzburg",NA,"south africa",NA,"F-1146-2010","0000-0002-5114-5862","WOS:000084204100013",39,"J","1999","ECOLOGICAL SOC AMER",1999
+"110",110,110,"Nilsson, LA",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000084204100013",39,"J","1999","ECOLOGICAL SOC AMER",1999
+"111",111,111,"Anesio, AM",1,"Univ Lund, Dept Ecol Limnol, S-22362 Lund, Sweden.","univ lund","dept ecol limnol","22362"," lund",NA,"sweden",NA,"A-7597-2008","0000-0003-2990-4014","WOS:000082408300006",40,"J","1999","ECOLOGICAL SOC AMER",1999
+"112",112,112,"Graneli, W",3,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000082408300006",40,"J","1999","ECOLOGICAL SOC AMER",1999
+"113",113,113,"Tranvik, LJ",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,"H-2222-2011","0000-0003-3509-8266","WOS:000082408300006",40,"J","1999","ECOLOGICAL SOC AMER",1999
+"114",114,114,"Gehrke, C",1,"Univ Lund, Dept Ecol, S-22362 Lund, Sweden.","univ lund","dept ecol","22362"," lund",NA,"sweden",NA,NA,NA,"WOS:000082408300005",41,"J","1999","ECOLOGICAL SOC AMER",1999
+"115",115,81,"Briggs, CJ",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,"F-7456-2013",NA,"WOS:000082408300001",42,"J","1999","WILEY",1999
+"116",116,116,"Ellner, SP",5,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000082408300001",42,"J","1999","WILEY",1999
+"117",117,117,"Kendall, BE",1,"Univ Calif Santa Barbara, Natl Ctr Ecol Anal & Synth, Santa Barbara, CA 93106 USA.","univ calif santa barbara","natl ctr ecol anal & synth","93106","santa barbara","ca","usa",NA,"C-1871-2008","0000-0003-1782-8106","WOS:000082408300001",42,"J","1999","WILEY",1999
+"118",118,118,"McCauley, E",6,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000082408300001",42,"J","1999","WILEY",1999
+"119",119,119,"Murdoch, WW",3,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000082408300001",42,"J","1999","WILEY",1999
+"120",120,90,"Nisbet, RM",7,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,"B-6951-2014",NA,"WOS:000082408300001",42,"J","1999","WILEY",1999
+"121",121,121,"Turchin, P",4,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000082408300001",42,"J","1999","WILEY",1999
+"122",122,122,"Wood, SN",8,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,"B-3058-2010","0000-0002-2034-7453","WOS:000082408300001",42,"J","1999","WILEY",1999
+"123",123,123,"Hartnett, DC",1,"Kansas State Univ, Div Biol, Manhattan, KS 66506 USA.","kansas state univ","div biol","66506","manhattan","ks","usa",NA,NA,NA,"WOS:000081368500010",43,"J","1999","ECOLOGICAL SOC AMER",1999
+"124",124,124,"Wilson, GWT",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,"G-4255-2012",NA,"WOS:000081368500010",43,"J","1999","ECOLOGICAL SOC AMER",1999
+"125",125,125,"Johansson, F",1,"Univ Toronto, Dept Zool, Toronto, ON M5S 1A1, Canada.","univ toronto","dept zool"," m5s 1a1","on",NA,"canada",NA,NA,NA,"WOS:000081368500015",44,"J","1999","WILEY",1999
+"126",126,126,"Rowe, L",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000081368500015",44,"J","1999","WILEY",1999
+"127",127,127,"Donalson, DD",1,"Univ Calif Santa Barbara, Dept Ecol Evolut & Marine Biol, Santa Barbara, CA 93106 USA.","univ calif santa barbara","dept ecol evolut & marine biol","93106","santa barbara","ca","usa",NA,NA,NA,"WOS:000084204100004",45,"J","1999","ECOLOGICAL SOC AMER",1999
+"128",128,90,"Nisbet, RM",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,"B-6951-2014",NA,"WOS:000084204100004",45,"J","1999","ECOLOGICAL SOC AMER",1999
+"129",129,129,"Christian, JM",1,"Univ Regina, Dept Biol, Regina, SK S4S 0A2, Canada.","univ regina","dept biol"," s4s 0a2","sk",NA,"canada",NA,NA,NA,"WOS:000083009400022",46,"J","1999","ECOLOGICAL SOC AMER",1999
+"130",130,130,"Wilson, SD",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,"D-6923-2011",NA,"WOS:000083009400022",46,"J","1999","ECOLOGICAL SOC AMER",1999
+"131",131,131,"Levin, SA",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000083009400008",47,"J","1999","ECOLOGICAL SOC AMER",1999
+"132",132,132,"Pascual, M",1,"Univ Maryland, Ctr Marine Biotechnol, Inst Biotechnol, Baltimore, MD 21202 USA.","univ maryland","inst biotechnol","21202","baltimore","md","usa",NA,NA,NA,"WOS:000083009400008",47,"J","1999","ECOLOGICAL SOC AMER",1999
+"133",133,133,"Ferrell, GM",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000083009400005",48,"J","1999","ECOLOGICAL SOC AMER",1999
+"134",134,135,"Richardson, CJ",1,"Duke Univ, Durham, NC 27708 USA.","duke univ",NA,"27708","durham","nc","usa",NA,"P-5905-2019",NA,"WOS:000083009400005",48,"J","1999","ECOLOGICAL SOC AMER",1999
+"135",135,135,"Richardson, CJ",1,"Duke Univ, Durham, NC 27708 USA.","duke univ",NA,"27708","durham","nc","usa",NA,"A-8202-2009",NA,"WOS:000083009400005",48,"J","1999","ECOLOGICAL SOC AMER",1999
+"136",136,136,"Vaithiyanathan, P",3,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000083009400005",48,"J","1999","ECOLOGICAL SOC AMER",1999
+"137",137,137,"Hughes, RF",1,"Oregon State Univ, Dept Forest Sci, Corvallis, OR 97331 USA.","oregon state univ","dept forest sci","97331","corvallis","or","usa",NA,NA,NA,"WOS:000082408300010",49,"J","1999","ECOLOGICAL SOC AMER",1999
+"138",138,138,"Jaramillo, VJ",3,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000082408300010",49,"J","1999","ECOLOGICAL SOC AMER",1999
+"139",139,139,"Kauffman, JB",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000082408300010",49,"J","1999","ECOLOGICAL SOC AMER",1999
+"140",140,404,"Holt, RD",1,"Univ Kansas, Dept Ecol & Evolutionary Biol, Museum Nat Hist, Lawrence, KS 66045 USA.","univ kansas","museum nat hist","66045","lawrence","ks","usa",NA,NA,NA,"WOS:000085187900003",50,"J","1999","WILEY",1999
+"141",141,141,"Lawton, JH",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000085187900003",50,"J","1999","WILEY",1999
+"142",142,142,"Martinez, ND",4,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,"A-5312-2008","0000-0002-1130-5550","WOS:000085187900003",50,"J","1999","WILEY",1999
+"143",143,143,"Polis, GA",3,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000085187900003",50,"J","1999","WILEY",1999
+"144",144,144,"Bliss, LC",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000082154300014",51,"J","1999","WILEY",1999
+"145",145,145,"Braatne, JH",1,"Univ Washington, Dept Bot, Seattle, WA 98195 USA.","univ washington","dept bot","98195","seattle","wa","usa",NA,NA,NA,"WOS:000082154300014",51,"J","1999","WILEY",1999
+"146",146,146,"Annett, CA",1,"Univ Kansas, Div Biol Sci, Lawrence, KS 66045 USA.","univ kansas","div biol sci","66045","lawrence","ks","usa",NA,NA,NA,"WOS:000078045600022",52,"J","1999","WILEY",1999
+"147",147,147,"Pierotti, R",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000078045600022",52,"J","1999","WILEY",1999
+"148",148,148,"Kendall, WL",1,"USGS Patuxent Wildlife Res Ctr, Laurel, MD 20708 USA.","usgs patuxent wildlife res ctr",NA,"20708","laurel","md","usa",NA,NA,NA,"WOS:000084204100006",53,"J","1999","ECOLOGICAL SOC AMER",1999
+"149",149,149,"Lonsdale, WM",1,"CSIRO Entmol, European Lab, F-34980 Montferrier Sur Lez, France.","csiro entmol","european lab","34980"," montferrier sur lez",NA,"france",NA,NA,NA,"WOS:000085187900005",54,"J","1999","WILEY",1999
+"150",150,150,"Johansson, ME",3,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000085187900028",55,"J","1999","ECOLOGICAL SOC AMER",1999
+"151",151,151,"Nilsson, C",1,"Umea Univ, Landscape Ecol Grp, Dept Ecol & Earth Sci, SE-90187 Umea, Sweden.","umea univ","landscape ecol grp","90187"," umea",NA,"sweden",NA,"AAI-1354-2019",NA,"WOS:000085187900028",55,"J","1999","ECOLOGICAL SOC AMER",1999
+"152",152,152,"Vought, LBM",4,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000085187900028",55,"J","1999","ECOLOGICAL SOC AMER",1999
+"153",153,153,"Xiong, SJ",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,"0000-0001-5700-9493","WOS:000085187900028",55,"J","1999","ECOLOGICAL SOC AMER",1999
+"154",154,154,"Bohning-Gaese, K",1,"Rhein Westfal TH Aachen, Lehrstuhl Zool Tierphysiol, D-52074 Aachen, Germany.","rhein westfal th aachen","lehrstuhl zool tierphysiol","52074"," aachen",NA,"germany",NA,"W-2601-2019","0000-0003-0477-5586","WOS:000082154300008",56,"J","1999","WILEY",1999
+"155",155,155,"Gaese, BH",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000082154300008",56,"J","1999","WILEY",1999
+"156",156,156,"Rabemanantsoa, SB",3,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000082154300008",56,"J","1999","WILEY",1999
+"157",157,157,"Gjerstad, DH",3,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000082154300011",57,"J","1999","WILEY",1999
+"158",158,158,"Glover, GR",4,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000082154300011",57,"J","1999","WILEY",1999
+"159",159,159,"Mitchell, RJ",1,"Jones Ecol Res Ctr, Newton, GA 31770 USA.","jones ecol res ctr",NA,"31770","newton","ga","usa",NA,NA,NA,"WOS:000082154300011",57,"J","1999","WILEY",1999
+"160",160,160,"Wood, CW",5,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000082154300011",57,"J","1999","WILEY",1999
+"161",161,161,"Zutter, BR",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000082154300011",57,"J","1999","WILEY",1999
+"162",162,544,"Gaston, AJ",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000079036500022",58,"J","1999","WILEY",1999
+"163",163,545,"Hipfner, JM",1,"Univ Ottawa, Dept Biol, Ottawa, ON K1N 6N5, Canada.","univ ottawa","dept biol"," k1n 6n5","on",NA,"canada",NA,NA,NA,"WOS:000079036500022",58,"J","1999","WILEY",1999
+"164",164,164,"Elliott, ET",3,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000079036500030",59,"J","1999","ECOLOGICAL SOC AMER",1999
+"165",165,165,"Hunt, HW",1,"Colorado State Univ, Nat Resource Ecol Lab, Ft Collins, CO 80523 USA.","colorado state univ","nat resource ecol lab","80523","ft collins","co","usa",NA,NA,NA,"WOS:000079036500030",59,"J","1999","ECOLOGICAL SOC AMER",1999
+"166",166,166,"Reuss, DE",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000079036500030",59,"J","1999","ECOLOGICAL SOC AMER",1999
+"167",167,167,"Baldwin, IT",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,"K-1809-2013","0000-0001-5371-2974","WOS:000079036500012",60,"J","1999","ECOLOGICAL SOC AMER",1999
+"168",168,168,"Preston, CA",1,"Max Planck Inst Chem Okol, D-07745 Jena, Germany.","max planck inst chem okol","max planck inst chem okol","07745"," jena",NA,"germany",NA,NA,NA,"WOS:000079036500012",60,"J","1999","ECOLOGICAL SOC AMER",1999
+"169",169,169,"Flury, BD",1,"Indiana Univ, Dept Math, Bloomington, IN 47405 USA.","indiana univ","dept math","47405","bloomington","in","usa",NA,NA,NA,"WOS:000083009400010",61,"J","1999","ECOLOGICAL SOC AMER",1999
+"170",170,170,"Levri, EP",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,"B-3235-2012",NA,"WOS:000083009400010",61,"J","1999","ECOLOGICAL SOC AMER",1999
+"171",171,171,"Cortwright, SA",3,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000083009400016",62,"J","1999","ECOLOGICAL SOC AMER",1999
+"172",172,172,"Skelly, DK",1,"Yale Univ, Sch Forestry & Environm Studies, New Haven, CT 06511 USA.","yale univ","sch forestry & environm studies","06511","new haven","ct","usa",NA,"D-3878-2013",NA,"WOS:000083009400016",62,"J","1999","ECOLOGICAL SOC AMER",1999
+"173",173,515,"Werner, EE",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000083009400016",62,"J","1999","ECOLOGICAL SOC AMER",1999
+"174",174,174,"Bowman, WD",7,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000082408300014",63,"J","1999","ECOLOGICAL SOC AMER",1999
+"175",175,175,"Ellsworth, DS",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,"0000-0002-9699-2272","WOS:000082408300014",63,"J","1999","ECOLOGICAL SOC AMER",1999
+"176",176,176,"Gresham, C",5,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000082408300014",63,"J","1999","ECOLOGICAL SOC AMER",1999
+"177",177,177,"Reich, PB",1,"Univ Minnesota, Dept Forest Resources, St Paul, MN 55108 USA.","univ minnesota","dept forest resources","55108","st paul","mn","usa",NA,NA,"0000-0003-4424-662X","WOS:000082408300014",63,"J","1999","ECOLOGICAL SOC AMER",1999
+"178",178,178,"Volin, JC",6,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000082408300014",63,"J","1999","ECOLOGICAL SOC AMER",1999
+"179",179,179,"Vose, JM",4,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000082408300014",63,"J","1999","ECOLOGICAL SOC AMER",1999
+"180",180,180,"Walters, MB",3,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000082408300014",63,"J","1999","ECOLOGICAL SOC AMER",1999
+"181",181,181,"Ewel, KC",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000082408300020",64,"J","1999","WILEY-BLACKWELL",1999
+"182",182,182,"Putz, FE",4,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000082408300020",64,"J","1999","WILEY-BLACKWELL",1999
+"183",183,183,"Stumpf, RP",3,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,"L-5237-2019","0000-0001-5531-6860","WOS:000082408300020",64,"J","1999","WILEY-BLACKWELL",1999
+"184",184,184,"Williams, K",1,"Univ Florida, Dept Bot, Gainesville, FL 32611 USA.","univ florida","dept bot","32611","gainesville","fl","usa",NA,NA,NA,"WOS:000082408300020",64,"J","1999","WILEY-BLACKWELL",1999
+"185",185,185,"Workman, TW",5,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000082408300020",64,"J","1999","WILEY-BLACKWELL",1999
+"186",186,186,"Littler, DS",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000085187900023",65,"J","1999","ECOLOGICAL SOC AMER",1999
+"187",187,187,"Littler, MM",1,"Smithsonian Inst, Natl Museum Nat Hist, Dept Bot, Washington, DC 20560 USA.","smithsonian inst","dept bot","20560","washington","dc","usa",NA,NA,NA,"WOS:000085187900023",65,"J","1999","ECOLOGICAL SOC AMER",1999
+"188",188,188,"Garcia, M",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000085187900009",66,"J","1999","ECOLOGICAL SOC AMER",1999
+"189",189,189,"Skillman, JB",1,"Smithsonian Trop Res Inst, Balboa, Panama.","smithsonian trop res inst","smithsonian trop res inst",NA,"balboa",NA,"panama",NA,NA,NA,"WOS:000085187900009",66,"J","1999","ECOLOGICAL SOC AMER",1999
+"190",190,190,"Winter, K",3,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000085187900009",66,"J","1999","ECOLOGICAL SOC AMER",1999
+"191",191,191,"Futai, K",5,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000085187900018",67,"J","1999","WILEY",1999
+"192",192,192,"Kawasaki, K",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000085187900018",67,"J","1999","WILEY",1999
+"193",193,193,"Shigesada, N",6,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000085187900018",67,"J","1999","WILEY",1999
+"194",194,194,"Takasu, F",3,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000085187900018",67,"J","1999","WILEY",1999
+"195",195,195,"Togashi, K",4,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000085187900018",67,"J","1999","WILEY",1999
+"196",196,196,"Yoshimura, A",1,"Nara Womens Univ, Dept Informat & Comp Sci, Nara 6308506, Japan.","nara womens univ","dept informat & comp sci"," 63085","nara",NA,"japan",NA,NA,NA,"WOS:000085187900018",67,"J","1999","WILEY",1999
+"197",197,197,"Post, E",1,"Univ Oslo, Dept Biol, Div Zool, N-0316 Oslo, Norway.","univ oslo","dept biol","0316"," oslo",NA,"norway",NA,NA,NA,"WOS:000081368500022",68,"J","1999","ECOLOGICAL SOC AMER",1999
+"198",198,198,"Stenseth, NC",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,"G-5212-2016","0000-0002-1591-5399","WOS:000081368500022",68,"J","1999","ECOLOGICAL SOC AMER",1999
+"199",199,199,"Aho, T",1,"Univ Jyvaskyla, Dept Environm & Biol Sci, FIN-40351 Jyvaskyla, Finland.","univ jyvaskyla","dept environm & biol sci","40351","f jyvaskyla",NA,"finland",NA,NA,NA,"WOS:000082154300021",69,"J","1999","WILEY",1999
+"200",200,200,"Hakkari, T",5,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000082154300021",69,"J","1999","WILEY",1999
+"201",201,201,"Jantti, A",4,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000082154300021",69,"J","1999","WILEY",1999
+"202",202,202,"Kuitunen, M",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000082154300021",69,"J","1999","WILEY",1999
+"203",203,203,"Suhonen, J",3,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,"0000-0001-8546-8945","WOS:000082154300021",69,"J","1999","WILEY",1999
+"204",204,204,"Bertness, MD",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000078045600001",70,"J","1999","ECOLOGICAL SOC AMER",1999
+"205",205,205,"Leonard, GH",1,"Brown Univ, Dept Ecol & Evolutionary Biol, Providence, RI 02912 USA.","brown univ","dept ecol & evolutionary biol","02912","providence","ri","usa",NA,NA,NA,"WOS:000078045600001",70,"J","1999","ECOLOGICAL SOC AMER",1999
+"206",206,206,"Yund, PO",3,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,"0000-0003-0474-5205","WOS:000078045600001",70,"J","1999","ECOLOGICAL SOC AMER",1999
+"207",207,207,"Holbrook, SJ",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000078045600003",71,"J","1999","WILEY-BLACKWELL",1999
+"208",208,208,"Schmitt, RJ",1,"Univ Calif Santa Barbara, Inst Marine Sci, Coastal Res Ctr, Santa Barbara, CA 93106 USA.","univ calif santa barbara","coastal res ctr","93106","santa barbara","ca","usa",NA,NA,NA,"WOS:000078045600003",71,"J","1999","WILEY-BLACKWELL",1999
+"209",209,209,"Polasky, S",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000084204100029",72,"J","1999","ECOLOGICAL SOC AMER",1999
+"210",210,210,"Solow, AR",1,"Woods Hole Oceanog Inst, Woods Hole, MA 02543 USA.","woods hole oceanog inst",NA,"02543","woods hole","ma","usa",NA,NA,NA,"WOS:000084204100029",72,"J","1999","ECOLOGICAL SOC AMER",1999
+"211",211,211,"Galen, C",1,"Univ Missouri, Div Biol Sci, Columbia, MO 65211 USA.","univ missouri","div biol sci","65211","columbia","mo","usa",NA,NA,NA,"WOS:000082408300019",73,"J","1999","ECOLOGICAL SOC AMER",1999
+"212",212,212,"Stanton, ML",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,"E-1204-2012",NA,"WOS:000082408300019",73,"J","1999","ECOLOGICAL SOC AMER",1999
+"213",213,213,"Gough, L",1,"Louisiana State Univ, Dept Plant Biol, Baton Rouge, LA 70803 USA.","louisiana state univ","dept plant biol","70803","baton rouge","la","usa",NA,NA,NA,"WOS:000082154300013",74,"J","1999","WILEY",1999
+"214",214,214,"Grace, JB",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,"B-8472-2009","0000-0001-6374-4726","WOS:000082154300013",74,"J","1999","WILEY",1999
+"215",215,215,"Gratton, C",1,"Univ Calif Berkeley, Div Insect Biol, Berkeley, CA 94720 USA.","univ calif berkeley","div insect biol","94720","berkeley","ca","usa",NA,NA,NA,"WOS:000082154300004",75,"J","1999","ECOLOGICAL SOC AMER",1999
+"216",216,216,"Welter, SC",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000082154300004",75,"J","1999","ECOLOGICAL SOC AMER",1999
+"217",217,217,"Agrawal, AA",1,"Univ Calif Davis, Dept Entomol, Davis, CA 95616 USA.","univ calif davis","dept entomol","95616","davis","ca","usa",NA,"Y-2497-2019","0000-0003-0095-1220","WOS:000079036500015",76,"J","1999","ECOLOGICAL SOC AMER",1999
+"218",218,218,"Kobayashi, C",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000079036500015",76,"J","1999","ECOLOGICAL SOC AMER",1999
+"219",219,507,"Thaler, JS",3,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000079036500015",76,"J","1999","ECOLOGICAL SOC AMER",1999
+"220",220,220,"Brown, JH",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000084204100027",77,"J","1999","ECOLOGICAL SOC AMER",1999
+"221",221,221,"Siemann, E",1,"Univ New Mexico, Dept Biol, Albuquerque, NM 87131 USA.","univ new mexico","dept biol","87131","albuquerque","nm","usa",NA,NA,NA,"WOS:000084204100027",77,"J","1999","ECOLOGICAL SOC AMER",1999
+"222",222,222,"Arthur, MA",3,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000084204100026",78,"J","1999","ECOLOGICAL SOC AMER",1999
+"223",223,223,"Federer, CA",4,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000084204100026",78,"J","1999","ECOLOGICAL SOC AMER",1999
+"224",224,224,"Friedland, AJ",5,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000084204100026",78,"J","1999","ECOLOGICAL SOC AMER",1999
+"225",225,225,"Siccama, TG",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000084204100026",78,"J","1999","ECOLOGICAL SOC AMER",1999
+"226",226,226,"Yanai, RD",1,"SUNY Coll Environm Sci & Forestry, Syracuse, NY 13210 USA.","suny coll environm sci & forestry",NA,"13210","syracuse","ny","usa",NA,"O-3250-2019","0000-0001-6987-2489","WOS:000084204100026",78,"J","1999","ECOLOGICAL SOC AMER",1999
+"227",227,18,"Hay, ME",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,"D-9752-2011","0000-0002-6130-9349","WOS:000082408300023",79,"J","1999","ECOLOGICAL SOC AMER",1999
+"228",228,228,"Stachowicz, JJ",1,"Univ N Carolina, Inst Marine Sci, Morehead City, NC 28557 USA.","univ n carolina","inst marine sci","28557","morehead city","nc","usa",NA,NA,NA,"WOS:000082408300023",79,"J","1999","ECOLOGICAL SOC AMER",1999
+"229",229,217,"Agrawal, AA",1,"Univ Calif Davis, Dept Entomol, Davis, CA 95616 USA.","univ calif davis","dept entomol","95616","davis","ca","usa",NA,"Y-2497-2019","0000-0003-0095-1220","WOS:000085187900020",80,"J","1999","ECOLOGICAL SOC AMER",1999
+"230",230,230,"Clark, JS",1,"Duke Univ, Dept Bot, Durham, NC 27708 USA.","duke univ","dept bot","27708","durham","nc","usa",NA,"G-6331-2011",NA,"WOS:000085187900002",81,"J","1999","ECOLOGICAL SOC AMER",1999
+"231",231,231,"HilleRisLambers, J",5,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000085187900002",81,"J","1999","ECOLOGICAL SOC AMER",1999
+"232",232,232,"Kern, R",3,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000085187900002",81,"J","1999","ECOLOGICAL SOC AMER",1999
+"233",233,233,"Macklin, E",4,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,"E-2955-2013","0000-0003-1618-3502","WOS:000085187900002",81,"J","1999","ECOLOGICAL SOC AMER",1999
+"234",234,238,"Silman, M",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,"H-1280-2011",NA,"WOS:000085187900002",81,"J","1999","ECOLOGICAL SOC AMER",1999
+"235",235,235,"Ludwig, D",1,"Univ British Columbia, Dept Math, Vancouver, BC V6T 1Z2, Canada.","univ british columbia","dept math"," v6t 1z2","bc",NA,"canada",NA,NA,NA,"WOS:000078045600023",82,"J","1999","WILEY",1999
+"236",236,236,"Nuez, P",4,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000084204100016",83,"J","1999","ECOLOGICAL SOC AMER",1999
+"237",237,237,"Pitman, NCA",1,"Duke Univ, Dept Bot, Durham, NC 27708 USA.","duke univ","dept bot","27708","durham","nc","usa",NA,"A-7681-2008","0000-0002-9211-2880","WOS:000084204100016",83,"J","1999","ECOLOGICAL SOC AMER",1999
+"238",238,238,"Silman, M",3,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000084204100016",83,"J","1999","ECOLOGICAL SOC AMER",1999
+"239",239,239,"Terborgh, J",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000084204100016",83,"J","1999","ECOLOGICAL SOC AMER",1999
+"240",240,240,"De'ath, G",1,"James Cook Univ N Queensland, Townsville, Qld 4811, Australia.","james cook univ n queensland",NA,NA,"townsville","qld ","australia",NA,NA,NA,"WOS:000083009400009",84,"J","1999","WILEY-BLACKWELL",1999
+"241",241,475,"Jonasson, S",1,"Univ Copenhagen, Dept Plant Ecol, DK-1353 Copenhagen O, Denmark.","univ copenhagen","dept plant ecol","1353"," copenhagen o",NA,"denmark",NA,NA,NA,"WOS:000083009400002",85,"J","1999","ECOLOGICAL SOC AMER",1999
+"242",242,242,"Shaver, GR",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000083009400002",85,"J","1999","ECOLOGICAL SOC AMER",1999
+"243",243,243,"Caraco, NF",3,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000081368500029",86,"J","1999","WILEY",1999
+"244",244,244,"Cole, JJ",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,"G-4566-2011","0000-0003-4633-7402","WOS:000081368500029",86,"J","1999","WILEY",1999
+"245",245,245,"Del Giorgio, PA",1,"Univ Maryland, Horn Point Lab, Ctr Environm Sci, Cambridge, MD 21613 USA.","univ maryland","ctr environm sci","21613","cambridge","md","usa",NA,"AAD-1315-2019","0000-0003-1866-8159","WOS:000081368500029",86,"J","1999","WILEY",1999
+"246",246,246,"Peters, RH",4,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000081368500029",86,"J","1999","WILEY",1999
+"247",247,247,"Hanhimaki, S",3,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000081368500014",87,"J","1999","ECOLOGICAL SOC AMER",1999
+"248",248,248,"Haukioia, E",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000081368500014",87,"J","1999","ECOLOGICAL SOC AMER",1999
+"249",249,249,"Kause, A",1,"Univ Turku, Dept Biol, Sect Ecol, FIN-20014 Turku, Finland.","univ turku","dept biol","20014","f turku",NA,"finland",NA,NA,NA,"WOS:000081368500014",87,"J","1999","ECOLOGICAL SOC AMER",1999
+"250",250,250,"Rasmussen, JB",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000081368500027",88,"J","1999","WILEY",1999
+"251",251,251,"Vander Zanden, MJ",1,"McGill Univ, Dept Biol, Montreal, PQ H3A 1B1, Canada.","mcgill univ","dept biol"," h3a 1b1","pq",NA,"canada",NA,NA,"0000-0002-8122-1416","WOS:000081368500027",88,"J","1999","WILEY",1999
+"252",252,252,"Pilson, D",1,"Univ Nebraska, Sch Biol Sci, Lincoln, NE 68588 USA.","univ nebraska","sch biol sci","68588","lincoln","ne","usa",NA,NA,NA,"WOS:000079036500006",89,"J","1999","ECOLOGICAL SOC AMER",1999
+"253",253,253,"Berube, CH",1,"Univ Sherbrooke, Dept Biol, Grp Rech Ecol Nutr & Energet, Sherbrooke, PQ J1K 2R1, Canada.","univ sherbrooke","dept biol"," j1k 2r1","pq",NA,"canada",NA,NA,NA,"WOS:000084204100009",90,"J","1999","WILEY",1999
+"254",254,254,"Festa-Bianchet, M",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,"0000-0002-2352-3379","WOS:000084204100009",90,"J","1999","WILEY",1999
+"255",255,255,"Jorgenson, JT",3,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000084204100009",90,"J","1999","WILEY",1999
+"256",256,256,"Goldberg, DE",1,"Univ Michigan, Dept Biol, Ann Arbor, MI 48109 USA.","univ michigan","dept biol","48109","ann arbor","mi","usa",NA,NA,NA,"WOS:000081368500003",91,"J","1999","WILEY",1999
+"257",257,445,"Gurevitch, J",3,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000081368500003",91,"J","1999","WILEY",1999
+"258",258,258,"Rajaniemi, T",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,"0000-0003-2861-3901","WOS:000081368500003",91,"J","1999","WILEY",1999
+"259",259,259,"Stewart-Oaten, A",4,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000081368500003",91,"J","1999","WILEY",1999
+"260",260,260,"Gomez, JM",1,"Univ Granada, Fac Ciencias, Dept Biol Anim & Ecol, E-18071 Granada, Spain.","univ granada","fac ciencias","18071"," g",NA,"spain",NA,"K-8061-2017",NA,"WOS:000082154300006",92,"J","1999","WILEY",1999
+"261",261,85,"Zamora, R",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,"B-3179-2010","0000-0002-5049-9968","WOS:000082154300006",92,"J","1999","WILEY",1999
+"262",262,262,"Allen, RB",1,"Landcare Res, Lincoln, New Zealand.","landcare res",NA,NA,"lincoln",NA,"new zealand",NA,NA,NA,"WOS:000079036500031",93,"J","1999","ECOLOGICAL SOC AMER",1999
+"263",263,263,"Bellingham, PJ",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,"AAP-4302-2020",NA,"WOS:000079036500031",93,"J","1999","ECOLOGICAL SOC AMER",1999
+"264",264,264,"Wiser, SK",3,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,"G-1975-2011","0000-0002-8938-8181","WOS:000079036500031",93,"J","1999","ECOLOGICAL SOC AMER",1999
+"265",265,265,"Kildaw, SD",1,"Univ Alaska, Inst Arctic Biol, Fairbanks, AK 99775 USA.","univ alaska","inst arctic biol","99775","fairbanks","ak","usa",NA,NA,NA,"WOS:000079036500021",94,"J","1999","WILEY",1999
+"266",266,266,"Dent, CL",1,"Arizona State Univ, Dept Biol, Tempe, AZ 85287 USA.","arizona state univ","dept biol","85287","tempe","az","usa",NA,NA,NA,"WOS:000083009400013",95,"J","1999","WILEY",1999
+"267",267,267,"Grimm, NB",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,"D-2840-2009","0000-0001-9374-660X","WOS:000083009400013",95,"J","1999","WILEY",1999
+"268",268,268,"Peart, DR",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000082408300017",96,"J","1999","WILEY",1999
+"269",269,269,"Webb, CO",1,"Dartmouth Coll, Dept Biol Sci, Hanover, NH 03755 USA.","dartmouth coll","dept biol sci","03755","hanover","nh","usa",NA,"B-1488-2009","0000-0003-1031-3249","WOS:000082408300017",96,"J","1999","WILEY",1999
+"270",270,270,"Brown, WS",5,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000082408300024",97,"J","1999","WILEY",1999
+"271",271,271,"Rouse, GL",4,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000082408300024",97,"J","1999","WILEY",1999
+"272",272,272,"Sparks, GB",3,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000082408300024",97,"J","1999","WILEY",1999
+"273",273,273,"Whiteman, HH",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000082408300024",97,"J","1999","WILEY",1999
+"274",274,274,"Wissinger, SA",1,"Allegheny Coll, Dept Biol, Meadville, PA 16335 USA.","allegheny coll","dept biol","16335","meadville","pa","usa",NA,NA,NA,"WOS:000082408300024",97,"J","1999","WILEY",1999
+"275",275,275,"Ruohomaki, K",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000085187900016",98,"J","1999","WILEY",1999
+"276",276,276,"Saloniemi, I",3,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,"C-8893-2011",NA,"WOS:000085187900016",98,"J","1999","WILEY",1999
+"277",277,277,"Tammaru, T",1,"Turku Univ, Sect Ecol, Dept Biol, FIN-20014 Turku, Finland.","turku univ","sect ecol","20014","f turku",NA,"finland",NA,"N-3892-2019",NA,"WOS:000085187900016",98,"J","1999","WILEY",1999
+"278",278,278,"Fownes, JH",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000082154300015",99,"J","1999","ECOLOGICAL SOC AMER",1999
+"279",279,279,"Herbert, DA",1,"Univ Hawaii, Dept Agron & Soil Sci, Honolulu, HI 96822 USA.","univ hawaii","dept agron & soil sci","96822","honolulu","hi","usa",NA,NA,NA,"WOS:000082154300015",99,"J","1999","ECOLOGICAL SOC AMER",1999
+"280",280,280,"Vitousek, PM",3,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000082154300015",99,"J","1999","ECOLOGICAL SOC AMER",1999
+"281",281,281,"Farmer, AH",1,"Midcontinent Ecol Sci Ctr, Ft Collins, CO 80525 USA.","midcontinent ecol sci ctr",NA,"80525","ft collins","co","usa",NA,NA,NA,"WOS:000084204100010",100,"J","1999","ECOLOGICAL SOC AMER",1999
+"282",282,339,"Wiens, JA",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000084204100010",100,"J","1999","ECOLOGICAL SOC AMER",1999
+"283",283,283,"Aldous, A",3,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000083009400003",101,"J","1999","ECOLOGICAL SOC AMER",1999
+"284",284,284,"Bedford, BL",1,"Cornell Univ, Dept Nat Resources, Ithaca, NY 14853 USA.","cornell univ","dept nat resources","14853","ithaca","ny","usa",NA,NA,NA,"WOS:000083009400003",101,"J","1999","ECOLOGICAL SOC AMER",1999
+"285",285,285,"Walbridge, MR",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000083009400003",101,"J","1999","ECOLOGICAL SOC AMER",1999
+"286",286,286,"Bednarek, A",4,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000082408300007",102,"J","1999","ECOLOGICAL SOC AMER",1999
+"287",287,287,"Hemphill, N",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000082408300007",102,"J","1999","ECOLOGICAL SOC AMER",1999
+"288",288,288,"March, JG",5,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000082408300007",102,"J","1999","ECOLOGICAL SOC AMER",1999
+"289",289,289,"McDowell, WH",3,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,"E-9767-2010","0000-0002-8739-9047","WOS:000082408300007",102,"J","1999","ECOLOGICAL SOC AMER",1999
+"290",290,290,"Pringle, CM",1,"Univ Georgia, Inst Ecol, Athens, GA 30602 USA.","univ georgia","inst ecol","30602","athens","ga","usa",NA,"I-1841-2012",NA,"WOS:000082408300007",102,"J","1999","ECOLOGICAL SOC AMER",1999
+"291",291,291,"Doak, DF",1,"Univ Calif Santa Cruz, Dept Environm Studies, Santa Cruz, CA 95064 USA.","univ calif santa cruz","dept environm studies","95064","santa cruz","ca","usa",NA,NA,NA,"WOS:000085187900006",103,"J","1999","WILEY",1999
+"292",292,292,"Morris, W",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000085187900006",103,"J","1999","WILEY",1999
+"293",293,293,"Bazzaz, FA",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000082154300010",104,"J","1999","ECOLOGICAL SOC AMER",1999
+"294",294,486,"George, LO",1,"Harvard Univ, Biol Labs, Dept Organism & Evolut Biol, Cambridge, MA 02138 USA.","harvard univ","dept organism & evolut biol","02138","cambridge","ma","usa",NA,NA,NA,"WOS:000082154300010",104,"J","1999","ECOLOGICAL SOC AMER",1999
+"295",295,295,"O'Neil, P",1,"Univ New Orleans, Dept Biol Sci, New Orleans, LA 70148 USA.","univ new orleans","dept biol sci","70148","new orleans","la","usa",NA,NA,NA,"WOS:000082154300007",105,"J","1999","WILEY",1999
+"296",296,296,"Arnold, ML",1,"Univ Georgia, Dept Genet, Athens, GA 30602 USA.","univ georgia","dept genet","30602","athens","ga","usa",NA,NA,NA,"WOS:000079036500003",106,"J","1999","ECOLOGICAL SOC AMER",1999
+"297",297,297,"Bulger, MR",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000079036500003",106,"J","1999","ECOLOGICAL SOC AMER",1999
+"298",298,298,"Burke, JM",3,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,"A-3502-2013","0000-0002-1412-5539","WOS:000079036500003",106,"J","1999","ECOLOGICAL SOC AMER",1999
+"299",299,299,"Hempel, AL",4,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000079036500003",106,"J","1999","ECOLOGICAL SOC AMER",1999
+"300",300,300,"Williams, JH",5,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,"E-2227-2011","0000-0002-1206-5667","WOS:000079036500003",106,"J","1999","ECOLOGICAL SOC AMER",1999
+"301",301,301,"Lindenmayer, DB",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,"P-7183-2017","0000-0002-4766-4088","WOS:000079036500027",107,"J","1999","ECOLOGICAL SOC AMER",1999
+"302",302,302,"McCarthy, MA",1,"Australian Natl Univ, Ctr Resource & Environm Studies, Canberra, ACT 0200, Australia.","australian natl univ","ctr resource & environm studies",NA,"canberra","act ","australia",NA,"O-5655-2014","0000-0003-1039-7980","WOS:000079036500027",107,"J","1999","ECOLOGICAL SOC AMER",1999
+"303",303,303,"He, HS",1,"Univ Wisconsin, Dept Forest Ecol & Management, Madison, WI 53706 USA.","univ wisconsin","dept forest ecol & management","53706","madison","wi","usa",NA,NA,"0000-0002-3983-2512","WOS:000078045600006",108,"J","1999","ECOLOGICAL SOC AMER",1999
+"304",304,304,"Mladenoff, DJ",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000078045600006",108,"J","1999","ECOLOGICAL SOC AMER",1999
+"305",305,305,"Holzapfel, C",1,"Univ Calif Santa Barbara, Dept Ecol Evolut & Marine Biol, Santa Barbara, CA 93106 USA.","univ calif santa barbara","dept ecol evolut & marine biol","93106","santa barbara","ca","usa",NA,NA,NA,"WOS:000085187900025",109,"J","1999","ECOLOGICAL SOC AMER",1999
+"306",306,306,"Mahall, BE",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000085187900025",109,"J","1999","ECOLOGICAL SOC AMER",1999
+"307",307,307,"Chen, BR",1,"Univ Kentucky, Coll Agr, Dept Entomol, Lexington, KY 40546 USA.","univ kentucky","dept entomol","40546","lexington","ky","usa",NA,NA,NA,"WOS:000082154300003",110,"J","1999","ECOLOGICAL SOC AMER",1999
+"308",308,308,"Wise, DH",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,"J-6111-2019","0000-0003-4072-0080","WOS:000082154300003",110,"J","1999","ECOLOGICAL SOC AMER",1999
+"309",309,309,"Morin, P",1,"Rutgers State Univ, Cook Coll, Dept Ecol Evolut & Nat Resources, New Brunswick, NJ 08901 USA.","rutgers state univ","dept ecol evolut & nat resources","08901","new brunswick","nj","usa",NA,NA,NA,"WOS:000082154300002",111,"J","1999","WILEY",1999
+"310",310,310,"Abrams, PA",1,"Univ Maryland, Dept Biol, College Pk, MD 20742 USA.","univ maryland","dept biol","20742","college pk","md","usa",NA,"A-5240-2008","0000-0002-1828-326X","WOS:000079036500024",112,"J","1999","WILEY",1999
+"311",311,311,"Harrison, S",1,"Univ Calif Davis, Div Environm Studies, Davis, CA 95616 USA.","univ calif davis","div environm studies","95616","davis","ca","usa",NA,NA,NA,"WOS:000078045600005",113,"J","1999","ECOLOGICAL SOC AMER",1999
+"312",312,312,"Bol, R",7,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,"H-9324-2013","0000-0003-3015-7706","WOS:000084204100025",114,"J","1999","ECOLOGICAL SOC AMER",1999
+"313",313,313,"Coleman, K",8,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,"D-5271-2011","0000-0002-9640-1479","WOS:000084204100025",114,"J","1999","ECOLOGICAL SOC AMER",1999
+"314",314,314,"Harkness, DD",6,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000084204100025",114,"J","1999","ECOLOGICAL SOC AMER",1999
+"315",315,315,"Jenkinson, DS",1,"Univ Reading, Dept Soil Sci, Reading RG6 6DW, Berks, England.","univ reading","dept soil sci","rg6 6dw","reading ","berks","england",NA,NA,NA,"WOS:000084204100025",114,"J","1999","ECOLOGICAL SOC AMER",1999
+"316",316,316,"Kinyamario, JI",3,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000084204100025",114,"J","1999","ECOLOGICAL SOC AMER",1999
+"317",317,317,"Meredith, J",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000084204100025",114,"J","1999","ECOLOGICAL SOC AMER",1999
+"318",318,318,"Warren, GP",4,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000084204100025",114,"J","1999","ECOLOGICAL SOC AMER",1999
+"319",319,319,"Wong, MTF",5,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,"F-2356-2011",NA,"WOS:000084204100025",114,"J","1999","ECOLOGICAL SOC AMER",1999
+"320",320,320,"Hanzawa, FM",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000084204100014",115,"J","1999","WILEY",1999
+"321",321,321,"Kalisz, S",1,"Michigan State Univ, WK Kellogg Biol Stn, Hickory Corners, MI 49060 USA.","michigan state univ","wk kellogg biol stn","49060","hickory corners","mi","usa",NA,NA,NA,"WOS:000084204100014",115,"J","1999","WILEY",1999
+"322",322,322,"Thiede, DA",4,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000084204100014",115,"J","1999","WILEY",1999
+"323",323,323,"Tonsor, SJ",3,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000084204100014",115,"J","1999","WILEY",1999
+"324",324,324,"Voigt, S",5,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000084204100014",115,"J","1999","WILEY",1999
+"325",325,325,"Pillar, VD",1,"Univ Fed Rio Grande do Sul, Dept Ecol, BR-91540000 Porto Alegre, RS, Brazil.","univ fed rio grande do sul","dept ecol","91540000"," porto alegre","rs","brazil",NA,NA,NA,"WOS:000084204100005",116,"J","1999","ECOLOGICAL SOC AMER",1999
+"326",326,326,"Aars, J",1,"Univ Oslo, Dept Biol, N-316 Oslo, Norway.","univ oslo",NA,NA,"dept biol","n- oslo","norway",NA,NA,NA,"WOS:000085187900014",117,"J","1999","ECOLOGICAL SOC AMER",1999
+"327",327,327,"Ims, RA",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000085187900014",117,"J","1999","ECOLOGICAL SOC AMER",1999
+"328",328,328,"Gastreich, KR",1,"Univ Texas, Dept Zool, Austin, TX 78712 USA.","univ texas","dept zool","78712","austin","tx","usa",NA,NA,NA,"WOS:000082154300027",118,"J","1999","ECOLOGICAL SOC AMER",1999
+"329",329,329,"Feldman, R",1,"Univ Colorado, Dept Biol, POB 173364, Denver, CO 80217 USA.","univ colorado","pob 173364","80217","denver","co","usa",NA,NA,NA,"WOS:000078045600025",119,"J","1999","WILEY",1999
+"330",330,330,"Koehler, J",3,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000078045600025",119,"J","1999","WILEY",1999
+"331",331,331,"Tomback, DF",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000078045600025",119,"J","1999","WILEY",1999
+"332",332,332,"Archer, S",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000083009400021",120,"J","1999","ECOLOGICAL SOC AMER",1999
+"333",333,333,"Brown, JR",1,"Texas A&M Univ, Dept Rangeland Ecol & Management, College Stn, TX 77843 USA.","texas a&m univ","dept rangeland ecol & management","77843","college stn","tx","usa",NA,NA,NA,"WOS:000083009400021",120,"J","1999","ECOLOGICAL SOC AMER",1999
+"334",334,334,"Crowley, PH",1,"Univ Kentucky, TH Morgan Sch Biol Sci, Lexington, KY 40506 USA.","univ kentucky","th morgan sch biol sci","40506","lexington","ky","usa",NA,NA,NA,"WOS:000083009400012",121,"J","1999","ECOLOGICAL SOC AMER",1999
+"335",335,335,"Linton, MC",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000083009400012",121,"J","1999","ECOLOGICAL SOC AMER",1999
+"336",336,336,"Blaustein, AR",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000083009400027",122,"J","1999","ECOLOGICAL SOC AMER",1999
+"337",337,337,"Kiesecker, JM",1,"Yale Univ, Sch Forestry & Environm Studies, New Haven, CT 06511 USA.","yale univ","sch forestry & environm studies","06511","new haven","ct","usa",NA,NA,NA,"WOS:000083009400027",122,"J","1999","ECOLOGICAL SOC AMER",1999
+"338",338,338,"McIntyre, NE",1,"Colorado State Univ, Dept Biol, Ft Collins, CO 80523 USA.","colorado state univ","dept biol","80523","ft collins","co","usa",NA,NA,NA,"WOS:000083009400011",123,"J","1999","ECOLOGICAL SOC AMER",1999
+"339",339,339,"Wiens, JA",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000083009400011",123,"J","1999","ECOLOGICAL SOC AMER",1999
+"340",340,340,"DeSimone, SA",1,"San Diego State Univ, Dept Biol, San Diego, CA 92182 USA.","san diego state univ","dept biol","92182","san diego","ca","usa",NA,NA,NA,"WOS:000082408300018",124,"J","1999","ECOLOGICAL SOC AMER",1999
+"341",341,341,"Zedler, PH",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000082408300018",124,"J","1999","ECOLOGICAL SOC AMER",1999
+"342",342,342,"Huston, MA",1,"Oak Ridge Natl Lab, Div Environm Sci, Oak Ridge, TN 37831 USA.","oak ridge natl lab","div environm sci","37831","oak ridge","tn","usa",NA,"B-1434-2009","0000-0001-9513-1166","WOS:000082154300032",125,"J","1999","ECOLOGICAL SOC AMER",1999
+"343",343,343,"Cade, BS",1,"US Geol Survey, Midcontinent Ecol Sci Ctr, Biol Resources Div, Ft Collins, CO 80525 USA.","us geol survey","biol resources div","80525","ft collins","co","usa",NA,NA,NA,"WOS:000078045600024",126,"J","1999","ECOLOGICAL SOC AMER",1999
+"344",344,344,"Schroeder, RL",3,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000078045600024",126,"J","1999","ECOLOGICAL SOC AMER",1999
+"345",345,345,"Terrell, JW",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000078045600024",126,"J","1999","ECOLOGICAL SOC AMER",1999
+"346",346,346,"Krupnick, GA",1,"Univ Calif Irvine, Dept Ecol & Evolutionary Biol, Irvine, CA 92697 USA.","univ calif irvine","dept ecol & evolutionary biol","92697","irvine","ca","usa",NA,NA,"0000-0002-1357-4826","WOS:000078045600010",127,"J","1999","ECOLOGICAL SOC AMER",1999
+"347",347,347,"Weis, AE",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,"0000-0002-7056-4886","WOS:000078045600010",127,"J","1999","ECOLOGICAL SOC AMER",1999
+"348",348,348,"Blake, JG",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000078045600026",128,"J","1999","ECOLOGICAL SOC AMER",1999
+"349",349,349,"Loiselle, BA",1,"Univ Missouri, Dept Biol, St Louis, MO 63121 USA.","univ missouri","dept biol","63121","st louis","mo","usa",NA,"O-7106-2016","0000-0003-1434-4173","WOS:000078045600026",128,"J","1999","ECOLOGICAL SOC AMER",1999
+"350",350,350,"Biondi, F",1,"Univ Calif San Diego, Scripps Inst Oceanog, La Jolla, CA 92093 USA.","univ calif san diego","scripps inst oceanog","92093","la jolla","ca","usa",NA,"G-2536-2010","0000-0003-0651-104X","WOS:000083009400024",129,"J","1999","WILEY",1999
+"351",351,351,"Fessenden, JE",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000083009400024",129,"J","1999","WILEY",1999
+"352",352,352,"Kuhara, N",3,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000083009400026",130,"J","1999","WILEY",1999
+"353",353,353,"Miyasaka, H",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000083009400026",130,"J","1999","WILEY",1999
+"354",354,354,"Nakano, S",1,"Hokkaido Univ Forests, Tomakomai Res Stn, Tomakomai, Hokkaido 0530035, Japan.","hokkaido univ forests","tomakomai res stn"," 05300","hokkaido",NA,"japan",NA,NA,NA,"WOS:000083009400026",130,"J","1999","WILEY",1999
+"355",355,355,"Brody, AK",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000085187900019",131,"J","1999","WILEY",1999
+"356",356,356,"Irwin, RE",1,"Univ Vermont, Dept Biol, Burlington, VT 05405 USA.","univ vermont","dept biol","05405","burlington","vt","usa",NA,NA,NA,"WOS:000085187900019",131,"J","1999","WILEY",1999
+"357",357,357,"McKinnon, ML",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000085187900021",132,"J","1999","ECOLOGICAL SOC AMER",1999
+"358",358,358,"Quiring, DT",1,"Univ New Brunswick, Populat Ecol Grp, Fac Forestry & Environm Management, Fredericton, NB E3B 6C2, Canada.","univ new brunswick","populat ecol grp"," e3b 6c2","nb",NA,"canada",NA,NA,NA,"WOS:000085187900021",132,"J","1999","ECOLOGICAL SOC AMER",1999
+"359",359,359,"Benkman, CW",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000081368500013",133,"J","1999","ECOLOGICAL SOC AMER",1999
+"360",360,360,"Coffey, K",1,"New Mexico State Univ, Dept Biol, Las Cruces, NM 88003 USA.","new mexico state univ","dept biol","88003","las cruces","nm","usa",NA,NA,NA,"WOS:000081368500013",133,"J","1999","ECOLOGICAL SOC AMER",1999
+"361",361,361,"Milligan, BG",3,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000081368500013",133,"J","1999","ECOLOGICAL SOC AMER",1999
+"362",362,362,"Lenski, RE",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,"0000-0002-1064-8375","WOS:000081368500008",134,"J","1999","WILEY",1999
+"363",363,363,"Velicer, GJ",1,"Michigan State Univ, Ctr Microbial Ecol, E Lansing, MI 48824 USA.","michigan state univ","ctr microbial ecol","48824","e lansing","mi","usa",NA,NA,NA,"WOS:000081368500008",134,"J","1999","WILEY",1999
+"364",364,364,"Holway, DA",1,"Univ Utah, Dept Biol, Salt Lake City, UT 84112 USA.","univ utah","dept biol","84112","salt lake city","ut","usa",NA,NA,NA,"WOS:000078045600018",135,"J","1999","WILEY",1999
+"365",365,365,"Forkner, RE",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000084204100018",136,"J","1999","ECOLOGICAL SOC AMER",1999
+"366",366,366,"Hunter, MD",1,"Univ Georgia, Inst Ecol, Athens, GA 30602 USA.","univ georgia","inst ecol","30602","athens","ga","usa",NA,NA,"0000-0003-3761-8237","WOS:000084204100018",136,"J","1999","ECOLOGICAL SOC AMER",1999
+"367",367,367,"Child, AL",3,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000084204100024",137,"J","1999","ECOLOGICAL SOC AMER",1999
+"368",368,526,"Dennis, B",4,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000084204100024",137,"J","1999","ECOLOGICAL SOC AMER",1999
+"369",369,369,"Strong, DR",1,"Bodega Marine Lab, Bodega Bay, CA 94923 USA.","bodega marine lab",NA,"94923","bodega bay","ca","usa",NA,NA,NA,"WOS:000084204100024",137,"J","1999","ECOLOGICAL SOC AMER",1999
+"370",370,370,"Whipple, AV",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000084204100024",137,"J","1999","ECOLOGICAL SOC AMER",1999
+"371",371,371,"Carson, WP",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,"A-2569-2013",NA,"WOS:000079036500010",138,"J","1999","WILEY",1999
+"372",372,372,"Stevens, MHH",1,"Univ Pittsburgh, Dept Biol Sci, Program Ecol & Evolut, Pittsburgh, PA 15260 USA.","univ pittsburgh","program ecol & evolut","15260","pittsburgh","pa","usa",NA,NA,NA,"WOS:000079036500010",138,"J","1999","WILEY",1999
+"373",373,51,"Huisman, J",1,"Univ Amsterdam, Microbiol Lab, NL-1018 WS Amsterdam, Netherlands.","univ amsterdam","microbiol lab","1018"," ws amsterdam",NA,"netherlands",NA,"A-1089-2013","0000-0001-9598-3211","WOS:000078045600015",139,"J","1999","WILEY",1999
+"374",374,374,"Lehtila, K",1,"Univ Calif Davis, Sect Evolut & Ecol, Davis, CA 95616 USA.","univ calif davis","sect evolut & ecol","95616","davis","ca","usa",NA,NA,"0000-0002-0260-3978","WOS:000078045600008",140,"J","1999","ECOLOGICAL SOC AMER",1999
+"375",375,375,"Strauss, SY",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,"J-1827-2012","0000-0002-6117-4085","WOS:000078045600008",140,"J","1999","ECOLOGICAL SOC AMER",1999
+"376",376,376,"Faulkner, BE",3,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000084204100012",141,"J","1999","ECOLOGICAL SOC AMER",1999
+"377",377,377,"Macnair, MR",5,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000084204100012",141,"J","1999","ECOLOGICAL SOC AMER",1999
+"378",378,378,"Mountjoy, C",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000084204100012",141,"J","1999","ECOLOGICAL SOC AMER",1999
+"379",379,379,"Roberts, MV",4,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000084204100012",141,"J","1999","ECOLOGICAL SOC AMER",1999
+"380",380,380,"Robertson, AW",1,"Univ Exeter, Dept Biol Sci, Hatherly Labs, Exeter EX4 4PS, Devon, England.","univ exeter","dept biol sci","ex4 4ps","exeter ","devon","england",NA,"A-7808-2008","0000-0001-6894-2158","WOS:000084204100012",141,"J","1999","ECOLOGICAL SOC AMER",1999
+"381",381,381,"Arnold, SJ",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000083009400015",142,"J","1999","WILEY",1999
+"382",382,382,"Bronikowski, AM",1,"Univ Chicago, Comm Evolutionary Biol, Chicago, IL 60637 USA.","univ chicago","comm evolutionary biol","60637","chicago","il","usa",NA,NA,NA,"WOS:000083009400015",142,"J","1999","WILEY",1999
+"383",383,383,"Denno, RF",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000081368500016",143,"J","1999","ECOLOGICAL SOC AMER",1999
+"384",384,384,"Eubanks, MD",1,"Univ Maryland, Dept Entomol, College Pk, MD 20742 USA.","univ maryland","dept entomol","20742","college pk","md","usa",NA,NA,NA,"WOS:000081368500016",143,"J","1999","ECOLOGICAL SOC AMER",1999
+"385",385,385,"Hoffmann, WA",1,"Univ Brasilia, Dept Bot, BR-70919970 Brasilia, DF, Brazil.","univ brasilia","dept bot","70919970"," bia","df","brazil",NA,"E-8894-2010","0000-0002-1926-823X","WOS:000081368500024",144,"J","1999","ECOLOGICAL SOC AMER",1999
+"386",386,386,"Polishchuk, LV",1,"Max Planck Inst Limnol, Dept Ecol Physiol, D-2320 Plon, Germany.","max planck inst limnol","max planck inst limnol","2320"," plon",NA,"germany",NA,NA,NA,"WOS:000079036500033",145,"J","1999","WILEY",1999
+"387",387,387,"Kobe, RK",1,"Michigan State Univ, Dept Forestry, E Lansing, MI 48824 USA.","michigan state univ","dept forestry","48824","e lansing","mi","usa",NA,NA,NA,"WOS:000078045600014",146,"J","1999","WILEY",1999
+"388",388,388,"Boughton, DA",1,"Univ Texas, Dept Zool, Austin, TX 78712 USA.","univ texas","dept zool","78712","austin","tx","usa",NA,NA,NA,"WOS:000084204100022",147,"J","1999","ECOLOGICAL SOC AMER",1999
+"389",389,389,"Kolb, KJ",1,"Univ Utah, Dept Biol, Salt Lake City, UT 84102 USA.","univ utah","dept biol","84102","salt lake city","ut","usa",NA,NA,NA,"WOS:000083009400020",148,"J","1999","ECOLOGICAL SOC AMER",1999
+"390",390,390,"Sperry, JS",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000083009400020",148,"J","1999","ECOLOGICAL SOC AMER",1999
+"391",391,493,"Lipson, DA",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000083009400023",149,"J","1999","ECOLOGICAL SOC AMER",1999
+"392",392,473,"Monson, RK",3,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000083009400023",149,"J","1999","ECOLOGICAL SOC AMER",1999
+"393",393,393,"Raab, TK",1,"Univ Colorado, Dept Environm Populat & Organism Biol, Boulder, CO 80309 USA.","univ colorado","dept environm populat & organism biol","80309","boulder","co","usa",NA,"A-7478-2008","0000-0002-3965-8729","WOS:000083009400023",149,"J","1999","ECOLOGICAL SOC AMER",1999
+"394",394,394,"Chazdon, RL",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,"O-9766-2018","0000-0002-7349-5687","WOS:000082408300011",150,"J","1999","WILEY",1999
+"395",395,395,"Iriarte, SVB",3,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000082408300011",150,"J","1999","WILEY",1999
+"396",396,396,"Nicotra, AB",1,"Univ Connecticut, Dept Ecol & Evolutionary Biol, Storrs, CT 06269 USA.","univ connecticut","dept ecol & evolutionary biol","06269","storrs","ct","usa",NA,"C-1361-2009","0000-0001-6578-369X","WOS:000082408300011",150,"J","1999","WILEY",1999
+"397",397,397,"Vandermeer, J",1,"Univ Michigan, Dept Biol, Ann Arbor, MI 48109 USA.","univ michigan","dept biol","48109","ann arbor","mi","usa",NA,NA,NA,"WOS:000082408300003",151,"J","1999","ECOLOGICAL SOC AMER",1999
+"398",398,398,"Yodzis, P",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000082408300003",151,"J","1999","ECOLOGICAL SOC AMER",1999
+"399",399,399,"Crabtree, RL",3,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000085187900015",152,"J","1999","ECOLOGICAL SOC AMER",1999
+"400",400,400,"Lewis, MA",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,"A-2659-2014","0000-0002-7155-7426","WOS:000085187900015",152,"J","1999","ECOLOGICAL SOC AMER",1999
+"401",401,400,"Lewis, MA",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,"C-5015-2008","0000-0002-7155-7426","WOS:000085187900015",152,"J","1999","ECOLOGICAL SOC AMER",1999
+"402",402,402,"Moorcroft, PR",1,"Princeton Univ, Dept Ecol & Evolut Biol, Princeton, NJ 08544 USA.","princeton univ","dept ecol & evolut biol","08544","princeton","nj","usa",NA,NA,NA,"WOS:000085187900015",152,"J","1999","ECOLOGICAL SOC AMER",1999
+"403",403,479,"Cooper, SD",3,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000081368500002",153,"J","1999","WILEY-BLACKWELL",1999
+"404",404,404,"Holt, RD",4,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000081368500002",153,"J","1999","WILEY-BLACKWELL",1999
+"405",405,91,"Osenberg, CW",1,"Univ Florida, Dept Zool, Gainesville, FL 32611 USA.","univ florida","dept zool","32611","gainesville","fl","usa",NA,"M-9904-2013","0000-0003-1918-7904","WOS:000081368500002",153,"J","1999","WILEY-BLACKWELL",1999
+"406",406,481,"Sarnelle, O",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000081368500002",153,"J","1999","WILEY-BLACKWELL",1999
+"407",407,407,"Hoffman, EA",1,"Univ Illinois, Dept Ecol Ethol & Evolut, Urbana, IL 61801 USA.","univ illinois","dept ecol ethol & evolut","61801","urbana","il","usa",NA,NA,NA,"WOS:000082154300029",154,"J","1999","ECOLOGICAL SOC AMER",1999
+"408",408,408,"Pfennig, DW",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000082154300029",154,"J","1999","ECOLOGICAL SOC AMER",1999
+"409",409,409,"Cooper, AB",1,"Univ Washington, Wildlife Sci Grp, Seattle, WA 98195 USA.","univ washington","wildlife sci grp","98195","seattle","wa","usa",NA,"C-1655-2010","0000-0001-6027-8272","WOS:000079036500020",155,"J","1999","WILEY",1999
+"410",410,410,"Millspaugh, JJ",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000079036500020",155,"J","1999","WILEY",1999
+"411",411,411,"Fritz, RS",1,"Vassar Coll, Dept Biol, Poughkeepsie, NY 12604 USA.","vassar coll","dept biol","12604","poughkeepsie","ny","usa",NA,NA,NA,"WOS:000079036500004",156,"J","1999","ECOLOGICAL SOC AMER",1999
+"412",412,412,"Kaitaniemi, P",1,"Turku Univ, Dept Biol, Sect Ecol, FIN-20014 Turku, Finland.","turku univ","dept biol","20014","f turku",NA,"finland",NA,"A-2022-2008","0000-0002-5162-242X","WOS:000079036500016",157,"J","1999","WILEY",1999
+"413",413,413,"Neuvonen, S",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000079036500016",157,"J","1999","WILEY",1999
+"414",414,414,"Nyyssonen, T",3,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000079036500016",157,"J","1999","WILEY",1999
+"415",415,415,"Ford, ED",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000079036500018",158,"J","1999","ECOLOGICAL SOC AMER",1999
+"416",416,416,"Reynolds, JH",1,"Univ Washington, Quantitat Ecol & Resource Management Program, Seattle, WA 98195 USA.","univ washington","quantitat ecol & resource management program","98195","seattle","wa","usa",NA,"E-1445-2011","0000-0003-4506-0501","WOS:000079036500018",158,"J","1999","ECOLOGICAL SOC AMER",1999
+"417",417,417,"Aerts, R",1,"Univ Utrecht, Dept Plant Ecol & Evolut Biol, NL-3508 TB Utrecht, Netherlands.","univ utrecht","dept plant ecol & evolut biol","3508"," tb utrecht",NA,"netherlands",NA,NA,"0000-0001-6694-0669","WOS:000083009400004",159,"J","1999","ECOLOGICAL SOC AMER",1999
+"418",418,418,"Verhoeven, JTA",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,"B-9514-2011",NA,"WOS:000083009400004",159,"J","1999","ECOLOGICAL SOC AMER",1999
+"419",419,419,"Whigham, DF",3,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,"0000-0003-1488-820X","WOS:000083009400004",159,"J","1999","ECOLOGICAL SOC AMER",1999
+"420",420,420,"Barot, S",1,"Ecole Normale Super, UMR 7625, F-75230 Paris 05, France.","ecole normale super","umr 7625","75230"," paris ",NA,"france",NA,NA,NA,"WOS:000082408300016",160,"J","1999","ECOLOGICAL SOC AMER",1999
+"421",421,421,"Gignoux, J",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000082408300016",160,"J","1999","ECOLOGICAL SOC AMER",1999
+"422",422,422,"Menaut, JC",3,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000082408300016",160,"J","1999","ECOLOGICAL SOC AMER",1999
+"423",423,423,"Curtis, PS",3,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000081368500006",161,"J","1999","ECOLOGICAL SOC AMER",1999
+"424",424,445,"Gurevitch, J",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000081368500006",161,"J","1999","ECOLOGICAL SOC AMER",1999
+"425",425,425,"Hedges, LV",1,"Univ Chicago, Dept Educ, Chicago, IL 60637 USA.","univ chicago","dept educ","60637","chicago","il","usa",NA,NA,"0000-0002-7531-0631","WOS:000081368500006",161,"J","1999","ECOLOGICAL SOC AMER",1999
+"426",426,426,"Arnone, JA",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000082154300012",162,"J","1999","ECOLOGICAL SOC AMER",1999
+"427",427,427,"Zaller, JG",1,"Univ Basel, Inst Bot, CH-4056 Basel, Switzerland.","univ basel","inst bot","4056"," basel",NA,"switzerland",NA,"A-9914-2009","0000-0001-7744-7378","WOS:000082154300012",162,"J","1999","ECOLOGICAL SOC AMER",1999
+"428",428,428,"Oechel, WC",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,"M-1347-2019","0000-0002-3504-026X","WOS:000079036500029",163,"J","1999","WILEY",1999
+"429",429,428,"Oechel, WC",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,"F-9361-2010","0000-0002-3504-026X","WOS:000079036500029",163,"J","1999","WILEY",1999
+"430",430,430,"Vourlitis, GL",1,"Calif State Univ, Biol Program, San Marcos, CA 92096 USA.","calif state univ","biol program","92096","san marcos","ca","usa",NA,NA,NA,"WOS:000079036500029",163,"J","1999","WILEY",1999
+"431",431,431,"Clark, DA",3,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000084204100017",164,"J","1999","WILEY-BLACKWELL",1999
+"432",432,432,"Clark, DB",1,"Univ Missouri, Dept Biol, St Louis, MO 63121 USA.","univ missouri","dept biol","63121","st louis","mo","usa",NA,NA,NA,"WOS:000084204100017",164,"J","1999","WILEY-BLACKWELL",1999
+"433",433,433,"Palmer, MW",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,"A-2519-2008",NA,"WOS:000084204100017",164,"J","1999","WILEY-BLACKWELL",1999
+"434",434,434,"Schneider, JC",1,"Mississippi State Univ, Dept Entomol & Plant Pathol, Mississippi State, MS 39762 USA.","mississippi state univ","dept entomol & plant pathol","39762","mississippi state","ms","usa",NA,NA,NA,"WOS:000084204100023",165,"J","1999","ECOLOGICAL SOC AMER",1999
+"435",435,435,"Fleming, TH",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000082408300022",166,"J","1999","ECOLOGICAL SOC AMER",1999
+"436",436,436,"Holland, JN",1,"Univ Miami, Dept Biol, Coral Gables, FL 33124 USA.","univ miami","dept biol","33124","coral gables","fl","usa",NA,NA,NA,"WOS:000082408300022",166,"J","1999","ECOLOGICAL SOC AMER",1999
+"437",437,437,"Floyd, AG",6,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000082408300002",167,"J","1999","ECOLOGICAL SOC AMER",1999
+"438",438,438,"Howell, J",5,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000082408300002",167,"J","1999","ECOLOGICAL SOC AMER",1999
+"439",439,439,"Keith, DA",3,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000082408300002",167,"J","1999","ECOLOGICAL SOC AMER",1999
+"440",440,440,"Mills, K",7,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000082408300002",167,"J","1999","ECOLOGICAL SOC AMER",1999
+"441",441,441,"Murray, BR",1,"Macquarie Univ, Sch Biol Sci, N Ryde, NSW 2109, Australia.","macquarie univ","sch biol sci",NA,"n ryde","nsw ","australia",NA,NA,"0000-0002-4734-5976","WOS:000082408300002",167,"J","1999","ECOLOGICAL SOC AMER",1999
+"442",442,442,"Myerscough, PJ",4,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000082408300002",167,"J","1999","ECOLOGICAL SOC AMER",1999
+"443",443,443,"Rice, BL",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000082408300002",167,"J","1999","ECOLOGICAL SOC AMER",1999
+"444",444,444,"Westoby, M",8,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,"0000-0001-7690-4530","WOS:000082408300002",167,"J","1999","ECOLOGICAL SOC AMER",1999
+"445",445,445,"Gurevitch, J",1,"SUNY Stony Brook, Dept Ecol & Evolut, Stony Brook, NY 11794 USA.","suny stony brook","dept ecol & evolut","11794","stony brook","ny","usa",NA,NA,NA,"WOS:000081368500005",168,"J","1999","ECOLOGICAL SOC AMER",1999
+"446",446,425,"Hedges, LV",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,"0000-0002-7531-0631","WOS:000081368500005",168,"J","1999","ECOLOGICAL SOC AMER",1999
+"447",447,447,"Gillon, D",1,"CNRS, Ctr Ecol Fonct & Evolut, F-34293 Montpellier 5, France.","cnrs","ctr ecol fonct & evolut","34293"," montpellier ",NA,"france",NA,NA,NA,"WOS:000078045600013",169,"J","1999","ECOLOGICAL SOC AMER",1999
+"448",448,448,"Ibrahima, A",3,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000078045600013",169,"J","1999","ECOLOGICAL SOC AMER",1999
+"449",449,449,"Joffre, R",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000078045600013",169,"J","1999","ECOLOGICAL SOC AMER",1999
+"450",450,450,"Campbell, DR",3,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,"A-1653-2012","0000-0002-1147-846X","WOS:000078045600009",170,"J","1999","ECOLOGICAL SOC AMER",1999
+"451",451,346,"Krupnick, GA",1,"Univ Calif Irvine, Dept Ecol & Evolutionary Biol, Irvine, CA 92697 USA.","univ calif irvine","dept ecol & evolutionary biol","92697","irvine","ca","usa",NA,NA,"0000-0002-1357-4826","WOS:000078045600009",170,"J","1999","ECOLOGICAL SOC AMER",1999
+"452",452,347,"Weis, AE",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,"0000-0002-7056-4886","WOS:000078045600009",170,"J","1999","ECOLOGICAL SOC AMER",1999
+"453",453,453,"Coleman, JS",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000084204100011",171,"J","1999","ECOLOGICAL SOC AMER",1999
+"454",454,454,"McConnaughay, KDM",1,"Bradley Univ, Dept Biol, Peoria, IL 61625 USA.","bradley univ","dept biol","61625","peoria","il","usa",NA,NA,NA,"WOS:000084204100011",171,"J","1999","ECOLOGICAL SOC AMER",1999
+"455",455,455,"Kreutzer, C",1,"Max Planck Inst Limnol, Dept Physiol Ecol, D-24302 Plon, Germany.","max planck inst limnol","max planck inst limnol","24302"," plon",NA,"germany",NA,NA,NA,"WOS:000083009400018",172,"J","1999","WILEY",1999
+"456",456,456,"Lampert, W",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000083009400018",172,"J","1999","WILEY",1999
+"457",457,457,"Coleman, DC",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,"0000-0003-0390-1501","WOS:000082408300008",173,"J","1999","WILEY-BLACKWELL",1999
+"458",458,458,"Crossley, DA",4,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000082408300008",173,"J","1999","WILEY-BLACKWELL",1999
+"459",459,459,"Haines, BL",5,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000082408300008",173,"J","1999","WILEY-BLACKWELL",1999
+"460",460,460,"Heneghan, L",1,"Univ Georgia, Inst Ecol, Athens, GA 30602 USA.","univ georgia","inst ecol","30602","athens","ga","usa",NA,NA,NA,"WOS:000082408300008",173,"J","1999","WILEY-BLACKWELL",1999
+"461",461,461,"Zou, X",3,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,"0000-0001-9023-3067","WOS:000082408300008",173,"J","1999","WILEY-BLACKWELL",1999
+"462",462,462,"Donnegan, JA",1,"Univ Missouri, Sch Nat Resources, Columbia, MO 65211 USA.","univ missouri","sch nat resources","65211","columbia","mo","usa",NA,NA,NA,"WOS:000081368500025",174,"J","1999","ECOLOGICAL SOC AMER",1999
+"463",463,463,"Rebertus, AJ",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000081368500025",174,"J","1999","ECOLOGICAL SOC AMER",1999
+"464",464,464,"Drenner, RW",1,"Texas Christian Univ, Dept Biol, Ft Worth, TX 76129 USA.","texas christian univ","dept biol","76129","ft worth","tx","usa",NA,NA,NA,"WOS:000082154300030",175,"J","1999","ECOLOGICAL SOC AMER",1999
+"465",465,465,"Mazumder, A",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000082154300030",175,"J","1999","ECOLOGICAL SOC AMER",1999
+"466",466,466,"Coomes, DA",1,"Univ London Imperial Coll Sci Technol & Med, Dept Biol, Ascot SL5 7PY, Berks, England.","univ london imperial coll sci technol & med","dept biol","sl5 7py","ascot ","berks","england",NA,"H-5630-2011",NA,"WOS:000079036500019",176,"J","1999","ECOLOGICAL SOC AMER",1999
+"467",467,467,"Rees, M",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000079036500019",176,"J","1999","ECOLOGICAL SOC AMER",1999
+"468",468,468,"Turnbull, L",3,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000079036500019",176,"J","1999","ECOLOGICAL SOC AMER",1999
+"469",469,469,"Kusch, J",1,"Univ Kaiserslautern, Dept Ecol, D-67663 Kaiserslautern, Germany.","univ kaiserslautern","dept ecol","67663"," kaiserslautern",NA,"germany",NA,NA,NA,"WOS:000079036500032",177,"J","1999","ECOLOGICAL SOC AMER",1999
+"470",470,470,"Tracy, CR",1,"Univ Oklahoma, Dept Zool, Norman, OK 73019 USA.","univ oklahoma","dept zool","73019","norman","ok","usa",NA,"E-5619-2011",NA,"WOS:000078045600020",178,"J","1999","WILEY",1999
+"471",471,471,"Fisk, MC",3,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,"0000-0003-4248-0180","WOS:000082408300009",179,"J","1999","WILEY",1999
+"472",472,472,"Jaeger, CH",1,"Univ Colorado, Dept Environm Populat & Organism Biol, Boulder, CO 80309 USA.","univ colorado","dept environm populat & organism biol","80309","boulder","co","usa",NA,NA,NA,"WOS:000082408300009",179,"J","1999","WILEY",1999
+"473",473,473,"Monson, RK",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000082408300009",179,"J","1999","WILEY",1999
+"474",474,474,"Schmidt, SK",4,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,"G-2771-2010","0000-0002-9175-2085","WOS:000082408300009",179,"J","1999","WILEY",1999
+"475",475,475,"Jonasson, S",1,"Univ Copenhagen, Inst Bot, Dept Plant Ecol, DK-1353 Copenhagen K, Denmark.","univ copenhagen","inst bot","1353"," copenhagen k",NA,"denmark",NA,NA,NA,"WOS:000082408300004",180,"J","1999","ECOLOGICAL SOC AMER",1999
+"476",476,476,"Michelsen, A",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,"L-5279-2014","0000-0002-9541-8658","WOS:000082408300004",180,"J","1999","ECOLOGICAL SOC AMER",1999
+"477",477,477,"Nielsen, EV",4,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000082408300004",180,"J","1999","ECOLOGICAL SOC AMER",1999
+"478",478,478,"Schmidt, IK",3,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,"A-6230-2015","0000-0003-3880-2060","WOS:000082408300004",180,"J","1999","ECOLOGICAL SOC AMER",1999
+"479",479,479,"Cooper, SD",3,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000081368500004",181,"J","1999","ECOLOGICAL SOC AMER",1999
+"480",480,480,"Englund, G",1,"Umea Univ, Dept Anim Ecol, S-90187 Umea, Sweden.","umea univ","dept anim ecol","90187"," umea",NA,"sweden",NA,"A-7434-2008","0000-0001-5634-8602","WOS:000081368500004",181,"J","1999","ECOLOGICAL SOC AMER",1999
+"481",481,481,"Sarnelle, O",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000081368500004",181,"J","1999","ECOLOGICAL SOC AMER",1999
+"482",482,501,"Callaway, RM",3,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000081368500009",182,"J","1999","ECOLOGICAL SOC AMER",1999
+"483",483,483,"Marler, MJ",1,"Univ Montana, Div Biol Sci, Missoula, MT 59812 USA.","univ montana","div biol sci","59812","missoula","mt","usa",NA,NA,NA,"WOS:000081368500009",182,"J","1999","ECOLOGICAL SOC AMER",1999
+"484",484,484,"Zabinski, CA",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000081368500009",182,"J","1999","ECOLOGICAL SOC AMER",1999
+"485",485,293,"Bazzaz, FA",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000082154300009",183,"J","1999","ECOLOGICAL SOC AMER",1999
+"486",486,486,"George, LO",1,"Harvard Univ, Biol Labs, Dept Organism & Evolut Biol, Cambridge, MA 02138 USA.","harvard univ","dept organism & evolut biol","02138","cambridge","ma","usa",NA,NA,NA,"WOS:000082154300009",183,"J","1999","ECOLOGICAL SOC AMER",1999
+"487",487,487,"Mattson, DJ",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000082154300018",184,"J","1999","ECOLOGICAL SOC AMER",1999
+"488",488,488,"Pease, CM",1,"Univ Texas, Dept Zool, Austin, TX 78712 USA.","univ texas","dept zool","78712","austin","tx","usa",NA,NA,NA,"WOS:000082154300018",184,"J","1999","ECOLOGICAL SOC AMER",1999
+"489",489,489,"Belnap, J",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000078045600011",185,"J","1999","ECOLOGICAL SOC AMER",1999
+"490",490,490,"Evans, RD",1,"Univ Arkansas, Fayetteville, AR 72701 USA.","univ arkansas",NA,"72701","fayetteville","ar","usa",NA,NA,NA,"WOS:000078045600011",185,"J","1999","ECOLOGICAL SOC AMER",1999
+"491",491,491,"Lyons, SK",1,"Texas Tech Univ, Dept Biol Sci, Program Ecol & Conservat Biol, Lubbock, TX 79409 USA.","texas tech univ","program ecol & conservat biol","79409","lubbock","tx","usa",NA,NA,NA,"WOS:000084204100003",186,"J","1999","WILEY",1999
+"492",492,492,"Willig, MR",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000084204100003",186,"J","1999","WILEY",1999
+"493",493,493,"Lipson, DA",1,"Univ Colorado, Dept Environm Populat & Organism Biol, Boulder, CO 80309 USA.","univ colorado","dept environm populat & organism biol","80309","boulder","co","usa",NA,NA,NA,"WOS:000085187900012",187,"J","1999","ECOLOGICAL SOC AMER",1999
+"494",494,473,"Monson, RK",3,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000085187900012",187,"J","1999","ECOLOGICAL SOC AMER",1999
+"495",495,474,"Schmidt, SK",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,"G-2771-2010","0000-0002-9175-2085","WOS:000085187900012",187,"J","1999","ECOLOGICAL SOC AMER",1999
+"496",496,496,"Bjornstad, ON",1,"Univ Oslo, Dept Biol, Div Zool, N-0316 Oslo, Norway.","univ oslo","dept biol","0316"," oslo",NA,"norway",NA,"I-4518-2012",NA,"WOS:000081368500018",188,"J","1999","WILEY-BLACKWELL",1999
+"497",497,497,"Fromentin, JM",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000081368500018",188,"J","1999","WILEY-BLACKWELL",1999
+"498",498,498,"Gjosaeter, J",4,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000081368500018",188,"J","1999","WILEY-BLACKWELL",1999
+"499",499,198,"Stenseth, NC",3,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,"G-5212-2016","0000-0002-1591-5399","WOS:000081368500018",188,"J","1999","WILEY-BLACKWELL",1999
+"500",500,500,"Belliveau, WM",3,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000081368500011",189,"J","1999","ECOLOGICAL SOC AMER",1999
+"501",501,501,"Callaway, RM",1,"Univ Montana, Div Biol Sci, Missoula, MT 59812 USA.","univ montana","div biol sci","59812","missoula","mt","usa",NA,NA,NA,"WOS:000081368500011",189,"J","1999","ECOLOGICAL SOC AMER",1999
+"502",502,502,"DeLuca, TH",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,"B-4547-2012","0000-0003-1561-9597","WOS:000081368500011",189,"J","1999","ECOLOGICAL SOC AMER",1999
+"503",503,503,"Hart, SC",1,"No Arizona Univ, Sch Forestry, Coll Ecosyst Sci & Management, Flagstaff, AZ 86011 USA.","no arizona univ","coll ecosyst sci & management","86011","flagstaff","az","usa",NA,NA,NA,"WOS:000081368500026",190,"J","1999","ECOLOGICAL SOC AMER",1999
+"504",504,504,"Richner, H",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,"B-1659-2008","0000-0001-7390-0526","WOS:000081368500017",191,"J","1999","ECOLOGICAL SOC AMER",1999
+"505",505,505,"Tripet, F",1,"Univ Bern, Dept Zool, CH-3032 Hinterkappelen Bern, Switzerland.","univ bern","dept zool","3032"," hinterkappelen bern",NA,"switzerland",NA,"M-6693-2015","0000-0002-7939-0712","WOS:000081368500017",191,"J","1999","ECOLOGICAL SOC AMER",1999
+"506",506,506,"Karban, R",1,"Univ Calif Davis, Dept Entomol, Davis, CA 95616 USA.","univ calif davis","dept entomol","95616","davis","ca","usa",NA,NA,NA,"WOS:000079036500014",192,"J","1999","ECOLOGICAL SOC AMER",1999
+"507",507,507,"Thaler, JS",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000079036500014",192,"J","1999","ECOLOGICAL SOC AMER",1999
+"508",508,508,"Carlton, G",3,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000084204100019",193,"J","1999","ECOLOGICAL SOC AMER",1999
+"509",509,509,"Cooper-Ellis, S",1,"Harvard Univ, Harvard Forest, Petersham, MA 01366 USA.","harvard univ","harvard forest","01366","petersham","ma","usa",NA,NA,NA,"WOS:000084204100019",193,"J","1999","ECOLOGICAL SOC AMER",1999
+"510",510,510,"Foster, DR",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000084204100019",193,"J","1999","ECOLOGICAL SOC AMER",1999
+"511",511,511,"Lezberg, A",4,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000084204100019",193,"J","1999","ECOLOGICAL SOC AMER",1999
+"512",512,204,"Bertness, MD",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000082408300021",194,"J","1999","WILEY",1999
+"513",513,513,"Hacker, SD",1,"Brown Univ, Dept Ecol & Evolutionary Biol, Providence, RI 02912 USA.","brown univ","dept ecol & evolutionary biol","02912","providence","ri","usa",NA,NA,NA,"WOS:000082408300021",194,"J","1999","WILEY",1999
+"514",514,514,"Relyea, RA",1,"Univ Michigan, Dept Biol, Ann Arbor, MI 48109 USA.","univ michigan","dept biol","48109","ann arbor","mi","usa",NA,NA,NA,"WOS:000082408300025",195,"J","1999","ECOLOGICAL SOC AMER",1999
+"515",515,515,"Werner, EE",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000082408300025",195,"J","1999","ECOLOGICAL SOC AMER",1999
+"516",516,516,"Cazelles, B",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,"B-1572-2013","0000-0002-7972-361X","WOS:000085187900004",196,"J","1999","WILEY",1999
+"517",517,517,"Ferriere, R",1,"Ecole Normale Super, Ecol Lab, CNRS UMR 7625, F-75232 Paris 05, France.","ecole normale super","ecol lab","75232"," paris ",NA,"france",NA,"S-8050-2017","0000-0002-5806-5566","WOS:000085187900004",196,"J","1999","WILEY",1999
+"518",518,293,"Bazzaz, FA",3,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000085187900007",197,"J","1999","ECOLOGICAL SOC AMER",1999
+"519",519,519,"Jasienski, M",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,"0000-0003-2224-6389","WOS:000085187900007",197,"J","1999","ECOLOGICAL SOC AMER",1999
+"520",520,520,"Thomas, SC",1,"Harvard Univ, Dept Organism & Evolut Biol, Cambridge, MA 02138 USA.","harvard univ","dept organism & evolut biol","02138","cambridge","ma","usa",NA,NA,NA,"WOS:000085187900007",197,"J","1999","ECOLOGICAL SOC AMER",1999
+"521",521,521,"Blas, J",3,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,"A-2487-2012","0000-0003-0589-3322","WOS:000081368500020",198,"J","1999","ECOLOGICAL SOC AMER",1999
+"522",522,522,"Donazar, JA",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,"0000-0002-9433-9755","WOS:000081368500020",198,"J","1999","ECOLOGICAL SOC AMER",1999
+"523",523,523,"Forero, MG",1,"CSIC, Dept Appl Biol, Estac Biol Donana, Seville 41013, Spain.","csic","dept appl biol"," 41013","seville",NA,"spain",NA,NA,NA,"WOS:000081368500020",198,"J","1999","ECOLOGICAL SOC AMER",1999
+"524",524,524,"Hiraldo, F",4,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,"AAA-8314-2019",NA,"WOS:000081368500020",198,"J","1999","ECOLOGICAL SOC AMER",1999
+"525",525,525,"Carpenter, SR",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,"AAQ-6404-2020",NA,"WOS:000081368500028",199,"J","1999","WILEY",1999
+"526",526,526,"Dennis, B",3,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000081368500028",199,"J","1999","WILEY",1999
+"527",527,527,"Ives, AR",1,"Univ Wisconsin, Dept Zool, Madison, WI 53706 USA.","univ wisconsin","dept zool","53706","madison","wi","usa",NA,"A-5698-2008","0000-0001-9375-9523","WOS:000081368500028",199,"J","1999","WILEY",1999
+"528",528,525,"Carpenter, SR",1,"Univ Wisconsin, Ctr Limnol, Madison, WI 53706 USA.","univ wisconsin","ctr limnol","53706","madison","wi","usa",NA,"AAQ-6404-2020",NA,"WOS:000082154300031",200,"J","1999","ECOLOGICAL SOC AMER",1999
+"529",529,529,"Gregoire, TG",1,"Yale Univ, Sch Forestry & Environm Studies, New Haven, CT 06511 USA.","yale univ","sch forestry & environm studies","06511","new haven","ct","usa",NA,NA,NA,"WOS:000082154300026",201,"J","1999","ECOLOGICAL SOC AMER",1999
+"530",530,530,"Schabenberger, O",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000082154300026",201,"J","1999","ECOLOGICAL SOC AMER",1999
+"531",531,531,"Madsen, T",1,"Univ Sydney, Sch Biol Sci A08, Sydney, NSW 2006, Australia.","univ sydney","sch biol sci a08",NA,"sydney","nsw ","australia",NA,NA,"0000-0002-0998-8372","WOS:000082154300020",202,"J","1999","ECOLOGICAL SOC AMER",1999
+"532",532,532,"Shine, R",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,"B-8711-2008",NA,"WOS:000082154300020",202,"J","1999","ECOLOGICAL SOC AMER",1999
+"533",533,533,"Cahill, JF",1,"Univ Penn, Dept Biol, Leidy Labs, Philadelphia, PA 19104 USA.","univ penn","leidy labs","19104","philadelphia","pa","usa",NA,"B-6147-2015","0000-0002-4110-1516","WOS:000079036500011",203,"J","1999","WILEY",1999
+"534",534,534,"Abrahamson, WG",1,"Bucknell Univ, Dept Biol, Lewisburg, PA 17837 USA.","bucknell univ","dept biol","17837","lewisburg","pa","usa",NA,NA,NA,"WOS:000078045600007",204,"J","1999","WILEY",1999
+"535",535,535,"Brown, JS",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,"J-2624-2012",NA,"WOS:000085187900029",205,"J","1999","ECOLOGICAL SOC AMER",1999
+"536",536,536,"Howe, HF",1,"Univ Illinois, Dept Sci Biol, Chicago, IL 60607 USA.","univ illinois","dept sci biol","60607","chicago","il","usa",NA,"B-8749-2014","0000-0001-5081-2128","WOS:000085187900029",205,"J","1999","ECOLOGICAL SOC AMER",1999
+"537",537,537,"Calderon, O",3,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000085187900013",206,"J","1999","ECOLOGICAL SOC AMER",1999
+"538",538,538,"Carrasco, C",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000085187900013",206,"J","1999","ECOLOGICAL SOC AMER",1999
+"539",539,539,"Paton, S",4,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000085187900013",206,"J","1999","ECOLOGICAL SOC AMER",1999
+"540",540,540,"Wright, SJ",1,"Smithsonian Trop Res Inst, Balboa, Ancon, Panama.","smithsonian trop res inst","smithsonian trop res inst",NA,"balboa","ancon","panama",NA,"M-3311-2013","0000-0003-4260-5676","WOS:000085187900013",206,"J","1999","ECOLOGICAL SOC AMER",1999
+"541",541,541,"Downing, JA",1,"Iowa State Univ, Dept Anim Ecol, Ames, IA 50011 USA.","iowa state univ","dept anim ecol","50011","ames","ia","usa",NA,"N-8102-2018",NA,"WOS:000081368500007",207,"J","1999","ECOLOGICAL SOC AMER",1999
+"542",542,91,"Osenberg, CW",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,"M-9904-2013","0000-0003-1918-7904","WOS:000081368500007",207,"J","1999","ECOLOGICAL SOC AMER",1999
+"543",543,481,"Sarnelle, O",3,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000081368500007",207,"J","1999","ECOLOGICAL SOC AMER",1999
+"544",544,544,"Gaston, AJ",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000081368500019",208,"J","1999","ECOLOGICAL SOC AMER",1999
+"545",545,545,"Hipfner, JM",1,"Univ Ottawa, Dept Biol, Ottawa, ON K1N 6N5, Canada.","univ ottawa","dept biol"," k1n 6n5","on",NA,"canada",NA,NA,NA,"WOS:000081368500019",208,"J","1999","ECOLOGICAL SOC AMER",1999
+"546",546,546,"Dawah, HA",3,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000082154300025",209,"J","1999","WILEY",1999
+"547",547,547,"Feifarek, BP",4,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000082154300025",209,"J","1999","WILEY",1999
+"548",548,548,"Hawkins, BA",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,"A-3510-2011",NA,"WOS:000082154300025",209,"J","1999","WILEY",1999
+"549",549,142,"Martinez, ND",1,"San Francisco State Univ, Dept Biol, Romberg Tiburon Ctr, Tiburon, CA 94920 USA.","san francisco state univ","romberg tiburon ctr","94920","tiburon","ca","usa",NA,"A-5312-2008","0000-0002-1130-5550","WOS:000082154300025",209,"J","1999","WILEY",1999
+"550",550,550,"Lima, SL",2,"Could not be extracted",NA,NA,NA,NA,NA,NA,NA,NA,NA,"WOS:000082154300023",210,"J","1999","ECOLOGICAL SOC AMER",1999
+"551",551,551,"Zollner, PA",1,"Indiana State Univ, Dept Life Sci, Terre Haute, IN 47809 USA.","indiana state univ","dept life sci","47809","terre haute","in","usa",NA,"A-8727-2010","0000-0001-8263-7029","WOS:000082154300023",210,"J","1999","ECOLOGICAL SOC AMER",1999
+"552",552,552,"Helmuth, B",1,"Univ Washington, Dept Zool, Seattle, WA 98195 USA.","univ washington","dept zool","98195","seattle","wa","usa",NA,"AAD-2664-2019","0000-0003-0180-3414","WOS:000078045600002",211,"J","1999","ECOLOGICAL SOC AMER",1999

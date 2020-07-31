@@ -32,7 +32,7 @@ WC Ecology
 SC Environmental Sciences & Ecology
 GA V8810
 UT WOS:A1975V881000002
-DA 2020-07-17
+DA 2020-07-23
 ER
 
 PT J
@@ -66,7 +66,7 @@ WC Ecology
 SC Environmental Sciences & Ecology
 GA V8810
 UT WOS:A1975V881000003
-DA 2020-07-17
+DA 2020-07-23
 ER
 
 PT J
@@ -102,7 +102,7 @@ WC Ecology
 SC Environmental Sciences & Ecology
 GA V8810
 UT WOS:A1975V881000004
-DA 2020-07-17
+DA 2020-07-23
 ER
 
 PT J
@@ -136,7 +136,7 @@ WC Ecology
 SC Environmental Sciences & Ecology
 GA V8810
 UT WOS:A1975V881000005
-DA 2020-07-17
+DA 2020-07-23
 ER
 
 PT J
@@ -171,7 +171,7 @@ WC Ecology
 SC Environmental Sciences & Ecology
 GA V8810
 UT WOS:A1975V881000006
-DA 2020-07-17
+DA 2020-07-23
 ER
 
 PT J
@@ -204,7 +204,7 @@ WC Ecology
 SC Environmental Sciences & Ecology
 GA V8810
 UT WOS:A1975V881000007
-DA 2020-07-17
+DA 2020-07-23
 ER
 
 PT J
@@ -237,7 +237,7 @@ WC Ecology
 SC Environmental Sciences & Ecology
 GA V8810
 UT WOS:A1975V881000008
-DA 2020-07-17
+DA 2020-07-23
 ER
 
 PT J
@@ -274,7 +274,7 @@ WC Ecology
 SC Environmental Sciences & Ecology
 GA V8810
 UT WOS:A1975V881000009
-DA 2020-07-17
+DA 2020-07-23
 ER
 
 PT J
@@ -312,7 +312,7 @@ WC Ecology
 SC Environmental Sciences & Ecology
 GA V8810
 UT WOS:A1975V881000010
-DA 2020-07-17
+DA 2020-07-23
 ER
 
 PT J
@@ -350,7 +350,7 @@ WC Ecology
 SC Environmental Sciences & Ecology
 GA V8810
 UT WOS:A1975V881000011
-DA 2020-07-17
+DA 2020-07-23
 ER
 
 PT J
@@ -398,7 +398,7 @@ WC Ecology
 SC Environmental Sciences & Ecology
 GA V8810
 UT WOS:A1975V881000012
-DA 2020-07-17
+DA 2020-07-23
 ER
 
 PT J
@@ -432,7 +432,7 @@ WC Ecology
 SC Environmental Sciences & Ecology
 GA V8810
 UT WOS:A1975V881000013
-DA 2020-07-17
+DA 2020-07-23
 ER
 
 PT J
@@ -468,7 +468,7 @@ WC Ecology
 SC Environmental Sciences & Ecology
 GA V8810
 UT WOS:A1975V881000014
-DA 2020-07-17
+DA 2020-07-23
 ER
 
 PT J
@@ -502,7 +502,7 @@ WC Ecology
 SC Environmental Sciences & Ecology
 GA V8810
 UT WOS:A1975V881000015
-DA 2020-07-17
+DA 2020-07-23
 ER
 
 PT J
@@ -535,7 +535,7 @@ WC Ecology
 SC Environmental Sciences & Ecology
 GA V8810
 UT WOS:A1975V881000016
-DA 2020-07-17
+DA 2020-07-23
 ER
 
 PT J
@@ -569,7 +569,7 @@ WC Ecology
 SC Environmental Sciences & Ecology
 GA V8810
 UT WOS:A1975V881000017
-DA 2020-07-17
+DA 2020-07-23
 ER
 
 PT J
@@ -605,7 +605,7 @@ WC Ecology
 SC Environmental Sciences & Ecology
 GA V8810
 UT WOS:A1975V881000018
-DA 2020-07-17
+DA 2020-07-23
 ER
 
 PT J
@@ -640,7 +640,7 @@ WC Ecology
 SC Environmental Sciences & Ecology
 GA V8810
 UT WOS:A1975V881000019
-DA 2020-07-17
+DA 2020-07-23
 ER
 
 PT J
@@ -654,8 +654,8 @@ C1 UNIV CALIF,DEPT BIOL,LOS ANGELES,CA 90024.
 NR 24
 TC 123
 Z9 124
-U1 0
-U2 25
+U1 1
+U2 26
 PU ECOLOGICAL SOC AMER
 PI WASHINGTON
 PA 2010 MASSACHUSETTS AVE, NW, STE 400, WASHINGTON, DC 20036
@@ -673,7 +673,7 @@ WC Ecology
 SC Environmental Sciences & Ecology
 GA V8810
 UT WOS:A1975V881000020
-DA 2020-07-17
+DA 2020-07-23
 ER
 
 PT J
@@ -713,7 +713,7 @@ WC Ecology
 SC Environmental Sciences & Ecology
 GA V8810
 UT WOS:A1975V881000021
-DA 2020-07-17
+DA 2020-07-23
 ER
 
 PT J
@@ -751,7 +751,7 @@ WC Ecology
 SC Environmental Sciences & Ecology
 GA V8810
 UT WOS:A1975V881000022
-DA 2020-07-17
+DA 2020-07-23
 ER
 
 PT J
@@ -787,7 +787,7 @@ WC Ecology
 SC Environmental Sciences & Ecology
 GA V8810
 UT WOS:A1975V881000023
-DA 2020-07-17
+DA 2020-07-23
 ER
 
 PT J
@@ -820,7 +820,7 @@ WC Ecology
 SC Environmental Sciences & Ecology
 GA V8810
 UT WOS:A1975V881000024
-DA 2020-07-17
+DA 2020-07-23
 ER
 
 PT J
@@ -854,7 +854,7 @@ WC Ecology
 SC Environmental Sciences & Ecology
 GA V8810
 UT WOS:A1975V881000025
-DA 2020-07-17
+DA 2020-07-23
 ER
 
 PT J
@@ -891,7 +891,7 @@ WC Ecology
 SC Environmental Sciences & Ecology
 GA AD010
 UT WOS:A1975AD01000002
-DA 2020-07-17
+DA 2020-07-23
 ER
 
 PT J
@@ -925,7 +925,7 @@ WC Ecology
 SC Environmental Sciences & Ecology
 GA AD010
 UT WOS:A1975AD01000003
-DA 2020-07-17
+DA 2020-07-23
 ER
 
 PT J
@@ -962,7 +962,7 @@ WC Ecology
 SC Environmental Sciences & Ecology
 GA AD010
 UT WOS:A1975AD01000004
-DA 2020-07-17
+DA 2020-07-23
 ER
 
 PT J
@@ -999,7 +999,7 @@ WC Ecology
 SC Environmental Sciences & Ecology
 GA AD010
 UT WOS:A1975AD01000005
-DA 2020-07-17
+DA 2020-07-23
 ER
 
 PT J
@@ -1036,7 +1036,7 @@ WC Ecology
 SC Environmental Sciences & Ecology
 GA AD010
 UT WOS:A1975AD01000006
-DA 2020-07-17
+DA 2020-07-23
 ER
 
 PT J
@@ -1071,7 +1071,7 @@ WC Ecology
 SC Environmental Sciences & Ecology
 GA AD010
 UT WOS:A1975AD01000007
-DA 2020-07-17
+DA 2020-07-23
 ER
 
 PT J
@@ -1110,7 +1110,7 @@ WC Ecology
 SC Environmental Sciences & Ecology
 GA AD010
 UT WOS:A1975AD01000008
-DA 2020-07-17
+DA 2020-07-23
 ER
 
 PT J
@@ -1146,7 +1146,7 @@ WC Ecology
 SC Environmental Sciences & Ecology
 GA AD010
 UT WOS:A1975AD01000009
-DA 2020-07-17
+DA 2020-07-23
 ER
 
 PT J
@@ -1185,7 +1185,7 @@ WC Ecology
 SC Environmental Sciences & Ecology
 GA AD010
 UT WOS:A1975AD01000010
-DA 2020-07-17
+DA 2020-07-23
 ER
 
 PT J
@@ -1218,7 +1218,7 @@ WC Ecology
 SC Environmental Sciences & Ecology
 GA AD010
 UT WOS:A1975AD01000011
-DA 2020-07-17
+DA 2020-07-23
 ER
 
 PT J
@@ -1255,7 +1255,7 @@ WC Ecology
 SC Environmental Sciences & Ecology
 GA AD010
 UT WOS:A1975AD01000012
-DA 2020-07-17
+DA 2020-07-23
 ER
 
 PT J
@@ -1290,7 +1290,7 @@ WC Ecology
 SC Environmental Sciences & Ecology
 GA AD010
 UT WOS:A1975AD01000013
-DA 2020-07-17
+DA 2020-07-23
 ER
 
 PT J
@@ -1325,7 +1325,7 @@ WC Ecology
 SC Environmental Sciences & Ecology
 GA AD010
 UT WOS:A1975AD01000014
-DA 2020-07-17
+DA 2020-07-23
 ER
 
 PT J
@@ -1364,7 +1364,7 @@ WC Ecology
 SC Environmental Sciences & Ecology
 GA AD010
 UT WOS:A1975AD01000015
-DA 2020-07-17
+DA 2020-07-23
 ER
 
 PT J
@@ -1398,7 +1398,7 @@ WC Ecology
 SC Environmental Sciences & Ecology
 GA AD010
 UT WOS:A1975AD01000016
-DA 2020-07-17
+DA 2020-07-23
 ER
 
 PT J
@@ -1435,7 +1435,7 @@ WC Ecology
 SC Environmental Sciences & Ecology
 GA AD010
 UT WOS:A1975AD01000017
-DA 2020-07-17
+DA 2020-07-23
 ER
 
 PT J
@@ -1474,7 +1474,7 @@ WC Ecology
 SC Environmental Sciences & Ecology
 GA AD010
 UT WOS:A1975AD01000018
-DA 2020-07-17
+DA 2020-07-23
 ER
 
 PT J
@@ -1512,7 +1512,7 @@ WC Ecology
 SC Environmental Sciences & Ecology
 GA AD010
 UT WOS:A1975AD01000019
-DA 2020-07-17
+DA 2020-07-23
 ER
 
 PT J
@@ -1547,7 +1547,7 @@ WC Ecology
 SC Environmental Sciences & Ecology
 GA AD010
 UT WOS:A1975AD01000020
-DA 2020-07-17
+DA 2020-07-23
 ER
 
 PT J
@@ -1587,7 +1587,7 @@ WC Ecology
 SC Environmental Sciences & Ecology
 GA AD010
 UT WOS:A1975AD01000021
-DA 2020-07-17
+DA 2020-07-23
 ER
 
 PT J
@@ -1622,7 +1622,7 @@ WC Ecology
 SC Environmental Sciences & Ecology
 GA AD010
 UT WOS:A1975AD01000022
-DA 2020-07-17
+DA 2020-07-23
 ER
 
 PT J
@@ -1635,9 +1635,9 @@ LA English
 DT Article
 C1 UNIV ILLINOIS,DEPT BOT,URBANA,IL 61801.
 NR 29
-TC 368
-Z9 415
-U1 3
+TC 369
+Z9 416
+U1 1
 U2 123
 PU ECOLOGICAL SOC AMER
 PI WASHINGTON
@@ -1656,7 +1656,7 @@ WC Ecology
 SC Environmental Sciences & Ecology
 GA AD010
 UT WOS:A1975AD01000023
-DA 2020-07-17
+DA 2020-07-23
 ER
 
 PT J
@@ -1692,7 +1692,7 @@ WC Ecology
 SC Environmental Sciences & Ecology
 GA AD010
 UT WOS:A1975AD01000024
-DA 2020-07-17
+DA 2020-07-23
 ER
 
 PT J
@@ -1704,8 +1704,8 @@ LA English
 DT Article
 C1 UNIV PENN, DEPT BIOL, PHILADELPHIA, PA 19174 USA.
 NR 7
-TC 79
-Z9 79
+TC 80
+Z9 80
 U1 0
 U2 8
 PU WILEY
@@ -1726,7 +1726,7 @@ WC Ecology
 SC Environmental Sciences & Ecology
 GA AD010
 UT WOS:A1975AD01000025
-DA 2020-07-17
+DA 2020-07-23
 ER
 
 PT J
@@ -1760,7 +1760,7 @@ WC Ecology
 SC Environmental Sciences & Ecology
 GA AD010
 UT WOS:A1975AD01000026
-DA 2020-07-17
+DA 2020-07-23
 ER
 
 PT J
@@ -1793,7 +1793,7 @@ WC Ecology
 SC Environmental Sciences & Ecology
 GA AH457
 UT WOS:A1975AH45700002
-DA 2020-07-17
+DA 2020-07-23
 ER
 
 PT J
@@ -1827,7 +1827,7 @@ WC Ecology
 SC Environmental Sciences & Ecology
 GA AH457
 UT WOS:A1975AH45700003
-DA 2020-07-17
+DA 2020-07-23
 ER
 
 PT J
@@ -1864,7 +1864,7 @@ WC Ecology
 SC Environmental Sciences & Ecology
 GA AH457
 UT WOS:A1975AH45700004
-DA 2020-07-17
+DA 2020-07-23
 ER
 
 PT J
@@ -1901,7 +1901,7 @@ WC Ecology
 SC Environmental Sciences & Ecology
 GA AH457
 UT WOS:A1975AH45700005
-DA 2020-07-17
+DA 2020-07-23
 ER
 
 PT J
@@ -1938,7 +1938,7 @@ WC Ecology
 SC Environmental Sciences & Ecology
 GA AH457
 UT WOS:A1975AH45700006
-DA 2020-07-17
+DA 2020-07-23
 ER
 
 PT J
@@ -1974,7 +1974,7 @@ WC Ecology
 SC Environmental Sciences & Ecology
 GA AH457
 UT WOS:A1975AH45700007
-DA 2020-07-17
+DA 2020-07-23
 ER
 
 PT J
@@ -2010,7 +2010,7 @@ WC Ecology
 SC Environmental Sciences & Ecology
 GA AH457
 UT WOS:A1975AH45700008
-DA 2020-07-17
+DA 2020-07-23
 ER
 
 PT J
@@ -2043,7 +2043,7 @@ WC Ecology
 SC Environmental Sciences & Ecology
 GA AH457
 UT WOS:A1975AH45700009
-DA 2020-07-17
+DA 2020-07-23
 ER
 
 PT J
@@ -2076,7 +2076,7 @@ WC Ecology
 SC Environmental Sciences & Ecology
 GA AH457
 UT WOS:A1975AH45700010
-DA 2020-07-17
+DA 2020-07-23
 ER
 
 PT J
@@ -2112,7 +2112,7 @@ WC Ecology
 SC Environmental Sciences & Ecology
 GA AH457
 UT WOS:A1975AH45700011
-DA 2020-07-17
+DA 2020-07-23
 ER
 
 PT J
@@ -2150,7 +2150,7 @@ WC Ecology
 SC Environmental Sciences & Ecology
 GA AH457
 UT WOS:A1975AH45700012
-DA 2020-07-17
+DA 2020-07-23
 ER
 
 PT J
@@ -2187,7 +2187,7 @@ WC Ecology
 SC Environmental Sciences & Ecology
 GA AH457
 UT WOS:A1975AH45700013
-DA 2020-07-17
+DA 2020-07-23
 ER
 
 PT J
@@ -2223,7 +2223,7 @@ WC Ecology
 SC Environmental Sciences & Ecology
 GA AH457
 UT WOS:A1975AH45700014
-DA 2020-07-17
+DA 2020-07-23
 ER
 
 PT J
@@ -2257,7 +2257,7 @@ WC Ecology
 SC Environmental Sciences & Ecology
 GA AH457
 UT WOS:A1975AH45700015
-DA 2020-07-17
+DA 2020-07-23
 ER
 
 PT J
@@ -2292,7 +2292,7 @@ WC Ecology
 SC Environmental Sciences & Ecology
 GA AH457
 UT WOS:A1975AH45700016
-DA 2020-07-17
+DA 2020-07-23
 ER
 
 PT J
@@ -2325,7 +2325,7 @@ WC Ecology
 SC Environmental Sciences & Ecology
 GA AH457
 UT WOS:A1975AH45700017
-DA 2020-07-17
+DA 2020-07-23
 ER
 
 PT J
@@ -2359,7 +2359,7 @@ WC Ecology
 SC Environmental Sciences & Ecology
 GA AH457
 UT WOS:A1975AH45700018
-DA 2020-07-17
+DA 2020-07-23
 ER
 
 PT J
@@ -2393,7 +2393,7 @@ WC Ecology
 SC Environmental Sciences & Ecology
 GA AH457
 UT WOS:A1975AH45700019
-DA 2020-07-17
+DA 2020-07-23
 ER
 
 PT J
@@ -2436,7 +2436,7 @@ WC Ecology
 SC Environmental Sciences & Ecology
 GA AH457
 UT WOS:A1975AH45700020
-DA 2020-07-17
+DA 2020-07-23
 ER
 
 PT J
@@ -2470,7 +2470,7 @@ WC Ecology
 SC Environmental Sciences & Ecology
 GA AH457
 UT WOS:A1975AH45700021
-DA 2020-07-17
+DA 2020-07-23
 ER
 
 PT J
@@ -2503,7 +2503,7 @@ WC Ecology
 SC Environmental Sciences & Ecology
 GA AH457
 UT WOS:A1975AH45700022
-DA 2020-07-17
+DA 2020-07-23
 ER
 
 PT J
@@ -2536,7 +2536,7 @@ WC Ecology
 SC Environmental Sciences & Ecology
 GA AH457
 UT WOS:A1975AH45700023
-DA 2020-07-17
+DA 2020-07-23
 ER
 
 PT J
@@ -2575,7 +2575,7 @@ WC Ecology
 SC Environmental Sciences & Ecology
 GA AH457
 UT WOS:A1975AH45700024
-DA 2020-07-17
+DA 2020-07-23
 ER
 
 PT J
@@ -2608,7 +2608,7 @@ WC Ecology
 SC Environmental Sciences & Ecology
 GA AH457
 UT WOS:A1975AH45700025
-DA 2020-07-17
+DA 2020-07-23
 ER
 
 PT J
@@ -2645,7 +2645,7 @@ WC Ecology
 SC Environmental Sciences & Ecology
 GA AH457
 UT WOS:A1975AH45700026
-DA 2020-07-17
+DA 2020-07-23
 ER
 
 PT J
@@ -2678,7 +2678,7 @@ WC Ecology
 SC Environmental Sciences & Ecology
 GA AH457
 UT WOS:A1975AH45700027
-DA 2020-07-17
+DA 2020-07-23
 ER
 
 PT J
@@ -2716,7 +2716,7 @@ WC Ecology
 SC Environmental Sciences & Ecology
 GA AH457
 UT WOS:A1975AH45700028
-DA 2020-07-17
+DA 2020-07-23
 ER
 
 PT J
@@ -2753,7 +2753,7 @@ WC Ecology
 SC Environmental Sciences & Ecology
 GA AN745
 UT WOS:A1975AN74500001
-DA 2020-07-17
+DA 2020-07-23
 ER
 
 PT J
@@ -2788,7 +2788,7 @@ WC Ecology
 SC Environmental Sciences & Ecology
 GA AN745
 UT WOS:A1975AN74500002
-DA 2020-07-17
+DA 2020-07-23
 ER
 
 PT J
@@ -2822,7 +2822,7 @@ WC Ecology
 SC Environmental Sciences & Ecology
 GA AN745
 UT WOS:A1975AN74500003
-DA 2020-07-17
+DA 2020-07-23
 ER
 
 PT J
@@ -2855,7 +2855,7 @@ WC Ecology
 SC Environmental Sciences & Ecology
 GA AN745
 UT WOS:A1975AN74500004
-DA 2020-07-17
+DA 2020-07-23
 ER
 
 PT J
@@ -2896,7 +2896,7 @@ WC Ecology
 SC Environmental Sciences & Ecology
 GA AN745
 UT WOS:A1975AN74500005
-DA 2020-07-17
+DA 2020-07-23
 ER
 
 PT J
@@ -2908,8 +2908,8 @@ LA English
 DT Article
 C1 UNIV TENNESSEE,GRAD PROGRAM ECOL,KNOXVILLE,TN 37916.
 NR 58
-TC 276
-Z9 288
+TC 279
+Z9 291
 U1 0
 U2 16
 PU ECOLOGICAL SOC AMER
@@ -2929,7 +2929,7 @@ WC Ecology
 SC Environmental Sciences & Ecology
 GA AN745
 UT WOS:A1975AN74500006
-DA 2020-07-17
+DA 2020-07-23
 ER
 
 PT J
@@ -2963,7 +2963,7 @@ WC Ecology
 SC Environmental Sciences & Ecology
 GA AN745
 UT WOS:A1975AN74500007
-DA 2020-07-17
+DA 2020-07-23
 ER
 
 PT J
@@ -2979,8 +2979,8 @@ LA English
 DT Article
 C1 OAK RIDGE NATL LAB, ENVIRONM SCI DIV, OAK RIDGE, TN 37830 USA.
 NR 27
-TC 757
-Z9 805
+TC 759
+Z9 807
 U1 2
 U2 46
 PU ECOLOGICAL SOC AMER
@@ -3001,7 +3001,7 @@ WC Ecology
 SC Environmental Sciences & Ecology
 GA AN745
 UT WOS:A1975AN74500008
-DA 2020-07-17
+DA 2020-07-23
 ER
 
 PT J
@@ -3038,7 +3038,7 @@ WC Ecology
 SC Environmental Sciences & Ecology
 GA AN745
 UT WOS:A1975AN74500009
-DA 2020-07-17
+DA 2020-07-23
 ER
 
 PT J
@@ -3072,7 +3072,7 @@ WC Ecology
 SC Environmental Sciences & Ecology
 GA AN745
 UT WOS:A1975AN74500010
-DA 2020-07-17
+DA 2020-07-23
 ER
 
 PT J
@@ -3105,7 +3105,7 @@ WC Ecology
 SC Environmental Sciences & Ecology
 GA AN745
 UT WOS:A1975AN74500011
-DA 2020-07-17
+DA 2020-07-23
 ER
 
 PT J
@@ -3141,7 +3141,7 @@ WC Ecology
 SC Environmental Sciences & Ecology
 GA AN745
 UT WOS:A1975AN74500012
-DA 2020-07-17
+DA 2020-07-23
 ER
 
 PT J
@@ -3175,7 +3175,7 @@ WC Ecology
 SC Environmental Sciences & Ecology
 GA AN745
 UT WOS:A1975AN74500013
-DA 2020-07-17
+DA 2020-07-23
 ER
 
 PT J
@@ -3212,7 +3212,7 @@ WC Ecology
 SC Environmental Sciences & Ecology
 GA AN745
 UT WOS:A1975AN74500014
-DA 2020-07-17
+DA 2020-07-23
 ER
 
 PT J
@@ -3249,7 +3249,7 @@ WC Ecology
 SC Environmental Sciences & Ecology
 GA AN745
 UT WOS:A1975AN74500015
-DA 2020-07-17
+DA 2020-07-23
 ER
 
 PT J
@@ -3282,7 +3282,7 @@ WC Ecology
 SC Environmental Sciences & Ecology
 GA AN745
 UT WOS:A1975AN74500016
-DA 2020-07-17
+DA 2020-07-23
 ER
 
 PT J
@@ -3316,7 +3316,7 @@ WC Ecology
 SC Environmental Sciences & Ecology
 GA AN745
 UT WOS:A1975AN74500017
-DA 2020-07-17
+DA 2020-07-23
 ER
 
 PT J
@@ -3350,7 +3350,7 @@ WC Ecology
 SC Environmental Sciences & Ecology
 GA AN745
 UT WOS:A1975AN74500018
-DA 2020-07-17
+DA 2020-07-23
 ER
 
 PT J
@@ -3384,7 +3384,7 @@ WC Ecology
 SC Environmental Sciences & Ecology
 GA AN745
 UT WOS:A1975AN74500019
-DA 2020-07-17
+DA 2020-07-23
 ER
 
 PT J
@@ -3424,7 +3424,7 @@ WC Ecology
 SC Environmental Sciences & Ecology
 GA AN745
 UT WOS:A1975AN74500020
-DA 2020-07-17
+DA 2020-07-23
 ER
 
 PT J
@@ -3439,8 +3439,8 @@ C1 UNIV CALIF,DEPT BIOL,RIVERSIDE,CA 92502.
 NR 21
 TC 200
 Z9 201
-U1 0
-U2 12
+U1 1
+U2 13
 PU ECOLOGICAL SOC AMER
 PI WASHINGTON
 PA 2010 MASSACHUSETTS AVE, NW, STE 400, WASHINGTON, DC 20036
@@ -3458,7 +3458,7 @@ WC Ecology
 SC Environmental Sciences & Ecology
 GA AN745
 UT WOS:A1975AN74500021
-DA 2020-07-17
+DA 2020-07-23
 ER
 
 PT J
@@ -3491,7 +3491,7 @@ WC Ecology
 SC Environmental Sciences & Ecology
 GA AN745
 UT WOS:A1975AN74500022
-DA 2020-07-17
+DA 2020-07-23
 ER
 
 PT J
@@ -3527,7 +3527,7 @@ WC Ecology
 SC Environmental Sciences & Ecology
 GA AN745
 UT WOS:A1975AN74500023
-DA 2020-07-17
+DA 2020-07-23
 ER
 
 PT J
@@ -3562,7 +3562,7 @@ WC Ecology
 SC Environmental Sciences & Ecology
 GA AN745
 UT WOS:A1975AN74500024
-DA 2020-07-17
+DA 2020-07-23
 ER
 
 PT J
@@ -3596,7 +3596,7 @@ WC Ecology
 SC Environmental Sciences & Ecology
 GA AZ207
 UT WOS:A1975AZ20700002
-DA 2020-07-17
+DA 2020-07-23
 ER
 
 PT J
@@ -3609,8 +3609,8 @@ LA English
 DT Article
 C1 UNIV MARYLAND, DEPT ZOOL, COLLEGE PK, MD 20742 USA.
 NR 54
-TC 158
-Z9 162
+TC 159
+Z9 163
 U1 0
 U2 12
 PU WILEY
@@ -3631,7 +3631,7 @@ WC Ecology
 SC Environmental Sciences & Ecology
 GA AZ207
 UT WOS:A1975AZ20700003
-DA 2020-07-17
+DA 2020-07-23
 ER
 
 PT J
@@ -3666,7 +3666,7 @@ WC Ecology
 SC Environmental Sciences & Ecology
 GA AZ207
 UT WOS:A1975AZ20700004
-DA 2020-07-17
+DA 2020-07-23
 ER
 
 PT J
@@ -3702,7 +3702,7 @@ WC Ecology
 SC Environmental Sciences & Ecology
 GA AZ207
 UT WOS:A1975AZ20700005
-DA 2020-07-17
+DA 2020-07-23
 ER
 
 PT J
@@ -3739,7 +3739,7 @@ WC Ecology
 SC Environmental Sciences & Ecology
 GA AZ207
 UT WOS:A1975AZ20700006
-DA 2020-07-17
+DA 2020-07-23
 ER
 
 PT J
@@ -3755,8 +3755,8 @@ LA English
 DT Article
 C1 UNIV CALIF,DEPT BIOL SCI,SANTA BARBARA,CA 93106.
 NR 14
-TC 235
-Z9 239
+TC 236
+Z9 240
 U1 0
 U2 27
 PU ECOLOGICAL SOC AMER
@@ -3776,7 +3776,7 @@ WC Ecology
 SC Environmental Sciences & Ecology
 GA AZ207
 UT WOS:A1975AZ20700007
-DA 2020-07-17
+DA 2020-07-23
 ER
 
 PT J
@@ -3812,7 +3812,7 @@ WC Ecology
 SC Environmental Sciences & Ecology
 GA AZ207
 UT WOS:A1975AZ20700008
-DA 2020-07-17
+DA 2020-07-23
 ER
 
 PT J
@@ -3848,7 +3848,7 @@ WC Ecology
 SC Environmental Sciences & Ecology
 GA AZ207
 UT WOS:A1975AZ20700009
-DA 2020-07-17
+DA 2020-07-23
 ER
 
 PT J
@@ -3901,7 +3901,7 @@ WC Ecology
 SC Environmental Sciences & Ecology
 GA AZ207
 UT WOS:A1975AZ20700010
-DA 2020-07-17
+DA 2020-07-23
 ER
 
 PT J
@@ -3935,7 +3935,7 @@ WC Ecology
 SC Environmental Sciences & Ecology
 GA AZ207
 UT WOS:A1975AZ20700011
-DA 2020-07-17
+DA 2020-07-23
 ER
 
 PT J
@@ -3969,7 +3969,7 @@ WC Ecology
 SC Environmental Sciences & Ecology
 GA AZ207
 UT WOS:A1975AZ20700012
-DA 2020-07-17
+DA 2020-07-23
 ER
 
 PT J
@@ -3984,8 +3984,8 @@ LA English
 DT Article
 C1 UNIV ARIZONA,TUCSON,AZ 85721.
 NR 15
-TC 126
-Z9 130
+TC 127
+Z9 131
 U1 0
 U2 2
 PU ECOLOGICAL SOC AMER
@@ -4005,7 +4005,7 @@ WC Ecology
 SC Environmental Sciences & Ecology
 GA AZ207
 UT WOS:A1975AZ20700013
-DA 2020-07-17
+DA 2020-07-23
 ER
 
 PT J
@@ -4042,7 +4042,7 @@ WC Ecology
 SC Environmental Sciences & Ecology
 GA AZ207
 UT WOS:A1975AZ20700014
-DA 2020-07-17
+DA 2020-07-23
 ER
 
 PT J
@@ -4057,7 +4057,7 @@ C1 RUTGERS STATE UNIV,DEPT BOT,NEW BRUNSWICK,NJ 08903.
 NR 53
 TC 71
 Z9 75
-U1 1
+U1 0
 U2 11
 PU ECOLOGICAL SOC AMER
 PI WASHINGTON
@@ -4076,7 +4076,7 @@ WC Ecology
 SC Environmental Sciences & Ecology
 GA AZ207
 UT WOS:A1975AZ20700015
-DA 2020-07-17
+DA 2020-07-23
 ER
 
 PT J
@@ -4109,7 +4109,7 @@ WC Ecology
 SC Environmental Sciences & Ecology
 GA AZ207
 UT WOS:A1975AZ20700016
-DA 2020-07-17
+DA 2020-07-23
 ER
 
 PT J
@@ -4145,7 +4145,7 @@ WC Ecology
 SC Environmental Sciences & Ecology
 GA AZ207
 UT WOS:A1975AZ20700017
-DA 2020-07-17
+DA 2020-07-23
 ER
 
 PT J
@@ -4178,7 +4178,7 @@ WC Ecology
 SC Environmental Sciences & Ecology
 GA AZ207
 UT WOS:A1975AZ20700018
-DA 2020-07-17
+DA 2020-07-23
 ER
 
 PT J
@@ -4211,7 +4211,7 @@ WC Ecology
 SC Environmental Sciences & Ecology
 GA AZ207
 UT WOS:A1975AZ20700019
-DA 2020-07-17
+DA 2020-07-23
 ER
 
 PT J
@@ -4248,7 +4248,7 @@ WC Ecology
 SC Environmental Sciences & Ecology
 GA AZ207
 UT WOS:A1975AZ20700020
-DA 2020-07-17
+DA 2020-07-23
 ER
 
 PT J
@@ -4284,7 +4284,7 @@ WC Ecology
 SC Environmental Sciences & Ecology
 GA AZ207
 UT WOS:A1975AZ20700021
-DA 2020-07-17
+DA 2020-07-23
 ER
 
 PT J
@@ -4322,7 +4322,7 @@ WC Ecology
 SC Environmental Sciences & Ecology
 GA AZ207
 UT WOS:A1975AZ20700022
-DA 2020-07-17
+DA 2020-07-23
 ER
 
 PT J
@@ -4358,7 +4358,7 @@ WC Ecology
 SC Environmental Sciences & Ecology
 GA BF702
 UT WOS:A1975BF70200002
-DA 2020-07-17
+DA 2020-07-23
 ER
 
 PT J
@@ -4391,7 +4391,7 @@ WC Ecology
 SC Environmental Sciences & Ecology
 GA BF702
 UT WOS:A1975BF70200003
-DA 2020-07-17
+DA 2020-07-23
 ER
 
 PT J
@@ -4426,7 +4426,7 @@ WC Ecology
 SC Environmental Sciences & Ecology
 GA BF702
 UT WOS:A1975BF70200004
-DA 2020-07-17
+DA 2020-07-23
 ER
 
 PT J
@@ -4460,7 +4460,7 @@ WC Ecology
 SC Environmental Sciences & Ecology
 GA BF702
 UT WOS:A1975BF70200005
-DA 2020-07-17
+DA 2020-07-23
 ER
 
 PT J
@@ -4494,7 +4494,7 @@ WC Ecology
 SC Environmental Sciences & Ecology
 GA BF702
 UT WOS:A1975BF70200006
-DA 2020-07-17
+DA 2020-07-23
 ER
 
 PT J
@@ -4529,7 +4529,7 @@ WC Ecology
 SC Environmental Sciences & Ecology
 GA BF702
 UT WOS:A1975BF70200007
-DA 2020-07-17
+DA 2020-07-23
 ER
 
 PT J
@@ -4567,7 +4567,7 @@ WC Ecology
 SC Environmental Sciences & Ecology
 GA BF702
 UT WOS:A1975BF70200008
-DA 2020-07-17
+DA 2020-07-23
 ER
 
 PT J
@@ -4583,7 +4583,7 @@ OI Bratton, Susan/0000-0002-9254-5491
 NR 38
 TC 132
 Z9 142
-U1 4
+U1 3
 U2 35
 PU WILEY-BLACKWELL
 PI HOBOKEN
@@ -4603,7 +4603,7 @@ WC Ecology
 SC Environmental Sciences & Ecology
 GA BF702
 UT WOS:A1975BF70200009
-DA 2020-07-17
+DA 2020-07-23
 ER
 
 PT J
@@ -4637,7 +4637,7 @@ WC Ecology
 SC Environmental Sciences & Ecology
 GA BF702
 UT WOS:A1975BF70200010
-DA 2020-07-17
+DA 2020-07-23
 ER
 
 PT J
@@ -4675,7 +4675,7 @@ WC Ecology
 SC Environmental Sciences & Ecology
 GA BF702
 UT WOS:A1975BF70200011
-DA 2020-07-17
+DA 2020-07-23
 ER
 
 PT J
@@ -4711,7 +4711,7 @@ WC Ecology
 SC Environmental Sciences & Ecology
 GA BF702
 UT WOS:A1975BF70200012
-DA 2020-07-17
+DA 2020-07-23
 ER
 
 PT J
@@ -4748,7 +4748,7 @@ WC Ecology
 SC Environmental Sciences & Ecology
 GA BF702
 UT WOS:A1975BF70200013
-DA 2020-07-17
+DA 2020-07-23
 ER
 
 PT J
@@ -4781,7 +4781,7 @@ WC Ecology
 SC Environmental Sciences & Ecology
 GA BF702
 UT WOS:A1975BF70200014
-DA 2020-07-17
+DA 2020-07-23
 ER
 
 PT J
@@ -4815,7 +4815,7 @@ WC Ecology
 SC Environmental Sciences & Ecology
 GA BF702
 UT WOS:A1975BF70200015
-DA 2020-07-17
+DA 2020-07-23
 ER
 
 PT J
@@ -4853,7 +4853,7 @@ WC Ecology
 SC Environmental Sciences & Ecology
 GA BF702
 UT WOS:A1975BF70200016
-DA 2020-07-17
+DA 2020-07-23
 ER
 
 PT J
@@ -4887,7 +4887,7 @@ WC Ecology
 SC Environmental Sciences & Ecology
 GA BF702
 UT WOS:A1975BF70200017
-DA 2020-07-17
+DA 2020-07-23
 ER
 
 PT J
@@ -4925,7 +4925,7 @@ WC Ecology
 SC Environmental Sciences & Ecology
 GA BF702
 UT WOS:A1975BF70200018
-DA 2020-07-17
+DA 2020-07-23
 ER
 
 PT J
@@ -4963,7 +4963,7 @@ WC Ecology
 SC Environmental Sciences & Ecology
 GA BF702
 UT WOS:A1975BF70200019
-DA 2020-07-17
+DA 2020-07-23
 ER
 
 PT J
@@ -4998,7 +4998,7 @@ WC Ecology
 SC Environmental Sciences & Ecology
 GA BF702
 UT WOS:A1975BF70200020
-DA 2020-07-17
+DA 2020-07-23
 ER
 
 PT J
@@ -5031,7 +5031,7 @@ WC Ecology
 SC Environmental Sciences & Ecology
 GA BF702
 UT WOS:A1975BF70200021
-DA 2020-07-17
+DA 2020-07-23
 ER
 
 PT J
@@ -5067,7 +5067,7 @@ WC Ecology
 SC Environmental Sciences & Ecology
 GA BF702
 UT WOS:A1975BF70200022
-DA 2020-07-17
+DA 2020-07-23
 ER
 
 PT J
@@ -5107,7 +5107,7 @@ WC Ecology
 SC Environmental Sciences & Ecology
 GA BF702
 UT WOS:A1975BF70200023
-DA 2020-07-17
+DA 2020-07-23
 ER
 
 EF

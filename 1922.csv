@@ -1,0 +1,50 @@
+"","authorID","groupID","match_name","matchID","similarity","confidence","flagged","AU","AF","author_order","address","RP_address","RI","OI","EM","refID","TA","SO","UT","PT","PU","PY","university","country","state","postal_code","city","department","year"
+"1",1,1,NA,NA,NA,NA,0,"Redway, JW","Redway, JW",1,"Meteorol Lab, Mt Vernon, NY USA.",NA,NA,NA,NA,1,"City street dust and infectious diseases","ECOLOGY","WOS:000200173000001","J","ECOLOGICAL SOC AMER","1922","meteorol lab","usa","ny",NA,"mt vernon",NA,1922
+"2",2,2,NA,NA,NA,NA,0,"Cooper, WS","Cooper, WS",1,"Univ Minnesota, Minneapolis, MN USA.",NA,NA,NA,NA,2,"The ecological life history of certain species of ribes and its
+application to the control of the white pine blister rust","ECOLOGY","WOS:000200173000002","J","ECOLOGICAL SOC AMER","1922","univ minnesota","usa","mn",NA,"minneapolis",NA,1922
+"3",3,3,NA,NA,NA,NA,0,"Robertson, C","Robertson, C",1,"Could not be extracted",NA,NA,NA,NA,3,"The sunflower and its insect visitors","ECOLOGY","WOS:000200173000003","J","ECOLOGICAL SOC AMER","1922",NA,NA,NA,NA,NA,NA,1922
+"4",4,4,NA,NA,NA,NA,0,"Jewell, ME","Jewell, ME",1,"Could not be extracted",NA,NA,NA,NA,4,"The fauna of an acid stream","ECOLOGY","WOS:000200173000004","J","ECOLOGICAL SOC AMER","1922",NA,NA,NA,NA,NA,NA,1922
+"5",5,5,NA,NA,NA,NA,0,"Dice, LR","Dice, LR",1,"Univ Michigan, Museum Zool, Ann Arbor, MI USA.",NA,NA,NA,NA,5,"Some factors affecting the distribution of the prairie vole, forest deer
+mouse, and prairie deer mouse","ECOLOGY","WOS:000200173000005","J","ECOLOGICAL SOC AMER","1922","univ michigan","usa","mi",NA,"ann arbor",NA,1922
+"6",6,6,NA,NA,NA,NA,0,"Jackson, CF","Jackson, CF",1,"Could not be extracted",NA,NA,NA,NA,6,"Ecological features of Great Bay, New Hampshire, and a preliminary
+checklist of its fish","ECOLOGY","WOS:000200173000006","J","ECOLOGICAL SOC AMER","1922",NA,NA,NA,NA,NA,NA,1922
+"7",7,7,NA,NA,NA,NA,0,"Essenberg, CE","Essenberg, CE",1,"Could not be extracted",NA,NA,NA,NA,7,"The seasonal distribution of the appendicularia in the region of San
+Diego, California","ECOLOGY","WOS:000200173000007","J","ECOLOGICAL SOC AMER","1922",NA,NA,NA,NA,NA,NA,1922
+"8",8,8,NA,NA,NA,NA,0,"Moore, B","Moore, B",1,"Could not be extracted",NA,NA,NA,NA,8,"Influence of certain soil factors on the growth of tree seedlings and
+wheat","ECOLOGY","WOS:000200173000008","J","ECOLOGICAL SOC AMER","1922",NA,NA,NA,NA,NA,NA,1922
+"9",9,9,NA,NA,NA,NA,0,"Forbes, SA","Forbes, SA",1,"Could not be extracted",NA,NA,NA,NA,9,"The humanizing of ecology","ECOLOGY","WOS:000200173000009","J","ECOLOGICAL SOC AMER","1922",NA,NA,NA,NA,NA,NA,1922
+"10",10,10,NA,NA,NA,NA,0,"Ball, GH","Ball, GH",1,"Univ Pittsburgh, Pittsburgh, PA USA.",NA,NA,NA,NA,10,"Variation in fresh-water mussels","ECOLOGY","WOS:000200173000010","J","ECOLOGICAL SOC AMER","1922","univ pittsburgh","usa","pa",NA,"pittsburgh",NA,1922
+"11",11,11,NA,NA,NA,NA,0,"Miller, RC","Miller, RC",1,"Could not be extracted",NA,NA,NA,NA,11,"The significance of the gregarious habit","ECOLOGY","WOS:000200173000011","J","ECOLOGICAL SOC AMER","1922",NA,NA,NA,NA,NA,NA,1922
+"12",12,12,NA,NA,NA,NA,0,"Kincer, JB","Kincer, JB",1,"Could not be extracted",NA,NA,NA,NA,12,"The relation of climate to the geographic distribution of crops in the
+United States","ECOLOGY","WOS:000200173000012","J","ECOLOGICAL SOC AMER","1922",NA,NA,NA,NA,NA,NA,1922
+"13",13,13,NA,NA,NA,NA,0,"Harvey, RB","Harvey, RB",1,"Could not be extracted",NA,NA,NA,NA,13,"Varietal differences in the resistance of cabbage and lettuce to low
+temperatures","ECOLOGY","WOS:000200173000013","J","ECOLOGICAL SOC AMER","1922",NA,NA,NA,NA,NA,NA,1922
+"14",14,14,NA,NA,NA,NA,0,"Allen, WE","Allen, WE",1,"Could not be extracted",NA,NA,NA,NA,14,"Observations on surface distribution of marine diatoms between San Diego
+and Seattle","ECOLOGY","WOS:000200173000014","J","ECOLOGICAL SOC AMER","1922",NA,NA,NA,NA,NA,NA,1922
+"15",15,15,NA,NA,NA,NA,0,"Colton, HS","Colton, HS",1,"Univ Penn, Zool Lab, Philadelphia, PA USA.",NA,NA,NA,NA,15,"Variation in the dog whelk, Thais (Purpurk auct) lapillus","ECOLOGY","WOS:000200173000015","J","ECOLOGICAL SOC AMER","1922","univ penn","usa","pa",NA,"philadelphia",NA,1922
+"16",16,16,NA,NA,NA,NA,0,"Gleason, HA","Gleason, HA",1,"Could not be extracted",NA,NA,NA,NA,16,"On the relation between species and area","ECOLOGY","WOS:000200173000016","J","ECOLOGICAL SOC AMER","1922",NA,NA,NA,NA,NA,NA,1922
+"17",17,26,NA,26,NA,NA,0,"Novakovsky, S","Novakovsky, S",1,"Clark Univ, Worcester, MA USA.",NA,NA,NA,NA,17,"The probable effect of the climate of the Russian far east on human life
+and activity","ECOLOGY","WOS:000200173000018","J","ECOLOGICAL SOC AMER","1922","clark univ","usa","ma",NA,"worcester",NA,1922
+"18",18,18,NA,NA,NA,NA,0,"Shull, CA","Shull, CA",1,"Univ Kentucky, Lexington, KY USA.",NA,NA,NA,NA,18,"The formation of a new island in the Mississippi River","ECOLOGY","WOS:000200173000019","J","ECOLOGICAL SOC AMER","1922","univ kentucky","usa","ky",NA,"lexington",NA,1922
+"19",19,33,NA,33,NA,NA,0,"Rigg, GB","Rigg, GB",1,"Univ Washington, Seattle, WA USA.",NA,NA,NA,NA,19,"A bog forest","ECOLOGY","WOS:000200173000020","J","ECOLOGICAL SOC AMER","1922","univ washington","usa","wa",NA,"seattle",NA,1922
+"20",20,20,NA,NA,NA,NA,0,"Taylor, WP","Taylor, WP",1,"Could not be extracted",NA,NA,NA,NA,20,"A distributional and ecological study of Mount Rainier, Washington","ECOLOGY","WOS:000200173000021","J","ECOLOGICAL SOC AMER","1922",NA,NA,NA,NA,NA,NA,1922
+"21",21,21,NA,NA,NA,NA,0,"Crist, JW","Crist, JW",2,"Could not be extracted",NA,NA,NA,NA,21,"Relation of hardpan to root penetration in the great plains","ECOLOGY","WOS:000200173000022","J","ECOLOGICAL SOC AMER","1922",NA,NA,NA,NA,NA,NA,1922
+"22",22,22,NA,NA,NA,NA,0,"Weaver, JE","Weaver, JE",1,"Univ Nebraska, Lincoln, NE USA.",NA,NA,NA,NA,21,"Relation of hardpan to root penetration in the great plains","ECOLOGY","WOS:000200173000022","J","ECOLOGICAL SOC AMER","1922","univ nebraska","usa","ne",NA,"lincoln",NA,1922
+"23",23,23,NA,NA,NA,NA,0,"Stickney, F","Stickney, F",1,"Could not be extracted",NA,NA,NA,NA,22,"The relation of the nymphs of a dragon fly (Libellula pulchella drury)
+to acid and temperature","ECOLOGY","WOS:000200173000023","J","ECOLOGICAL SOC AMER","1922",NA,NA,NA,NA,NA,NA,1922
+"24",24,24,NA,NA,NA,NA,0,"Rowan, W","Rowan, W",1,"Could not be extracted",NA,NA,NA,NA,23,"Ecological note on the birds observed at the biological station of the
+University of Manitoba","ECOLOGY","WOS:000200173000024","J","ECOLOGICAL SOC AMER","1922",NA,NA,NA,NA,NA,NA,1922
+"25",25,25,NA,NA,NA,NA,0,"Shreve, F","Shreve, F",1,"Desert Lab, Tucson, AZ USA.",NA,NA,NA,NA,24,"Conditions indirectly affecting vertical distribution on desert
+mountains","ECOLOGY","WOS:000200173000025","J","ECOLOGICAL SOC AMER","1922","desert lab","usa","az",NA,"tucson",NA,1922
+"26",26,26,NA,NA,NA,NA,0,"Novakovsky, S","Novakovsky, S",1,"Clark Univ, Worcester, MA USA.",NA,NA,NA,NA,25,"The effext of climate on the efficiency of the people of the Russian Far
+East","ECOLOGY","WOS:000200173000026","J","ECOLOGICAL SOC AMER","1922","clark univ","usa","ma",NA,"worcester",NA,1922
+"27",27,27,NA,NA,NA,NA,0,"Pearson, GA","Pearson, GA",1,"Could not be extracted",NA,NA,NA,NA,26,"Preservation of natural areas in the national forests","ECOLOGY","WOS:000200173000027","J","ECOLOGICAL SOC AMER","1922",NA,NA,NA,NA,NA,NA,1922
+"28",28,28,NA,NA,NA,NA,0,"Hayes, WP","Hayes, WP",2,"Could not be extracted",NA,NA,NA,NA,27,"The reciprocal relation of soil and insects","ECOLOGY","WOS:000200173000028","J","ECOLOGICAL SOC AMER","1922",NA,NA,NA,NA,NA,NA,1922
+"29",29,29,NA,NA,NA,NA,0,"McColloch, JW","McColloch, JW",1,"Could not be extracted",NA,NA,NA,NA,27,"The reciprocal relation of soil and insects","ECOLOGY","WOS:000200173000028","J","ECOLOGICAL SOC AMER","1922",NA,NA,NA,NA,NA,NA,1922
+"30",30,30,NA,NA,NA,NA,0,"Larsen, JA","Larsen, JA",1,"Could not be extracted",NA,NA,NA,NA,28,"Effect of removal of the virgin white pine stand upon the physical
+factors of site","ECOLOGY","WOS:000200173000029","J","ECOLOGICAL SOC AMER","1922",NA,NA,NA,NA,NA,NA,1922
+"31",31,31,NA,NA,NA,NA,0,"Sanders, NJ","Sanders, NJ",1,"Could not be extracted",NA,NA,NA,NA,29,"A quantitative and seasonal study of a pine-dune animal community","ECOLOGY","WOS:000200173000030","J","ECOLOGICAL SOC AMER","1922",NA,NA,NA,NA,NA,NA,1922
+"32",32,32,NA,NA,NA,NA,0,"Shelford, VE","Shelford, VE",2,"Could not be extracted",NA,NA,NA,NA,29,"A quantitative and seasonal study of a pine-dune animal community","ECOLOGY","WOS:000200173000030","J","ECOLOGICAL SOC AMER","1922",NA,NA,NA,NA,NA,NA,1922
+"33",33,33,NA,NA,NA,NA,0,"Rigg, GB","Rigg, GB",1,"Univ Washington, Seattle, WA USA.",NA,NA,NA,NA,30,"The sphagnum bogs of Mazama Dome","ECOLOGY","WOS:000200173000031","J","ECOLOGICAL SOC AMER","1922","univ washington","usa","wa",NA,"seattle",NA,1922
+"34",34,34,NA,NA,NA,NA,0,"Kennedy, CH","Kennedy, CH",1,"Ohio State Univ, Columbus, OH USA.",NA,NA,NA,NA,31,"The ecological relationships of the dragonflies of the Bass islands of
+Lake Erie","ECOLOGY","WOS:000200173000032","J","ECOLOGICAL SOC AMER","1922","ohio state univ","usa","oh",NA,"columbus",NA,1922
