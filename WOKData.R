@@ -12,7 +12,7 @@ library (maps)
 # From https://github.com/ropensci/refsplitr
 # load the Web of Science records into a dataframe
 
-dat1 <- references_read(data = "2019.txt")
+dat1 <- references_read(data = "2000.txt")
 
 
 # disambiguate author names and parse author address
@@ -22,12 +22,12 @@ dat2 <- authors_clean(references = dat1)
 dat3 <- authors_refine(dat2$review, dat2$prelim)
 
 #Add year column to datasets and save as csv
-dat3$year <- 2019
-write.csv(dat3, "2019.csv")
-head(2019) 
-dat3 <- read.csv ("2019.csv")
+dat3$year <- 2000
+write.csv(dat3, "2000.csv")
+head(2000) 
+dat3 <- read.csv ("2000.csv")
 
-
+WOK1960
 # georeference the author locations
 dat4 <- authors_georef(dat3)
 
@@ -40,7 +40,7 @@ ex.
 # From https://github.com/tidyverse/ggplot2
 
 # Bar graph of one year, x = year, y= country (NAs still present)- prelim graph
-ggplot (WOK1940, aes (x = year, fill = country)) + geom_bar (position = "fill")
+ggplot (WOK2019, aes (x = year, fill = country)) + geom_bar (position = "fill")
 
 #Bar graph for multiple years, x= year, y = country (NAs still present)- prelim graph
 dat <- rbind(WOK1921, WOK2019)
@@ -51,7 +51,10 @@ ggplot (dat, aes (x = year, fill = country )) + geom_bar (position = "fill", wid
 
 ## Subsetting to only first author and filling in NAs manually ####
 #subsetting first author
-firstauth <- subset (WOK1940, author_order == 1) 
+firstauth <- subset (WOK2019, author_order == 1) 
+
+ggplot (firstauth, aes (x = year, fill = country)) + geom_bar (position = "fill")
+
 
 #check to see if it was done
 firstauth
@@ -74,17 +77,17 @@ library(StandardizeText)
 colnames (firstauth)
 
 #Add new column iso which contians the standardized names based on country
-WOK1940$iso <- standardize.countrynames (WOK1940$country, standard = "iso", suggest = "auto") #wales, scotland, england
+WOK2000$iso <- standardize.countrynames (WOK2000$country, standard = "iso", suggest = "auto") #wales, scotland, england
 
 #Ensure all names in iso now match to WDI database
-unique (WOK1940$iso)
+unique (WOK2000$iso)
 
 #If not, manually change names 
 WOK1980$iso[WOK1980$iso == "Venezuela"] <- "Venezuela, RB"
-WOK1940$iso[WOK1940$iso == "australia"] <- "Australia"
-WOK1940$iso[WOK1940$iso == "USA"] <- "United States"
-WOK1940$iso[WOK1940$iso == "usa"] <- "United States"
-WOK1940$iso[WOK1940$iso == "uk"] <- "United Kingdom"
+WOK2000$iso[WOK1940$iso == "australia"] <- "Australia"
+WOK194$iso[WOK1940$iso == "USA"] <- "United States"
+WOK2000$iso[WOK2000$iso == "usa"] <- "United States"
+WOK2000$iso[WOK2000$iso == "scotland"] <- "United Kingdom"
 WOK1980$iso[WOK1980$iso == "canada"] <- "Canada"
 WOK1980$iso[WOK1980$iso == "fed rep ger"] <- "Germany"
 WOK2019
@@ -109,16 +112,16 @@ read_csv(edited-1921.csv)
 View(WOK2019)
 
 
-WOK1940$country <- NULL
+WOK2000$country <- NULL
 
-first_wdi <- merge (WOK1940, wdi, by = "iso", all.x = T)
+first_wdi <- merge (WOK2000, wdi, by = "iso", all.x = T)
 first_wdi <- merge ()
 
 WOK1980
 #After checking iso, change iso column name to country and delete country column
 
-names(WOK1940)[names(WOK1940) == "iso"] <- "country"
-names(WOK1940)[names(WOK1940) == "country"] <- "iso"
+names(WOK2000)[names(WOK2000) == "iso"] <- "country"
+names(WOK2000)[names(WOK2000) == "country"] <- "iso"
 
 ggplot (first_wdi, aes (x =year, fill = income)) + 
   geom_bar (position = "fill")
@@ -138,7 +141,8 @@ fill in missing data(
   MERGE WITH WDI
 )
 
-write.csv(first_wdi,"1980-iso.csv")
+write.csv(first_wdi,"2000-iso.csv")
+write.csv(firstauth,"edited-2000.csv")
 
 chi-sqr- differnce between countries
 linesar regression- gives us changes over time(
