@@ -40,7 +40,7 @@ ex.
 # From https://github.com/tidyverse/ggplot2
 
 # Bar graph of one year, x = year, y= country (NAs still present)- prelim graph
-ggplot (WOK2019, aes (x = year, fill = country)) + geom_bar (position = "fill")
+ggplot (WOK1960, aes (x = year, fill = country)) + geom_bar (position = "fill")
 
 #Bar graph for multiple years, x= year, y = country (NAs still present)- prelim graph
 dat <- rbind(WOK1921, WOK2019)
@@ -51,7 +51,7 @@ ggplot (dat, aes (x = year, fill = country )) + geom_bar (position = "fill", wid
 
 ## Subsetting to only first author and filling in NAs manually ####
 #subsetting first author
-firstauth <- subset (WOK2019, author_order == 1) 
+firstauth <- subset (WOK1960, author_order == 1) 
 
 ggplot (firstauth, aes (x = year, fill = country)) + geom_bar (position = "fill")
 
@@ -74,18 +74,18 @@ ex. firstauth -> edited-1960.csv
 library(StandardizeText)
 
 #check column names is dataset#
-colnames (firstauth)
+colnames (WOK1960)
 
 #Add new column iso which contians the standardized names based on country
-WOK2000$iso <- standardize.countrynames (WOK2000$country, standard = "iso", suggest = "auto") #wales, scotland, england
+WOK1960$iso <- standardize.countrynames (WOK1960$country, standard = "iso", suggest = "auto") #wales, scotland, england
 
 #Ensure all names in iso now match to WDI database
-unique (WOK2000$iso)
+unique (WOK1960$iso)
 
 #If not, manually change names 
 WOK1980$iso[WOK1980$iso == "Venezuela"] <- "Venezuela, RB"
 WOK2000$iso[WOK1940$iso == "australia"] <- "Australia"
-WOK194$iso[WOK1940$iso == "USA"] <- "United States"
+WOK1960$iso[WOK1960$iso == "USA"] <- "United States"
 WOK2000$iso[WOK2000$iso == "usa"] <- "United States"
 WOK2000$iso[WOK2000$iso == "scotland"] <- "United Kingdom"
 WOK1980$iso[WOK1980$iso == "canada"] <- "Canada"
@@ -112,16 +112,16 @@ read_csv(edited-1921.csv)
 View(WOK2019)
 
 
-WOK2000$country <- NULL
+WOK1960$country <- NULL
 
-first_wdi <- merge (WOK2000, wdi, by = "iso", all.x = T)
+first_wdi <- merge (WOK1960, wdi, by = "iso", all.x = T)
 first_wdi <- merge ()
 
 WOK1980
 #After checking iso, change iso column name to country and delete country column
 
-names(WOK2000)[names(WOK2000) == "iso"] <- "country"
-names(WOK2000)[names(WOK2000) == "country"] <- "iso"
+names(WOK1960)[names(WOK1960) == "iso"] <- "country"
+names(WOK1960)[names(WOK1960) == "country"] <- "iso"
 
 ggplot (first_wdi, aes (x =year, fill = income)) + 
   geom_bar (position = "fill")
@@ -141,7 +141,7 @@ fill in missing data(
   MERGE WITH WDI
 )
 
-write.csv(first_wdi,"2000-iso.csv")
+write.csv(first_wdi,"1960-iso.csv")
 write.csv(firstauth,"edited-2000.csv")
 
 chi-sqr- differnce between countries
