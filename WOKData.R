@@ -43,11 +43,13 @@ ex.
 ggplot (WOK1960, aes (x = year, fill = country)) + geom_bar (position = "fill")
 
 #Bar graph for multiple years, x= year, y = country (NAs still present)- prelim graph
-dat <- rbind(WOK1921, WOK2019)
-
+dat <- merge(WOK1921, WOK1940, by="iso")
+dat <- merge(WOK1921, WOK1940, by="iso")
+View(dat
+     )
 dat <- as.data.frame(dat)
 
-ggplot (dat, aes (x = year, fill = country )) + geom_bar (position = "fill", width = 30)
+ggplot (dat, aes (x = year, fill = iso )) + geom_bar (position = "fill", width = 30)
 
 ## Subsetting to only first author and filling in NAs manually ####
 #subsetting first author
@@ -112,16 +114,27 @@ read_csv(edited-1921.csv)
 View(WOK2019)
 
 
-WOK1960$country <- NULL
-
-first_wdi <- merge (WOK1960, wdi, by = "iso", all.x = T)
+WOK2000$address <- NULL
+dat <- rbind(WOK1921, WOK2019)
+dat <- rbind(WOK1921, WOK1940, WOK1960, WOK1980, WOK2000, WOK2019)
+first_wdi <- merge (WOK1960,WOK1921,WOK1940,WOK1980, WOK2000, WOK2019, wdi, by = "iso", all.x = T)
 first_wdi <- merge ()
+ncol(WOK1921)
+ncol(WOK1940)
 
-WOK1980
+dat <- smartbind(WOK1921,WOK1940,WOK1960,WOK1980,WOK2000,WOK2019)
+
+library(gtools)
+View(WOK1921)
+
+View(WOK2000)
+View(WOK1980)
+View(WOK2019)
+View(WOK1960)
 #After checking iso, change iso column name to country and delete country column
 
-names(WOK1960)[names(WOK1960) == "iso"] <- "country"
-names(WOK1960)[names(WOK1960) == "country"] <- "iso"
+names(WOK1921)[names(WOK196) == "iso"] <- "country"
+names(WOK2019)[names(WOK2019) == "country"] <- "iso"
 
 ggplot (first_wdi, aes (x =year, fill = income)) + 
   geom_bar (position = "fill")
@@ -134,7 +147,7 @@ ggplot (first_wdi, aes (x =year, fill = income)) +
 #1960 color hue
 
 git push origin master --force = pushes whatever you have
-
+dat
 
 fill in missing data(
   RBIND TOGETHER
@@ -148,3 +161,5 @@ chi-sqr- differnce between countries
 linesar regression- gives us changes over time(
   differing from global south and global north 
 )
+install.packages("gtools")
+library(gtools)
